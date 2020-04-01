@@ -1,0 +1,716 @@
+type,id,bnf_code,nm
+amp,27732411000001100,0501011J0AAABAB,Benzylpenicillin 600mg powder for solution for injection vials (Genus Pharmaceuticals Ltd)
+amp,27871711000001100,0501011J0AAABAB,Benzylpenicillin 600mg powder for solution for injection vials (A A H Pharmaceuticals Ltd)
+amp,28038711000001103,0501011J0AAABAB,Benzylpenicillin 600mg powder for solution for injection vials (Alliance Healthcare (Distribution) Ltd)
+amp,27732211000001104,0501011J0AAAFAF,Benzylpenicillin 1.2g powder for solution for injection vials (Genus Pharmaceuticals Ltd)
+amp,27872411000001101,0501011J0AAAFAF,Benzylpenicillin 1.2g powder for solution for injection vials (A A H Pharmaceuticals Ltd)
+amp,28035511000001100,0501011J0AAAFAF,Benzylpenicillin 1.2g powder for solution for injection vials (Alliance Healthcare (Distribution) Ltd)
+amp,3880811000001103,0501011J0BBABAB,Crystapen 600mg powder for solution for injection vials (Thornton & Ross Ltd)
+amp,4074311000001105,0501011J0BBAFAF,Crystapen 1.2g powder for solution for injection vials (Thornton & Ross Ltd)
+amp,97911000001102,0501012G0AAACAC,Flucloxacillin 250mg powder for solution for injection vials (A A H Pharmaceuticals Ltd)
+amp,231911000001109,0501012G0AAACAC,Flucloxacillin 250mg powder for solution for injection vials (Wockhardt UK Ltd)
+amp,34753011000001106,0501012G0AAACAC,Flucloxacillin 250mg powder for solution for injection vials (Bowmed Ibisqus Ltd)
+amp,162711000001108,0501012G0AAADAD,Flucloxacillin 500mg powder for solution for injection vials (Alliance Healthcare (Distribution) Ltd)
+amp,256511000001105,0501012G0AAADAD,Flucloxacillin 500mg powder for solution for injection vials (Wockhardt UK Ltd)
+amp,390611000001106,0501012G0AAADAD,Flucloxacillin 500mg powder for solution for injection vials (A A H Pharmaceuticals Ltd)
+amp,9142811000001101,0501012G0AAADAD,Flucloxacillin 500mg powder for solution for injection vials (Britannia Pharmaceuticals Ltd)
+amp,34753211000001101,0501012G0AAADAD,Flucloxacillin 500mg powder for solution for injection vials (Bowmed Ibisqus Ltd)
+amp,36921811000001102,0501012G0AAADAD,Flucloxacillin 500mg powder for solution for injection vials (Intrapharm Laboratories Ltd)
+amp,661411000001106,0501012G0AAAEAE,Flucloxacillin 1g powder for solution for injection vials (A A H Pharmaceuticals Ltd)
+amp,858411000001101,0501012G0AAAEAE,Flucloxacillin 1g powder for solution for injection vials (Wockhardt UK Ltd)
+amp,9143111000001102,0501012G0AAAEAE,Flucloxacillin 1g powder for solution for injection vials (Britannia Pharmaceuticals Ltd)
+amp,34752811000001108,0501012G0AAAEAE,Flucloxacillin 1g powder for solution for injection vials (Bowmed Ibisqus Ltd)
+amp,36921411000001104,0501012G0AAAEAE,Flucloxacillin 1g powder for solution for injection vials (Intrapharm Laboratories Ltd)
+amp,34753511000001103,0501012G0AAARAR,Flucloxacillin 2g powder for solution for injection vials (Bowmed Ibisqus Ltd)
+amp,865811000001104,0501012G0BBAEAC,Floxapen 250mg powder for solution for injection vials (GlaxoSmithKline UK Ltd)
+amp,324711000001103,0501012G0BBAFAD,Floxapen 500mg powder for solution for injection vials (GlaxoSmithKline UK Ltd)
+amp,419411000001108,0501012G0BBAGAE,Floxapen 1g powder for solution for injection vials (GlaxoSmithKline UK Ltd)
+amp,9549311000001107,0501012U0BCAAAB,Negaban 1g powder for solution for injection vials (Eumedica Pharmaceuticals)
+amp,90411000001106,0501013C0AAACAC,Amoxicillin 250mg powder for solution for injection vials (A A H Pharmaceuticals Ltd)
+amp,283611000001108,0501013C0AAACAC,Amoxicillin 250mg powder for solution for injection vials (Wockhardt UK Ltd)
+amp,34748011000001101,0501013C0AAACAC,Amoxicillin 250mg powder for solution for injection vials (Bowmed Ibisqus Ltd)
+amp,719311000001108,0501013C0AAADAD,Amoxicillin 500mg powder for solution for injection vials (Wockhardt UK Ltd)
+amp,834911000001101,0501013C0AAADAD,Amoxicillin 500mg powder for solution for injection vials (A A H Pharmaceuticals Ltd)
+amp,34748211000001106,0501013C0AAADAD,Amoxicillin 500mg powder for solution for injection vials (Bowmed Ibisqus Ltd)
+amp,144611000001100,0501013C0AAAEAE,Amoxicillin 1g powder for solution for injection vials (Wockhardt UK Ltd)
+amp,279111000001107,0501013C0AAAEAE,Amoxicillin 1g powder for solution for injection vials (A A H Pharmaceuticals Ltd)
+amp,34748411000001105,0501013C0AAAEAE,Amoxicillin 1g powder for solution for injection vials (Bowmed Ibisqus Ltd)
+amp,388911000001104,0501013C0BCAAAC,Amoxil 250mg powder for solution for injection vials (GlaxoSmithKline UK Ltd)
+amp,120411000001106,0501013C0BCABAD,Amoxil 500mg powder for solution for injection vials (GlaxoSmithKline UK Ltd)
+amp,71111000001101,0501013C0BCACAE,Amoxil 1g powder for solution for injection vials (GlaxoSmithKline UK Ltd)
+amp,9505311000001100,0501013E0AAADAD,Ampicillin 500mg powder for solution for injection vials (Essential Generics Ltd)
+amp,9725711000001105,0501013E0AAADAD,Ampicillin 500mg powder for solution for injection vials (Alliance Healthcare (Distribution) Ltd)
+amp,10355811000001100,0501013E0AAADAD,Ampicillin 500mg powder for solution for injection vials (A A H Pharmaceuticals Ltd)
+amp,414211000001105,0501013E0BEAHAD,Penbritin 500mg powder for solution for injection vials (Chemidex Pharma Ltd)
+amp,5488611000001104,0501013K0AAAEAE,Co-amoxiclav 500mg/100mg powder for solution for injection vials (Wockhardt UK Ltd)
+amp,10219611000001104,0501013K0AAAEAE,Co-amoxiclav 500mg/100mg powder for solution for injection vials (PLIVA Pharma Ltd)
+amp,10530611000001105,0501013K0AAAEAE,Co-amoxiclav 500mg/100mg powder for solution for injection vials (Teva UK Ltd)
+amp,18757611000001105,0501013K0AAAEAE,Co-amoxiclav 500mg/100mg powder for solution for injection vials (A A H Pharmaceuticals Ltd)
+amp,34752211000001107,0501013K0AAAEAE,Co-amoxiclav 500mg/100mg powder for solution for injection vials (Bowmed Ibisqus Ltd)
+amp,36626111000001101,0501013K0AAAEAE,Co-amoxiclav 500mg/100mg powder for solution for injection vials (Sandoz Ltd)
+amp,5489611000001108,0501013K0AAAFAF,Co-amoxiclav 1000mg/200mg powder for solution for injection vials (Wockhardt UK Ltd)
+amp,10219211000001101,0501013K0AAAFAF,Co-amoxiclav 1000mg/200mg powder for solution for injection vials (PLIVA Pharma Ltd)
+amp,10531011000001107,0501013K0AAAFAF,Co-amoxiclav 1000mg/200mg powder for solution for injection vials (Teva UK Ltd)
+amp,19570811000001107,0501013K0AAAFAF,Co-amoxiclav 1000mg/200mg powder for solution for injection vials (A A H Pharmaceuticals Ltd)
+amp,30347811000001105,0501013K0AAAFAF,Co-amoxiclav 1000mg/200mg powder for solution for injection vials (Peckforton Pharmaceuticals Ltd)
+amp,34752411000001106,0501013K0AAAFAF,Co-amoxiclav 1000mg/200mg powder for solution for injection vials (Bowmed Ibisqus Ltd)
+amp,36626911000001103,0501013K0AAAFAF,Co-amoxiclav 1000mg/200mg powder for solution for injection vials (Sandoz Ltd)
+amp,37830211000001102,0501013K0AAAFAF,Co-amoxiclav 1000mg/200mg powder for solution for injection vials (Intrapharm Laboratories Ltd)
+amp,549911000001100,0501013K0BBACAE,Augmentin Intravenous 600mg powder for solution for injection vials (GlaxoSmithKline UK Ltd)
+amp,871511000001109,0501013K0BBAHAF,Augmentin Intravenous 1.2g powder for solution for injection vials (GlaxoSmithKline UK Ltd)
+amp,21710711000001103,0501013L0AAABAB,Co-fluampicil 250mg/250mg powder for solution for injection vials (Wockhardt UK Ltd)
+amp,473311000001105,0501013L0BBABAB,Magnapen 500mg powder for solution for injection vials (Wockhardt UK Ltd)
+amp,4413311000001105,0501014N0BBACAC,Timentin 3.2g powder for solution for infusion vials (GlaxoSmithKline UK Ltd)
+amp,15442611000001107,0501014S0AAAAAA,Piperacillin 2g / Tazobactam 250mg powder for solution for infusion vials (Wockhardt UK Ltd)
+amp,15519011000001107,0501014S0AAAAAA,Piperacillin 2g / Tazobactam 250mg powder for solution for injection vials (Hospira UK Ltd)
+amp,16733411000001109,0501014S0AAAAAA,Piperacillin 2g / Tazobactam 250mg powder for solution for injection vials (A A H Pharmaceuticals Ltd)
+amp,18781411000001105,0501014S0AAAAAA,Piperacillin 2g / Tazobactam 250mg powder for solution for injection vials (Actavis UK Ltd)
+amp,19519511000001106,0501014S0AAAAAA,Piperacillin 2g / Tazobactam 250mg powder for solution for injection vials (Mylan)
+amp,22599711000001106,0501014S0AAAAAA,Piperacillin 2g / Tazobactam 250mg powder for solution for injection vials (Pfizer Ltd)
+amp,24014211000001106,0501014S0AAAAAA,Piperacillin 2g / Tazobactam 250mg powder for solution for injection vials (Sandoz Ltd)
+amp,34755211000001102,0501014S0AAAAAA,Piperacillin 2g / Tazobactam 250mg powder for solution for infusion vials (Bowmed Ibisqus Ltd)
+amp,36607511000001104,0501014S0AAAAAA,Piperacillin 2g / Tazobactam 250mg powder for solution for infusion vials (Stragen UK Ltd)
+amp,36612211000001103,0501014S0AAAAAA,Piperacillin 2g / Tazobactam 250mg powder for solution for infusion vials (Fresenius Kabi Ltd)
+amp,15442811000001106,0501014S0AAABAB,Piperacillin 4g / Tazobactam 500mg powder for solution for infusion vials (Wockhardt UK Ltd)
+amp,17899511000001103,0501014S0AAABAB,Piperacillin 4g / Tazobactam 500mg powder for solution for injection vials (A A H Pharmaceuticals Ltd)
+amp,18166311000001101,0501014S0AAABAB,Piperacillin 4g / Tazobactam 500mg powder for solution for injection vials (Actavis UK Ltd)
+amp,19518711000001105,0501014S0AAABAB,Piperacillin 4g / Tazobactam 500mg powder for solution for infusion vials (Mylan)
+amp,22599211000001104,0501014S0AAABAB,Piperacillin 4g / Tazobactam 500mg powder for solution for injection vials (Pfizer Ltd)
+amp,34680211000001108,0501014S0AAABAB,Piperacillin 4g / Tazobactam 500mg powder for solution for infusion vials (Milpharm Ltd)
+amp,34755411000001103,0501014S0AAABAB,Piperacillin 4g / Tazobactam 500mg powder for solution for infusion vials (Bowmed Ibisqus Ltd)
+amp,36607211000001102,0501014S0AAABAB,Piperacillin 4g / Tazobactam 500mg powder for solution for infusion vials (Stragen UK Ltd)
+amp,36611611000001107,0501014S0AAABAB,Piperacillin 4g / Tazobactam 500mg powder for solution for infusion vials (Fresenius Kabi Ltd)
+amp,36798311000001102,0501014S0AAABAB,Piperacillin 4g / Tazobactam 500mg powder for solution for infusion vials (Sandoz Ltd)
+amp,4437611000001103,0501014S0BBAAAA,Tazocin 2g/0.25g powder for solution for infusion vials (Pfizer Ltd)
+amp,4437911000001109,0501014S0BBABAB,Tazocin 4g/0.5g powder for solution for infusion vials (Pfizer Ltd)
+amp,4641311000001103,0501014S0BBACAC,Tazocin 4.5g powder and solvent for solution for injection intravenous infusion pack (Wyeth Pharmaceuticals)
+amp,4597311000001106,050102020BBAAAA,Cefrom 1g powder for solution for injection vials (Aventis Pharma)
+amp,4597911000001107,050102020BBABAB,Cefrom 2g powder for solution for injection vials (Aventis Pharma)
+amp,36456811000001106,0501020ADBBAAAA,Renapime 1g powder for solution for injection vials (Renascience Pharma Ltd)
+amp,36457111000001101,0501020ADBBABAB,Renapime 2g powder for solution for injection vials (Renascience Pharma Ltd)
+amp,4452211000001104,0501020T0BBABAB,Kefadol 1g powder for solution for injection vials (Dista Products Ltd)
+amp,37987711000001105,0501020V0AAABAB,Cefazolin 1g powder for solution for injection vials (Kent Pharmaceuticals Ltd)
+amp,33627411000001104,0501020V0AAACAC,Cefazolin 2g powder for solution for injection vials (Imported (Germany))
+amp,34800611000001101,0501020V0AAACAC,Cefazolin 2g powder for solution for injection vials (Special Order)
+amp,36515811000001100,0501020V0AAADAD,Cefazolin 2g powder for solution for injection vials (MIP Pharma GmbH)
+amp,37986811000001104,0501020V0AAADAD,Cefazolin 2g powder for solution for injection vials (Kent Pharmaceuticals Ltd)
+amp,7654711000001109,0501020V0BBAAAA,Kefzol 500mg powder for solution for injection vials (Eli Lilly and Company Ltd)
+amp,4981711000001108,0501020V0BBABAB,Kefzol 1g powder for solution for injection vials (Eli Lilly and Company Ltd)
+amp,4532411000001106,0501021D0AAAAAA,Cefotaxime 500mg powder for solution for injection vials (Wockhardt UK Ltd)
+amp,4532811000001108,0501021D0AAAAAA,Cefotaxime 500mg powder for solution for injection vials (Genus Pharmaceuticals Ltd)
+amp,13611511000001101,0501021D0AAAAAA,Cefotaxime 500mg powder for solution for injection vials (A A H Pharmaceuticals Ltd)
+amp,27971011000001109,0501021D0AAAAAA,Cefotaxime 500mg powder for solution for injection vials (Lupin Healthcare (UK) Ltd)
+amp,34750011000001101,0501021D0AAAAAA,Cefotaxime 500mg powder for solution for injection vials (Bowmed Ibisqus Ltd)
+amp,3940211000001103,0501021D0AAABAB,Cefotaxime 1g powder for solution for injection vials (Wockhardt UK Ltd)
+amp,3940811000001102,0501021D0AAABAB,Cefotaxime 1g powder for solution for injection vials (Genus Pharmaceuticals Ltd)
+amp,13611811000001103,0501021D0AAABAB,Cefotaxime 1g powder for solution for injection vials (A A H Pharmaceuticals Ltd)
+amp,27969111000001102,0501021D0AAABAB,Cefotaxime 1g powder for solution for injection vials (Lupin Healthcare (UK) Ltd)
+amp,34749811000001100,0501021D0AAABAB,Cefotaxime 1g powder for solution for injection vials (Bowmed Ibisqus Ltd)
+amp,36516011000001102,0501021D0AAABAB,Cefotaxime 1g powder for solution for injection vials (MIP Pharma GmbH)
+amp,4533711000001108,0501021D0AAACAC,Cefotaxime 2g powder for solution for injection vials (Wockhardt UK Ltd)
+amp,4533911000001105,0501021D0AAACAC,Cefotaxime 2g powder for solution for injection vials (Genus Pharmaceuticals Ltd)
+amp,13612211000001106,0501021D0AAACAC,Cefotaxime 2g powder for solution for injection vials (A A H Pharmaceuticals Ltd)
+amp,27969611000001105,0501021D0AAACAC,Cefotaxime 2g powder for solution for injection vials (Lupin Healthcare (UK) Ltd)
+amp,36516211000001107,0501021D0AAACAC,Cefotaxime 2g powder for solution for injection vials (MIP Pharma GmbH)
+amp,4532011000001102,0501021D0BBAAAA,Claforan 500mg powder for solution for injection vials (Sanofi)
+amp,3939811000001107,0501021D0BBABAB,Claforan 1g powder for solution for injection vials (Sanofi)
+amp,4533411000001102,0501021D0BBACAC,Claforan 2g powder for solution for injection vials (Sanofi)
+amp,28788511000001103,0501021E0AAAAAA,Cefoxitin 1g powder for solution for injection vials (Imported (Canada))
+amp,28788811000001100,0501021E0AAABAB,Cefoxitin 2g powder for solution for injection vials (Imported (Canada))
+amp,34800911000001107,0501021E0AAADAD,Cefoxitin 1g powder for solution for injection vials (Special Order)
+amp,34801211000001109,0501021E0AAAEAE,Cefoxitin 2g powder for solution for injection vials (Special Order)
+amp,4375311000001105,0501021E0BBAAAA,Mefoxin 1g powder for solution for injection vials (Merck Sharp & Dohme Ltd)
+amp,4376311000001100,0501021E0BBABAB,Mefoxin 2g powder for solution for injection vials (Merck Sharp & Dohme Ltd)
+amp,37528311000001105,0501021E0BCAAAD,Renoxitin 1g powder for solution for injection vials (Renascience Pharma Ltd)
+amp,37529711000001100,0501021E0BCABAE,Renoxitin 2g powder for solution for injection vials (Renascience Pharma Ltd)
+amp,13612411000001105,0501021G0AAABAB,Ceftriaxone 250mg powder for solution for injection vials (A A H Pharmaceuticals Ltd)
+amp,23047711000001101,0501021G0AAABAB,Ceftriaxone 250mg powder for solution for injection vials (Kent Pharmaceuticals Ltd)
+amp,27971211000001104,0501021G0AAABAB,Ceftriaxone 250mg powder for solution for injection vials (Lupin Healthcare (UK) Ltd)
+amp,34750811000001107,0501021G0AAABAB,Ceftriaxone 250mg powder for solution for injection vials (Bowmed Ibisqus Ltd)
+amp,3977811000001102,0501021G0AAACAC,Ceftriaxone 1g powder for solution for injection vials (A A H Pharmaceuticals Ltd)
+amp,3978011000001109,0501021G0AAACAC,Ceftriaxone 1g powder for solution for injection vials (Wockhardt UK Ltd)
+amp,3978511000001101,0501021G0AAACAC,Ceftriaxone 1g powder for solution for injection vials (Genus Pharmaceuticals Ltd)
+amp,11400311000001106,0501021G0AAACAC,Ceftriaxone 1g powder for solution for injection vials (PLIVA Pharma Ltd)
+amp,20100211000001107,0501021G0AAACAC,Ceftriaxone 1g powder for solution for injection vials (Ranbaxy (UK) Ltd)
+amp,22824911000001102,0501021G0AAACAC,Ceftriaxone 1g powder for solution for injection vials (Kent Pharmaceuticals Ltd)
+amp,32483211000001108,0501021G0AAACAC,Ceftriaxone 1g powder for solution for injection vials (Stravencon Ltd)
+amp,34751011000001105,0501021G0AAACAC,Ceftriaxone 1g powder for solution for injection vials (Bowmed Ibisqus Ltd)
+amp,36516811000001108,0501021G0AAACAC,Ceftriaxone 1g powder for solution for injection vials (MIP Pharma GmbH)
+amp,36541011000001102,0501021G0AAACAC,Ceftriaxone 1g powder for solution for injection vials (Stragen UK Ltd)
+amp,37336711000001105,0501021G0AAACAC,Ceftriaxone 1g powder for solution for injection vials (Cox Pharmaceuticals Ltd)
+amp,4405611000001104,0501021G0AAADAD,Ceftriaxone 2g powder for solution for injection vials (A A H Pharmaceuticals Ltd)
+amp,4406011000001102,0501021G0AAADAD,Ceftriaxone 2g powder for solution for injection vials (Wockhardt UK Ltd)
+amp,4406311000001104,0501021G0AAADAD,Ceftriaxone 2g powder for solution for injection vials (Genus Pharmaceuticals Ltd)
+amp,20100411000001106,0501021G0AAADAD,Ceftriaxone 2g powder for solution for injection vials (Ranbaxy (UK) Ltd)
+amp,23414711000001106,0501021G0AAADAD,Ceftriaxone 2g powder for solution for infusion vials (Kent Pharmaceuticals Ltd)
+amp,32483411000001107,0501021G0AAADAD,Ceftriaxone 2g powder for solution for injection vials (Stravencon Ltd)
+amp,34751211000001100,0501021G0AAADAD,Ceftriaxone 2g powder for solution for injection vials (Bowmed Ibisqus Ltd)
+amp,36517011000001104,0501021G0AAADAD,Ceftriaxone 2g powder for solution for infusion vials (MIP Pharma GmbH)
+amp,36783811000001102,0501021G0AAADAD,Ceftriaxone 2g powder for solution for injection vials (Stragen UK Ltd)
+amp,4404611000001100,0501021G0BBAAAB,Rocephin 250mg powder for solution for injection vials (Roche Products Ltd)
+amp,3978911000001108,0501021G0BBABAC,Rocephin 1g powder for solution for injection vials (Roche Products Ltd)
+amp,4406611000001109,0501021G0BBACAD,Rocephin 2g powder for solution for injection vials (Roche Products Ltd)
+amp,8744311000001107,0501021H0AAAAAA,Ceftazidime 500mg powder for solution for injection vials (Genus Pharmaceuticals Ltd)
+amp,10188511000001108,0501021H0AAAAAA,Ceftazidime 500mg powder for solution for injection vials (A A H Pharmaceuticals Ltd)
+amp,19837811000001105,0501021H0AAAAAA,Ceftazidime 500mg powder for solution for injection vials (Mylan)
+amp,32483611000001105,0501021H0AAAAAA,Ceftazidime 500mg powder for solution for injection vials (Stravencon Ltd)
+amp,34750211000001106,0501021H0AAAAAA,Ceftazidime 500mg powder for solution for injection vials (Bowmed Ibisqus Ltd)
+amp,36537311000001106,0501021H0AAAAAA,Ceftazidime 500mg powder for solution for injection vials (Fresenius Kabi Ltd)
+amp,8745211000001103,0501021H0AAABAB,Ceftazidime 1g powder for solution for injection vials (Genus Pharmaceuticals Ltd)
+amp,9470311000001109,0501021H0AAABAB,Ceftazidime 1g powder for solution for injection vials (Wockhardt UK Ltd)
+amp,10188111000001104,0501021H0AAABAB,Ceftazidime 1g powder for solution for injection vials (A A H Pharmaceuticals Ltd)
+amp,19843211000001101,0501021H0AAABAB,Ceftazidime 1g powder for solution for injection vials (Mylan)
+amp,23055511000001100,0501021H0AAABAB,Ceftazidime 1g powder for solution for injection vials (Kent Pharmaceuticals Ltd)
+amp,32483811000001109,0501021H0AAABAB,Ceftazidime 1g powder for solution for injection vials (Stravencon Ltd)
+amp,34750411000001105,0501021H0AAABAB,Ceftazidime 1g powder for solution for injection vials (Bowmed Ibisqus Ltd)
+amp,36516411000001106,0501021H0AAABAB,Ceftazidime 1g powder for solution for injection vials (MIP Pharma GmbH)
+amp,36540611000001104,0501021H0AAABAB,Ceftazidime 1g powder for solution for injection vials (Stragen UK Ltd)
+amp,36760611000001107,0501021H0AAABAB,Ceftazidime 1g powder for solution for injection vials (Fresenius Kabi Ltd)
+amp,8745411000001104,0501021H0AAACAC,Ceftazidime 2g powder for solution for injection vials (Genus Pharmaceuticals Ltd)
+amp,9470511000001103,0501021H0AAACAC,Ceftazidime 2g powder for solution for injection vials (Wockhardt UK Ltd)
+amp,10188311000001102,0501021H0AAACAC,Ceftazidime 2g powder for solution for injection vials (A A H Pharmaceuticals Ltd)
+amp,19842311000001104,0501021H0AAACAC,Ceftazidime 2g powder for solution for injection vials (Mylan)
+amp,23057711000001104,0501021H0AAACAC,Ceftazidime 2g powder for solution for injection vials (Kent Pharmaceuticals Ltd)
+amp,32484011000001101,0501021H0AAACAC,Ceftazidime 2g powder for solution for injection vials (Stravencon Ltd)
+amp,34750611000001108,0501021H0AAACAC,Ceftazidime 2g powder for solution for injection vials (Bowmed Ibisqus Ltd)
+amp,36516611000001109,0501021H0AAACAC,Ceftazidime 2g powder for solution for injection vials (MIP Pharma GmbH)
+amp,36540811000001100,0501021H0AAACAC,Ceftazidime 2g powder for solution for injection vials (Stragen UK Ltd)
+amp,36611411000001109,0501021H0AAACAC,Ceftazidime 2g powder for solution for injection vials (Fresenius Kabi Ltd)
+amp,35798511000001105,0501021H0AAAHAH,Ceftazidime 3g powder for solution for injection vials (Stragen UK Ltd)
+amp,4373011000001106,0501021H0BBAAAD,Fortum 250mg powder for solution for injection vials (GlaxoSmithKline UK Ltd)
+amp,4374011000001108,0501021H0BBABAA,Fortum 500mg powder for solution for injection vials (GlaxoSmithKline UK Ltd)
+amp,3930311000001107,0501021H0BBACAB,Fortum 1g powder for solution for injection vials (GlaxoSmithKline UK Ltd)
+amp,4374611000001101,0501021H0BBADAC,Fortum 2g powder for solution for injection vials (GlaxoSmithKline UK Ltd)
+amp,4375711000001109,0501021H0BBAGAH,Fortum 3g powder for solution for injection vials (GlaxoSmithKline UK Ltd)
+amp,10283311000001108,0501021H0BBAHAI,Fortum Monovial 2g powder for solution for injection vials (GlaxoSmithKline UK Ltd)
+amp,4374311000001106,0501021H0BCAAAA,Kefadim 500mg powder for solution for injection vials (Flynn Pharma Ltd)
+amp,3930711000001106,0501021H0BCABAB,Kefadim 1g powder for solution for injection vials (Flynn Pharma Ltd)
+amp,4374911000001107,0501021H0BCACAC,Kefadim 2g powder for solution for injection vials (Flynn Pharma Ltd)
+amp,4740011000001101,0501021J0AAAAAA,Cefuroxime 250mg powder for injection vials (A A H Pharmaceuticals Ltd)
+amp,34751411000001101,0501021J0AAAAAA,Cefuroxime 250mg powder for injection vials (Bowmed Ibisqus Ltd)
+amp,36754511000001105,0501021J0AAAAAA,Cefuroxime 250mg powder for injection vials (Stragen UK Ltd)
+amp,3939111000001100,0501021J0AAABAB,Cefuroxime 750mg powder for injection vials (A A H Pharmaceuticals Ltd)
+amp,11617911000001109,0501021J0AAABAB,Cefuroxime 750mg powder for injection vials (Flynn Pharma Ltd)
+amp,36605111000001104,0501021J0AAABAB,Cefuroxime 750mg powder for injection vials (MIP Pharma GmbH)
+amp,36613111000001103,0501021J0AAABAB,Cefuroxime 750mg powder for injection vials (Fresenius Kabi Ltd)
+amp,36754311000001104,0501021J0AAABAB,Cefuroxime 750mg powder for injection vials (Stragen UK Ltd)
+amp,4530611000001108,0501021J0AAACAC,Cefuroxime 1.5g powder for injection vials (A A H Pharmaceuticals Ltd)
+amp,11617611000001103,0501021J0AAACAC,Cefuroxime 1.5g powder for injection vials (Flynn Pharma Ltd)
+amp,36605311000001102,0501021J0AAACAC,Cefuroxime 1.5g powder for injection vials (MIP Pharma GmbH)
+amp,36613311000001101,0501021J0AAACAC,Cefuroxime 1.5g powder for injection vials (Fresenius Kabi Ltd)
+amp,36753811000001105,0501021J0AAACAC,Cefuroxime 1.5g powder for injection vials (Stragen UK Ltd)
+amp,4740211000001106,0501021J0BBAAAA,Zinacef 250mg powder for injection vials (GlaxoSmithKline UK Ltd)
+amp,3939311000001103,0501021J0BBABAB,Zinacef 750mg powder for injection vials (GlaxoSmithKline UK Ltd)
+amp,4530311000001103,0501021J0BBACAC,Zinacef 1.5g powder for injection vials (GlaxoSmithKline UK Ltd)
+amp,11775211000001105,0501021J0BCAAAA,Britacef 250mg powder for injection vials (Genus Pharmaceuticals Ltd)
+amp,11775411000001109,0501021J0BCABAB,Britacef 750mg powder for injection vials (Genus Pharmaceuticals Ltd)
+amp,11775611000001107,0501021J0BCACAC,Britacef 1.5g powder for injection vials (Genus Pharmaceuticals Ltd)
+amp,795711000001106,0501021M0BBADAC,Velosef 500mg powder for solution for injection vials (Bristol-Myers Squibb Pharmaceuticals Ltd)
+amp,14511000001100,0501021M0BBAEAD,Velosef 1g powder for solution for injection vials (Bristol-Myers Squibb Pharmaceuticals Ltd)
+amp,18486711000001104,0501022A0AAAAAA,Meropenem 500mg powder for solution for injection vials (Pfizer Ltd)
+amp,23021211000001100,0501022A0AAAAAA,Meropenem 500mg powder for solution for injection vials (Kent Pharmaceuticals Ltd)
+amp,26812711000001104,0501022A0AAAAAA,Meropenem 500mg powder for solution for injection vials (Fresenius Kabi Ltd)
+amp,28963111000001109,0501022A0AAAAAA,Meropenem 500mg powder for solution for injection vials (A A H Pharmaceuticals Ltd)
+amp,34711611000001107,0501022A0AAAAAA,Meropenem 500mg powder for solution for injection vials (Alliance Healthcare (Distribution) Ltd)
+amp,35247011000001102,0501022A0AAAAAA,Meropenem 500mg powder for solution for injection vials (Milpharm Ltd)
+amp,35306811000001105,0501022A0AAAAAA,Meropenem 500mg powder for solution for injection vials (Bowmed Ibisqus Ltd)
+amp,35834011000001101,0501022A0AAAAAA,Meropenem 500mg powder for solution for injection vials (Consilient Health Ltd)
+amp,37655611000001101,0501022A0AAAAAA,Meropenem 500mg powder for solution for injection vials (Synchrony Pharma Ltd)
+amp,18486011000001101,0501022A0AAABAB,Meropenem 1g powder for solution for injection vials (Pfizer Ltd)
+amp,23049211000001102,0501022A0AAABAB,Meropenem 1g powder for solution for injection vials (Kent Pharmaceuticals Ltd)
+amp,26812911000001102,0501022A0AAABAB,Meropenem 1g powder for solution for injection vials (Fresenius Kabi Ltd)
+amp,29714711000001100,0501022A0AAABAB,Meropenem 1g powder for solution for injection vials (A A H Pharmaceuticals Ltd)
+amp,32391011000001106,0501022A0AAABAB,Meropenem 1g powder for solution for injection vials (Zentiva)
+amp,34711811000001106,0501022A0AAABAB,Meropenem 1g powder for solution for injection vials (Alliance Healthcare (Distribution) Ltd)
+amp,35246811000001106,0501022A0AAABAB,Meropenem 1g powder for solution for injection vials (Milpharm Ltd)
+amp,35306611000001106,0501022A0AAABAB,Meropenem 1g powder for solution for injection vials (Bowmed Ibisqus Ltd)
+amp,35829511000001105,0501022A0AAABAB,Meropenem 1g powder for solution for injection vials (Consilient Health Ltd)
+amp,37656911000001100,0501022A0AAABAB,Meropenem 1g powder for solution for injection vials (Synchrony Pharma Ltd)
+amp,4382011000001108,0501022A0BBAAAA,Meronem 500mg powder for solution for injection vials (Pfizer Ltd)
+amp,4381711000001103,0501022A0BBABAB,Meronem 1g powder for solution for injection vials (Pfizer Ltd)
+amp,36691911000001100,0501022B0AAAAAA,Ertapenem 1g powder for concentrate for solution for infusion vials (Fresenius Kabi Ltd)
+amp,4779811000001104,0501022B0BBAAAA,Invanz 1g powder for solution for infusion vials (Merck Sharp & Dohme Ltd)
+amp,14236111000001106,0501022C0BBAAAA,Doribax 500mg powder for solution for infusion vials (Janssen-Cilag Ltd)
+amp,18852711000001100,0501022D0AAAAAA,Imipenem 500mg / Cilastatin 500mg powder for solution for infusion vials (Pfizer Ltd)
+amp,22980411000001102,0501022D0AAAAAA,Imipenem 500mg / Cilastatin 500mg powder for solution for infusion vials (Kent Pharmaceuticals Ltd)
+amp,24200611000001109,0501022D0AAAAAA,Imipenem 500mg / Cilastatin 500mg powder for solution for infusion vials (Actavis UK Ltd)
+amp,24416411000001106,0501022D0AAAAAA,Imipenem 500mg / Cilastatin 500mg powder for solution for infusion vials (A A H Pharmaceuticals Ltd)
+amp,36568011000001102,0501022D0AAAAAA,Imipenem 500mg / Cilastatin 500mg powder for solution for infusion vials (Fresenius Kabi Ltd)
+amp,4391811000001107,0501022D0BBABAA,Primaxin IV 500mg powder for solution for infusion vials (Merck Sharp & Dohme Ltd)
+amp,4392111000001105,0501022D0BBACAC,Primaxin IM 500mg powder for suspension for injection vials (Merck Sharp & Dohme Ltd)
+amp,4391611000001108,0501022D0BBADAD,Primaxin IV 500mg powder for solution for infusion monovials (Merck Sharp & Dohme Ltd)
+amp,4344011000001107,0501023A0BBAAAA,Azactam 2g powder for solution for injection vials (Bristol-Myers Squibb Pharmaceuticals Ltd)
+amp,4343611000001103,0501023A0BBABAB,Azactam 1g powder for solution for injection vials (Bristol-Myers Squibb Pharmaceuticals Ltd)
+amp,4342911000001102,0501023A0BBACAC,Azactam 500mg powder for solution for injection vials (Bristol-Myers Squibb Pharmaceuticals Ltd)
+amp,35204411000001108,0501030Y0AAAAAA,Tigecycline 50mg powder for solution for infusion vials (Mylan)
+amp,10321011000001108,0501030Y0BBAAAA,Tygacil 50mg powder for solution for infusion vials (Pfizer Ltd)
+amp,9222111000001109,0501040C0AAAAAA,Amikacin 500mg/2ml solution for injection vials (A A H Pharmaceuticals Ltd)
+amp,11591311000001108,0501040C0AAAAAA,Amikacin 500mg/2ml solution for injection vials (Pfizer Ltd)
+amp,4500111000001106,0501040C0BBAAAA,Amikin 500mg/2ml solution for injection vials (Bristol-Myers Squibb Pharmaceuticals Ltd)
+amp,4500411000001101,0501040C0BBACAD,Amikin 100mg/2ml solution for injection vials (Bristol-Myers Squibb Pharmaceuticals Ltd)
+amp,3845211000001101,0501040H0AAAAAA,Gentamicin 80mg/2ml solution for injection ampoules (A A H Pharmaceuticals Ltd)
+amp,3846511000001105,0501040H0AAAAAA,Gentamicin 80mg/2ml solution for injection ampoules (Hospira UK Ltd)
+amp,3847411000001108,0501040H0AAAAAA,Gentamicin 80mg/2ml solution for injection ampoules (Alliance Healthcare (Distribution) Ltd)
+amp,27334311000001101,0501040H0AAAAAA,Gentamicin 80mg/2ml solution for injection ampoules (Advanz Pharma)
+amp,29862011000001106,0501040H0AAAAAA,Gentamicin 80mg/2ml solution for injection ampoules (Wockhardt UK Ltd)
+amp,32334511000001109,0501040H0AAAAAA,Gentamicin 80mg/2ml solution for injection ampoules (Colorama Pharmaceuticals Ltd)
+amp,3997111000001101,0501040H0AAAMAM,Gentamicin 80mg/2ml solution for injection vials (A A H Pharmaceuticals Ltd)
+amp,3998211000001106,0501040H0AAAMAM,Gentamicin 80mg/2ml solution for injection vials (Pfizer Ltd)
+amp,3998811000001107,0501040H0AAAMAM,Gentamicin 80mg/2ml solution for injection vials (Alliance Healthcare (Distribution) Ltd)
+amp,3999111000001107,0501040H0AAAQAQ,Gentamicin 40mg/1ml solution for injection ampoules (A A H Pharmaceuticals Ltd)
+amp,3999411000001102,0501040H0AAAQAQ,Gentamicin 40mg/1ml solution for injection ampoules (Hospira UK Ltd)
+amp,3999911000001105,0501040H0AAAQAQ,Gentamicin 40mg/1ml solution for injection ampoules (Alliance Healthcare (Distribution) Ltd)
+amp,29861811000001109,0501040H0AABBBB,Gentamicin 20mg/2ml solution for injection ampoules (Wockhardt UK Ltd)
+amp,29934211000001107,0501040H0AABBBB,Gentamicin 20mg/2ml solution for injection ampoules (A A H Pharmaceuticals Ltd)
+amp,29941811000001105,0501040H0AABCBC,Gentamicin 80mg/80ml infusion bags (A A H Pharmaceuticals Ltd)
+amp,29942711000001109,0501040H0AABCBC,Gentamicin 80mg/80ml infusion bags (B.Braun Medical Ltd)
+amp,29942211000001102,0501040H0AABDBD,Gentamicin 240mg/80ml infusion bags (A A H Pharmaceuticals Ltd)
+amp,29942911000001106,0501040H0AABDBD,Gentamicin 240mg/80ml infusion bags (B.Braun Medical Ltd)
+amp,29942511000001104,0501040H0AABEBE,Gentamicin 360mg/120ml infusion bags (A A H Pharmaceuticals Ltd)
+amp,29943111000001102,0501040H0AABEBE,Gentamicin 360mg/120ml infusion bags (B.Braun Medical Ltd)
+amp,3845811000001100,0501040H0BBAAAA,Cidomycin 80mg/2ml solution for injection ampoules (Sanofi)
+amp,3983611000001102,0501040H0BBACAE,Cidomycin Paediatric 20mg/2ml solution for injection vials (Beacon Pharmaceuticals Ltd)
+amp,4609011000001105,0501040H0BBADAH,Cidomycin Intrathecal 5mg/1ml solution for injection ampoules (Aventis Pharma)
+amp,3997811000001108,0501040H0BBAFAM,Cidomycin 80mg/2ml solution for injection vials (Sanofi)
+amp,3847011000001104,0501040H0BCAAAA,Genticin Injectable 80mg/2ml solution for injection ampoules (Advanz Pharma)
+amp,17330211000001102,0501040H0BGAAAE,Gentamicin Paediatric 20mg/2ml solution for injection vials (Zentiva)
+amp,10967311000001102,0501040H0BHAAAH,Gentamicin Intrathecal 5mg/1ml solution for injection ampoules (Zentiva)
+amp,4463011000001106,0501040R0BBABAB,Netillin 50mg/1ml solution for injection ampoules (Schering-Plough Ltd)
+amp,4463311000001109,0501040R0BBACAC,Netillin 100mg/1ml solution for injection ampoules (Schering-Plough Ltd)
+amp,4463611000001104,0501040R0BBAEAE,Netillin 150mg/1.5ml solution for injection ampoules (Schering-Plough Ltd)
+amp,4464611000001101,0501040R0BBAFAF,Netillin 200mg/2ml solution for injection ampoules (Schering-Plough Ltd)
+amp,4462711000001100,0501040R0BBAGAA,Netillin 15mg/1.5ml solution for injection ampoules (Schering-Plough Ltd)
+amp,4944011000001104,0501040U0AAABAB,Tobramycin 40mg/1ml solution for injection vials (A A H Pharmaceuticals Ltd)
+amp,4944311000001101,0501040U0AAABAB,Tobramycin 40mg/1ml solution for injection vials (Hospira UK Ltd)
+amp,4944511000001107,0501040U0AAABAB,Tobramycin 40mg/1ml solution for injection vials (Alliance Healthcare (Distribution) Ltd)
+amp,9187611000001105,0501040U0AAABAB,Tobramycin 40mg/1ml solution for injection vials (Actavis UK Ltd)
+amp,12949611000001104,0501040U0AAABAB,Tobramycin 40mg/1ml solution for injection vials (Teva UK Ltd)
+amp,4127011000001108,0501040U0AAACAC,Tobramycin 80mg/2ml solution for injection vials (A A H Pharmaceuticals Ltd)
+amp,4128011000001109,0501040U0AAACAC,Tobramycin 80mg/2ml solution for injection vials (Pfizer Ltd)
+amp,4129111000001103,0501040U0AAACAC,Tobramycin 80mg/2ml solution for injection vials (Alliance Healthcare (Distribution) Ltd)
+amp,9187811000001109,0501040U0AAACAC,Tobramycin 80mg/2ml solution for injection vials (Actavis UK Ltd)
+amp,12949811000001100,0501040U0AAACAC,Tobramycin 80mg/2ml solution for injection vials (Teva UK Ltd)
+amp,26857411000001100,0501040U0AAACAC,Tobramycin 80mg/2ml solution for injection vials (Ennogen Healthcare Ltd)
+amp,4514311000001103,0501040U0AAAEAE,Tobramycin 40mg/1ml solution for injection ampoules (Actavis UK Ltd)
+amp,4158411000001104,0501040U0AAAFAF,Tobramycin 80mg/2ml solution for infusion ampoules (Actavis UK Ltd)
+amp,4514611000001108,0501040U0AAAIAI,Tobramycin 240mg/6ml solution for injection vials (Pfizer Ltd)
+amp,35777411000001100,0501040U0AAAIAI,Tobramycin 240mg/6ml solution for injection vials (Alliance Healthcare (Distribution) Ltd)
+amp,4514911000001102,0501040U0BBAAAA,Nebcin 20mg/2ml solution for injection vials (King Pharmaceuticals Ltd)
+amp,4128611000001102,0501040U0BBACAC,Nebcin 80mg/2ml solution for injection vials (Flynn Pharma Ltd)
+amp,13469711000001107,0501050B0AAACAC,Clarithromycin 500mg powder for solution for infusion vials (Teva UK Ltd)
+amp,13612911000001102,0501050B0AAACAC,Clarithromycin 500mg powder for solution for infusion vials (A A H Pharmaceuticals Ltd)
+amp,17648711000001102,0501050B0AAACAC,Clarithromycin 500mg powder for concentrate for solution for infusion vials (Martindale Pharmaceuticals Ltd)
+amp,17997711000001108,0501050B0AAACAC,Clarithromycin 500mg powder for concentrate for solution for infusion vials (Mercury Pharma Group Ltd)
+amp,34751611000001103,0501050B0AAACAC,Clarithromycin 500mg powder for solution for infusion vials (Bowmed Ibisqus Ltd)
+amp,35555411000001108,0501050B0AAACAC,Clarithromycin 500mg powder for concentrate for solution for infusion vials (Hameln Pharmaceuticals Ltd)
+amp,36635611000001101,0501050B0AAACAC,Clarithromycin 500mg powder for concentrate for solution for infusion vials (Alliance Healthcare (Distribution) Ltd)
+amp,27011000001106,0501050B0BBACAC,Klaricid IV 500mg powder for solution for infusion vials (Mylan)
+amp,4692411000001105,0501050K0AAAAAA,Erythromycin 1g powder for solution for infusion vials (A A H Pharmaceuticals Ltd)
+amp,4693011000001105,0501050K0AAAAAA,Erythromycin 1g powder for solution for infusion vials (Hospira UK Ltd)
+amp,4693311000001108,0501050K0AAAAAA,Erythromycin 1g powder for solution for infusion vials (Alliance Healthcare (Distribution) Ltd)
+amp,29948711000001107,0501050K0AAAAAA,Erythromycin 1g powder for solution for infusion vials (Advanz Pharma)
+amp,33737411000001107,0501050K0AAAAAA,Erythromycin 1g powder for solution for infusion vials (Panpharma UK Ltd)
+amp,36542711000001107,0501050K0AAAAAA,Erythromycin 1g powder for solution for infusion vials (Stragen UK Ltd)
+amp,4693611000001103,0501050K0BBAAAA,Erythrocin IV lactobionate 1g powder for solution for infusion vials (Advanz Pharma)
+amp,17664411000001105,0501060E0AAAAAA,Clindamycin 300mg/2ml solution for injection ampoules (Advanz Pharma)
+amp,18031711000001109,0501060E0AAAAAA,Clindamycin 300mg/2ml solution for injection ampoules (Alliance Healthcare (Distribution) Ltd)
+amp,18275411000001109,0501060E0AAAAAA,Clindamycin 300mg/2ml solution for injection ampoules (A A H Pharmaceuticals Ltd)
+amp,34751811000001104,0501060E0AAAAAA,Clindamycin 300mg/2ml solution for injection ampoules (Bowmed Ibisqus Ltd)
+amp,17664611000001108,0501060E0AAABAB,Clindamycin 600mg/4ml solution for injection ampoules (Advanz Pharma)
+amp,18031911000001106,0501060E0AAABAB,Clindamycin 600mg/4ml solution for injection ampoules (Alliance Healthcare (Distribution) Ltd)
+amp,18275611000001107,0501060E0AAABAB,Clindamycin 600mg/4ml solution for injection ampoules (A A H Pharmaceuticals Ltd)
+amp,34752011000001102,0501060E0AAABAB,Clindamycin 600mg/4ml solution for injection ampoules (Bowmed Ibisqus Ltd)
+amp,4348911000001104,0501060E0BBAAAA,Dalacin C Phosphate 300mg/2ml solution for injection ampoules (Pfizer Ltd)
+amp,7816711000001103,0501060E0BBABAB,Dalacin C Phosphate 600mg/4ml solution for injection ampoules (Pfizer Ltd)
+amp,29722811000001107,0501070ADBBAAAA,Sivextro 200mg powder for concentrate for solution for infusion vials (Merck Sharp & Dohme Ltd)
+amp,34376311000001102,0501070AFBBAAAA,Xydalba 500mg powder for concentrate for solution for infusion vials (Correvio UK Ltd)
+amp,33582511000001101,0501070F0AAACAC,Chloramphenicol 1g powder for solution for injection vials (Essential Pharma Ltd)
+amp,34327311000001100,0501070F0AAACAC,Chloramphenicol 1g powder for solution for injection vials (A A H Pharmaceuticals Ltd)
+amp,34340211000001107,0501070F0AAACAC,Chloramphenicol 1g powder for solution for injection vials (Alliance Healthcare (Distribution) Ltd)
+amp,4382311000001106,0501070F0BCAAAC,Kemicetine 1g powder for solution for injection vials (Essential Pharma Ltd)
+amp,8708411000001103,0501070N0AAABAB,Sodium fusidate 500mg powder and solvent for solution for infusion vials (LEO Pharma)
+amp,9060611000001103,0501070N0AAABAB,Sodium fusidate 500mg powder and solvent for solution for infusion vials (Alliance Healthcare (Distribution) Ltd)
+amp,27753611000001108,0501070N0AAABAB,Sodium fusidate 500mg powder and solvent for solution for infusion vials (Essential Pharma Ltd)
+amp,29786111000001106,0501070N0AAABAB,Sodium fusidate 500mg powder and solvent for solution for infusion vials (A A H Pharmaceuticals Ltd)
+amp,4371711000001107,0501070N0BBACAB,Fucidin 500mg powder and solvent for solution for infusion vials (LEO Pharma)
+amp,36761811000001103,0501070T0AAAAAA,Teicoplanin 400mg powder and solvent for solution for injection vials (Kent Pharmaceuticals Ltd)
+amp,36769311000001106,0501070T0AAABAB,Teicoplanin 200mg powder and solvent for solution for injection vials (Kent Pharmaceuticals Ltd)
+amp,4182311000001103,0501070T0BBAAAA,Targocid 400mg powder and solvent for solution for injection vials (Sanofi)
+amp,4181011000001109,0501070T0BBABAB,Targocid 200mg powder and solvent for solution for injection vials (Sanofi)
+amp,4212611000001109,0501070U0AAACAC,Vancomycin 500mg powder for solution for infusion vials (A A H Pharmaceuticals Ltd)
+amp,4212911000001103,0501070U0AAACAC,Vancomycin 500mg powder for solution for infusion vials (Actavis UK Ltd)
+amp,4213611000001104,0501070U0AAACAC,Vancomycin 500mg powder for concentrate for solution for infusion vials (Pfizer Ltd)
+amp,4213811000001100,0501070U0AAACAC,Vancomycin 500mg powder for solution for infusion vials (Alliance Healthcare (Distribution) Ltd)
+amp,15165911000001100,0501070U0AAACAC,Vancomycin 500mg powder for solution for infusion vials (Wockhardt UK Ltd)
+amp,19456211000001101,0501070U0AAACAC,Vancomycin 500mg powder for solution for infusion vials (Pfizer Ltd)
+amp,23872411000001109,0501070U0AAACAC,Vancomycin 500mg powder for concentrate for solution for infusion vials (Kent Pharmaceuticals Ltd)
+amp,24517411000001103,0501070U0AAACAC,Vancomycin 500mg powder for solution for infusion vials (Sandoz Ltd)
+amp,32895211000001100,0501070U0AAACAC,Vancomycin 500mg powder for concentrate for solution for infusion vials (Flynn Pharma Ltd)
+amp,34758311000001101,0501070U0AAACAC,Vancomycin 500mg powder for concentrate for solution for infusion vials (Bowmed Ibisqus Ltd)
+amp,35830111000001109,0501070U0AAACAC,Vancomycin 500mg powder for concentrate for solution for infusion vials (Consilient Health Ltd)
+amp,36517311000001101,0501070U0AAACAC,Vancomycin 500mg powder for solution for infusion vials (MIP Pharma GmbH)
+amp,4432211000001103,0501070U0AAAFAF,Vancomycin 1g powder for solution for infusion vials (A A H Pharmaceuticals Ltd)
+amp,4432411000001104,0501070U0AAAFAF,Vancomycin 1g powder for solution for infusion vials (Actavis UK Ltd)
+amp,4432811000001102,0501070U0AAAFAF,Vancomycin 1g powder for concentrate for solution for infusion vials (Pfizer Ltd)
+amp,4433011000001104,0501070U0AAAFAF,Vancomycin 1g powder for solution for infusion vials (Alliance Healthcare (Distribution) Ltd)
+amp,15048611000001103,0501070U0AAAFAF,Vancomycin 1g powder for solution for infusion vials (Wockhardt UK Ltd)
+amp,19455111000001101,0501070U0AAAFAF,Vancomycin 1g powder for solution for infusion vials (Pfizer Ltd)
+amp,24517611000001100,0501070U0AAAFAF,Vancomycin 1g powder for solution for infusion vials (Sandoz Ltd)
+amp,26858511000001102,0501070U0AAAFAF,Vancomycin 1g powder for solution for infusion vials (Ennogen Healthcare Ltd)
+amp,32895411000001101,0501070U0AAAFAF,Vancomycin 1g powder for concentrate for solution for infusion vials (Flynn Pharma Ltd)
+amp,34758511000001107,0501070U0AAAFAF,Vancomycin 1g powder for concentrate for solution for infusion vials (Bowmed Ibisqus Ltd)
+amp,35829811000001108,0501070U0AAAFAF,Vancomycin 1g powder for concentrate for solution for infusion vials (Consilient Health Ltd)
+amp,36517611000001106,0501070U0AAAFAF,Vancomycin 1g powder for solution for infusion vials (MIP Pharma GmbH)
+amp,36759411000001105,0501070U0AAAFAF,Vancomycin 1g powder for concentrate for solution for infusion vials (Kent Pharmaceuticals Ltd)
+amp,4213311000001109,0501070U0BBADAC,Vancocin 500mg powder for solution for infusion vials (Flynn Pharma Ltd)
+amp,4432611000001101,0501070U0BBAEAF,Vancocin 1g powder for solution for infusion vials (Flynn Pharma Ltd)
+amp,4408311000001100,0501070V0BBAAAA,Synercid powder for solution for infusion vials (Nordic Pharma Ltd)
+amp,31153911000001109,0501070W0AAACAC,Linezolid 600mg/300ml infusion bags (Pfizer Ltd)
+amp,33737611000001105,0501070W0AAACAC,Linezolid 600mg/300ml infusion bags (Panpharma UK Ltd)
+amp,34574711000001109,0501070W0AAACAC,Linezolid 600mg/300ml infusion bags (Alliance Healthcare (Distribution) Ltd)
+amp,36615111000001102,0501070W0AAACAC,Linezolid 600mg/300ml infusion bags (Fresenius Kabi Ltd)
+amp,36096911000001102,0501070W0AAADAD,Linezolid 600mg/300ml solution for infusion bottles (B.Braun Melsungen AG)
+amp,36886111000001102,0501070W0AAADAD,Linezolid 600mg/300ml solution for infusion bottles (Kent Pharmaceuticals Ltd)
+amp,4827211000001109,0501070W0BBADAC,Zyvox 600mg/300ml infusion bags (Pfizer Ltd)
+amp,35047211000001102,0501070Y0AAAAAA,Daptomycin 350mg powder for solution for infusion vials (Accord Healthcare Ltd)
+amp,36531611000001105,0501070Y0AAAAAA,Daptomycin 350mg powder for solution for infusion vials (Dr Reddy's Laboratories (UK) Ltd)
+amp,35047711000001109,0501070Y0AAABAB,Daptomycin 500mg powder for solution for infusion vials (Accord Healthcare Ltd)
+amp,36531811000001109,0501070Y0AAABAB,Daptomycin 500mg powder for solution for infusion vials (Dr Reddy's Laboratories (UK) Ltd)
+amp,10140111000001107,0501070Y0BBAAAA,Cubicin 350mg powder for concentrate for solution for infusion vials (Merck Sharp & Dohme Ltd)
+amp,10961511000001102,0501070Y0BBABAB,Cubicin 500mg powder for concentrate for solution for infusion vials (Merck Sharp & Dohme Ltd)
+amp,3625511000001107,0501080D0AAABAB,Co-trimoxazole 80mg/400mg/5ml solution for infusion ampoules (A A H Pharmaceuticals Ltd)
+amp,3625711000001102,0501080D0AAABAB,Co-trimoxazole 80mg/400mg/5ml solution for infusion ampoules (Hospira UK Ltd)
+amp,3626311000001106,0501080D0AAABAB,Co-trimoxazole 80mg/400mg/5ml solution for infusion ampoules (Alliance Healthcare (Distribution) Ltd)
+amp,32519811000001101,0501080D0AAABAB,Co-trimoxazole 80mg/400mg/5ml solution for infusion ampoules (Aspen Pharma Trading Ltd)
+amp,7817111000001101,0501080D0AAATAT,Co-trimoxazole 160mg/800mg/10ml solution for infusion ampoules (Hospira UK Ltd)
+amp,3626011000001108,0501080D0BGAHAB,Septrin for Infusion 80mg/400mg/5ml solution for infusion ampoules (Aspen Pharma Trading Ltd)
+amp,735011000001103,0501080W0BCADAA,Monotrim 100mg/5ml solution for injection ampoules (Abbott Healthcare Products Ltd)
+amp,13174711000001100,0501090C0AAAAAA,Capreomycin 1g powder for solution for injection vials (King Pharmaceuticals Ltd)
+amp,4529711000001109,0501090C0BBAAAA,Capastat 1g powder for solution for injection vials (King Pharmaceuticals Ltd)
+amp,4825811000001100,0501090K0AAADAD,Isoniazid 50mg/2ml solution for injection ampoules (A A H Pharmaceuticals Ltd)
+amp,4826011000001102,0501090K0AAADAD,Isoniazid 50mg/2ml solution for injection ampoules (Alliance Pharmaceuticals Ltd)
+amp,4826211000001107,0501090K0AAADAD,Isoniazid 50mg/2ml solution for injection ampoules (Alliance Healthcare (Distribution) Ltd)
+amp,4401611000001102,0501090R0BBAEAD,Rifadin 600mg powder and solvent for solution for infusion vials (Sanofi)
+amp,4892411000001103,0501090U0AAAAAA,Streptomycin 1g powder for solution for injection vials (Focus Pharmaceuticals Ltd)
+amp,18077811000001105,0501090U0AAAAAA,Streptomycin 1g powder for solution for injection vials (Special Order)
+amp,4969011000001107,0501110C0AAADAD,Metronidazole 100mg/20ml solution for infusion ampoules (A A H Pharmaceuticals Ltd)
+amp,5099711000001109,0501110C0AAADAD,Metronidazole 100mg/20ml solution for infusion ampoules (Hameln Pharmaceuticals Ltd)
+amp,34612511000001105,0501110C0AAAKAK,Metronidazole 500mg/100ml solution for infusion bottles (Peckforton Pharmaceuticals Ltd)
+amp,36077111000001105,0501110C0AAAKAK,Metronidazole 500mg/100ml solution for infusion bottles (B.Braun Melsungen AG)
+amp,3617511000001108,0501110C0AABABA,Metronidazole 500mg/100ml infusion 100ml bags (A A H Pharmaceuticals Ltd)
+amp,3620311000001108,0501110C0AABABA,Metronidazole 500mg/100ml infusion 100ml bags (Alliance Healthcare (Distribution) Ltd)
+amp,3619811000001103,0501110C0BCAMBA,Flagyl 500mg/100ml infusion 100ml bags (Baxter Healthcare Ltd)
+amp,3620111000001106,0501110C0BQAABA,Metrozol 500mg/100ml infusion 100ml bags (Miza Biopharma)
+amp,13408411000001108,0501110C0BRAABA,Metronidazole 500mg/100ml infusion 100ml Macoflex bags (Maco Pharma (UK) Ltd)
+amp,11546011000001109,0501120L0AAABAB,Ciprofloxacin 100mg/50ml solution for infusion bottles (A A H Pharmaceuticals Ltd)
+amp,22982111000001106,0501120L0AAADAD,Ciprofloxacin 200mg/100ml solution for infusion bottles (Kent Pharmaceuticals Ltd)
+amp,36570411000001101,0501120L0AAADAD,Ciprofloxacin 200mg/100ml solution for infusion bottles (Fresenius Kabi Ltd)
+amp,22983111000001100,0501120L0AAAYAY,Ciprofloxacin 400mg/200ml solution for infusion bottles (Kent Pharmaceuticals Ltd)
+amp,28040911000001104,0501120L0AAAYAY,Ciprofloxacin 400mg/200ml solution for infusion bottles (A A H Pharmaceuticals Ltd)
+amp,34611511000001102,0501120L0AAAYAY,Ciprofloxacin 400mg/200ml solution for infusion bottles (Peckforton Pharmaceuticals Ltd)
+amp,36570611000001103,0501120L0AAAYAY,Ciprofloxacin 400mg/200ml solution for infusion bottles (Fresenius Kabi Ltd)
+amp,11761311000001107,0501120L0AABEBE,Ciprofloxacin 200mg/100ml infusion bags (Hospira UK Ltd)
+amp,35515811000001102,0501120L0AABEBE,Ciprofloxacin 200mg/100ml infusion bags (Bowmed Ibisqus Ltd)
+amp,11761811000001103,0501120L0AABFBF,Ciprofloxacin 400mg/200ml infusion bags (Pfizer Ltd)
+amp,32775511000001107,0501120L0AABFBF,Ciprofloxacin 400mg/200ml infusion bags (A A H Pharmaceuticals Ltd)
+amp,35516111000001103,0501120L0AABFBF,Ciprofloxacin 400mg/200ml infusion bags (Bowmed Ibisqus Ltd)
+amp,35831211000001109,0501120L0AABFBF,Ciprofloxacin 400mg/200ml infusion bags (Consilient Health Ltd)
+amp,10889411000001105,0501120L0AABQBQ,Ciprofloxacin 100mg/50ml solution for infusion vials (Teva UK Ltd)
+amp,18756911000001102,0501120L0AABQBQ,Ciprofloxacin 100mg/50ml solution for infusion vials (A A H Pharmaceuticals Ltd)
+amp,34532811000001105,0501120L0AABQBQ,Ciprofloxacin 100mg/50ml solution for infusion vials (Peckforton Pharmaceuticals Ltd)
+amp,34648611000001102,0501120L0AABQBQ,Ciprofloxacin 100mg/50ml solution for infusion vials (Intrapharm Laboratories Ltd)
+amp,10889711000001104,0501120L0AABRBR,Ciprofloxacin 200mg/100ml solution for infusion vials (Teva UK Ltd)
+amp,11528211000001101,0501120L0AABRBR,Ciprofloxacin 200mg/100ml solution for infusion vials (A A H Pharmaceuticals Ltd)
+amp,13793511000001105,0501120L0AABRBR,Ciprofloxacin 200mg/100ml solution for infusion vials (Genus Pharmaceuticals Ltd)
+amp,34533011000001108,0501120L0AABRBR,Ciprofloxacin 200mg/100ml solution for infusion vials (Peckforton Pharmaceuticals Ltd)
+amp,34648911000001108,0501120L0AABRBR,Ciprofloxacin 200mg/100ml solution for infusion vials (Intrapharm Laboratories Ltd)
+amp,10890011000001105,0501120L0AABSBS,Ciprofloxacin 400mg/200ml solution for infusion vials (Teva UK Ltd)
+amp,11528411000001102,0501120L0AABSBS,Ciprofloxacin 400mg/200ml solution for infusion vials (A A H Pharmaceuticals Ltd)
+amp,13793711000001100,0501120L0AABSBS,Ciprofloxacin 400mg/200ml solution for infusion vials (Genus Pharmaceuticals Ltd)
+amp,34649111000001103,0501120L0AABSBS,Ciprofloxacin 400mg/200ml solution for infusion vials (Intrapharm Laboratories Ltd)
+amp,902411000001101,0501120L0BBAEAB,Ciproxin 100mg/50ml solution for infusion bottles (Bayer Plc)
+amp,8951511000001108,0501120L0BBAFAD,Ciproxin 200mg/100ml solution for infusion bottles (Bayer Plc)
+amp,8954311000001104,0501120L0BBAGAY,Ciproxin 400mg/200ml solution for infusion bottles (Bayer Plc)
+amp,785511000001102,0501120L0BBAHBE,Ciproxin I.V. Flexibag 200mg/100ml infusion (Bayer Plc)
+amp,854011000001101,0501120L0BBAIBF,Ciproxin I.V. Flexibag 400mg/200ml infusion (Bayer Plc)
+amp,4415111000001109,0501120P0BBADAC,Tarivid 200mg/100ml solution for infusion bottles (Sanofi)
+amp,19359011000001109,0501120X0AAACAC,Levofloxacin 500mg/100ml solution for infusion vials (A A H Pharmaceuticals Ltd)
+amp,34754611000001101,0501120X0AAACAC,Levofloxacin 500mg/100ml solution for infusion vials (Bowmed Ibisqus Ltd)
+amp,19447411000001103,0501120X0AAADAD,Levofloxacin 500mg/100ml infusion bags (A A H Pharmaceuticals Ltd)
+amp,19447611000001100,0501120X0AAADAD,Levofloxacin 500mg/100ml infusion bags (Actavis UK Ltd)
+amp,21660611000001102,0501120X0AAADAD,Levofloxacin 500mg/100ml infusion bags (Pfizer Ltd)
+amp,35831811000001105,0501120X0AAADAD,Levofloxacin 500mg/100ml infusion bags (Consilient Health Ltd)
+amp,22985411000001109,0501120X0AAAEAE,Levofloxacin 500mg/100ml solution for infusion bottles (Kent Pharmaceuticals Ltd)
+amp,24416711000001100,0501120X0AAAEAE,Levofloxacin 500mg/100ml solution for infusion bottles (A A H Pharmaceuticals Ltd)
+amp,34611911000001109,0501120X0AAAEAE,Levofloxacin 500mg/100ml solution for infusion bottles (Peckforton Pharmaceuticals Ltd)
+amp,36571111000001100,0501120X0AAAEAE,Levofloxacin 500mg/100ml solution for infusion bottles (Fresenius Kabi Ltd)
+amp,4602911000001104,0501120X0BBACAC,Tavanic 500mg/100ml solution for infusion vials (Sanofi)
+amp,19374511000001103,0501120X0BCABAC,Evoxil 500mg/100ml solution for infusion vials (Beacon Pharmaceuticals Ltd)
+amp,25876211000001100,0501120Y0AAABAB,Moxifloxacin 400mg/250ml solution for infusion bottles (A A H Pharmaceuticals Ltd)
+amp,36571311000001103,0501120Y0AAABAB,Moxifloxacin 400mg/250ml solution for infusion bottles (Fresenius Kabi Ltd)
+amp,36881911000001109,0501120Y0AAABAB,Moxifloxacin 400mg/250ml solution for infusion bottles (Kent Pharmaceuticals Ltd)
+amp,16751911000001103,0501120Y0BBABAB,Avelox 400mg/250ml solution for infusion bottles (Bayer Plc)
+amp,10496311000001104,0501120Y0BBACAC,Avelox I.V. 400mg/250ml infusion bags (Imported (United States))
+amp,28001711000001100,0502010A0BBACAC,Noxafil 300mg/16.7ml concentrate for solution for infusion vials (Merck Sharp & Dohme Ltd)
+amp,13094911000001104,0502010B0AAADAD,Fluconazole 50mg/25ml solution for infusion vials (Teva UK Ltd)
+amp,18875811000001104,0502010B0AAADAD,Fluconazole 50mg/25ml solution for infusion vials (A A H Pharmaceuticals Ltd)
+amp,19839911000001107,0502010B0AAADAD,Fluconazole 50mg/25ml solution for infusion vials (Advanz Pharma)
+amp,13095111000001103,0502010B0AAAEAE,Fluconazole 200mg/100ml solution for infusion vials (Teva UK Ltd)
+amp,19571211000001100,0502010B0AAAEAE,Fluconazole 200mg/100ml solution for infusion vials (A A H Pharmaceuticals Ltd)
+amp,19840111000001100,0502010B0AAAEAE,Fluconazole 200mg/100ml solution for infusion vials (Advanz Pharma)
+amp,34533811000001102,0502010B0AAAEAE,Fluconazole 200mg/100ml solution for infusion vials (Peckforton Pharmaceuticals Ltd)
+amp,10573911000001109,0502010B0AAAKAK,Fluconazole 200mg/100ml infusion bags (Hospira UK Ltd)
+amp,11253111000001105,0502010B0AAAKAK,Fluconazole 200mg/100ml infusion bags (A A H Pharmaceuticals Ltd)
+amp,16550211000001100,0502010B0AAAKAK,Fluconazole 200mg/100ml infusion bags (Teva UK Ltd)
+amp,34753711000001108,0502010B0AAAKAK,Fluconazole 200mg/100ml infusion bags (Bowmed Ibisqus Ltd)
+amp,23063611000001108,0502010B0AAALAL,Fluconazole 200mg/100ml solution for infusion bottles (Kent Pharmaceuticals Ltd)
+amp,36076811000001100,0502010B0AAALAL,Fluconazole 200mg/100ml solution for infusion bottles (B.Braun Melsungen AG)
+amp,36570911000001109,0502010B0AAALAL,Fluconazole 200mg/100ml solution for infusion bottles (Fresenius Kabi Ltd)
+amp,23064311000001101,0502010B0AAAMAM,Fluconazole 100mg/50ml solution for infusion bottles (Kent Pharmaceuticals Ltd)
+amp,28041811000001101,0502010B0AAAMAM,Fluconazole 100mg/50ml solution for infusion bottles (A A H Pharmaceuticals Ltd)
+amp,35833811000001109,0502010B0AAAMAM,Fluconazole 100mg/50ml solution for infusion bottles (Consilient Health Ltd)
+amp,34754211000001103,0502010B0AAANAN,Fluconazole 400mg/200ml infusion bags (Bowmed Ibisqus Ltd)
+amp,36775911000001101,0502010B0AAAPAP,Fluconazole 100mg/50ml solution for infusion vials (Consilient Health Ltd)
+amp,524111000001102,0502010B0BBADAD,Diflucan 50mg/25ml solution for infusion vials (Pfizer Ltd)
+amp,8111000001100,0502010B0BBAEAE,Diflucan 200mg/100ml solution for infusion vials (Pfizer Ltd)
+amp,4827911000001100,0502010C0BBADAD,Sporanox I.V. 250mg/25ml solution for infusion ampoules and diluent (Janssen-Cilag Ltd)
+amp,32899211000001102,0502010D0AAACAC,Voriconazole 200mg powder for solution for infusion vials (Pfizer Ltd)
+amp,33219811000001102,0502010D0AAACAC,Voriconazole 200mg powder for solution for infusion vials (Aspire Pharma Ltd)
+amp,33417411000001109,0502010D0AAACAC,Voriconazole 200mg powder for solution for infusion vials (Panpharma UK Ltd)
+amp,34035611000001104,0502010D0AAACAC,Voriconazole 200mg powder for solution for infusion vials (Actavis UK Ltd)
+amp,34328211000001107,0502010D0AAACAC,Voriconazole 200mg powder for solution for infusion vials (A A H Pharmaceuticals Ltd)
+amp,34576111000001101,0502010D0AAACAC,Voriconazole 200mg powder for solution for infusion vials (Alliance Healthcare (Distribution) Ltd)
+amp,36568411000001106,0502010D0AAACAC,Voriconazole 200mg powder for solution for infusion vials (Fresenius Kabi Ltd)
+amp,4818411000001102,0502010D0BBACAC,VFEND 200mg powder for solution for infusion vials (Pfizer Ltd)
+amp,22546211000001104,0502010D0BBAEAF,VFEND 200mg powder and solvent for solution for infusion vials (Pfizer Ltd)
+amp,4702711000001105,0502030A0BCAAAA,Fungizone 50mg powder for concentrate for solution for infusion vials (Cheplapharm Arzneimittel GmbH)
+amp,21195711000001100,0502030A0BDAAAI,AmBisome Liposomal 50mg powder for dispersion for infusion vials (Gilead Sciences International Ltd)
+amp,21197911000001108,0502030A0BEAAAJ,Amphocil 50mg powder for solution for infusion vials (Beacon Pharmaceuticals Ltd)
+amp,21193611000001105,0502030A0BEABAM,Amphocil 100mg powder for solution for infusion vials (Beacon Pharmaceuticals Ltd)
+amp,35607711000001106,0502040A0AAABAB,Anidulafungin 100mg powder for concentrate for solution for infusion vials (Teva UK Ltd)
+amp,37618511000001104,0502040A0AAABAB,Anidulafungin 100mg powder for concentrate for solution for infusion vials (Accord Healthcare Ltd)
+amp,37766211000001108,0502040A0AAABAB,Anidulafungin 100mg powder for concentrate for solution for infusion vials (A A H Pharmaceuticals Ltd)
+amp,12789711000001109,0502040A0BBAAAA,Ecalta 100mg powder and solvent for concentrate for solution for infusion vials (Pfizer Ltd)
+amp,16637811000001109,0502040A0BBABAB,Ecalta 100mg powder for concentrate for solution for infusion vials (Pfizer Ltd)
+amp,13798911000001108,0502040B0BBAAAA,Mycamine 100mg powder for solution for infusion vials (Astellas Pharma Ltd)
+amp,13786611000001102,0502040B0BBABAB,Mycamine 50mg powder for solution for infusion vials (Astellas Pharma Ltd)
+amp,34445511000001107,0502040C0AAAAAA,Caspofungin 50mg powder for concentrate for solution for infusion vials (Teva UK Ltd)
+amp,34467211000001107,0502040C0AAAAAA,Caspofungin 50mg powder for concentrate for solution for infusion vials (A A H Pharmaceuticals Ltd)
+amp,34611311000001108,0502040C0AAAAAA,Caspofungin 50mg powder for concentrate for solution for infusion vials (Mylan)
+amp,34614211000001103,0502040C0AAAAAA,Caspofungin 50mg powder for concentrate for solution for infusion vials (Dr Reddy's Laboratories (UK) Ltd)
+amp,34664411000001103,0502040C0AAAAAA,Caspofungin 50mg powder for concentrate for solution for infusion vials (Zentiva)
+amp,34764711000001101,0502040C0AAAAAA,Caspofungin 50mg powder for concentrate for solution for infusion vials (Wockhardt UK Ltd)
+amp,34799411000001109,0502040C0AAAAAA,Caspofungin 50mg powder for concentrate for solution for infusion vials (Flynn Pharma Ltd)
+amp,34888211000001101,0502040C0AAAAAA,Caspofungin 50mg powder for concentrate for solution for infusion vials (Altan Pharma Ltd)
+amp,35722011000001106,0502040C0AAAAAA,Caspofungin 50mg powder for concentrate for solution for infusion vials (Tillomed Laboratories Ltd)
+amp,36810911000001100,0502040C0AAAAAA,Caspofungin 50mg powder for concentrate for solution for infusion vials (Sun Pharmaceutical Industries Europe B.V.)
+amp,34445311000001101,0502040C0AAABAB,Caspofungin 70mg powder for concentrate for solution for infusion vials (Teva UK Ltd)
+amp,34467411000001106,0502040C0AAABAB,Caspofungin 70mg powder for concentrate for solution for infusion vials (A A H Pharmaceuticals Ltd)
+amp,34614411000001104,0502040C0AAABAB,Caspofungin 70mg powder for concentrate for solution for infusion vials (Dr Reddy's Laboratories (UK) Ltd)
+amp,34616011000001103,0502040C0AAABAB,Caspofungin 70mg powder for concentrate for solution for infusion vials (Mylan)
+amp,34669311000001106,0502040C0AAABAB,Caspofungin 70mg powder for concentrate for solution for infusion vials (Zentiva)
+amp,34764511000001106,0502040C0AAABAB,Caspofungin 70mg powder for concentrate for solution for infusion vials (Wockhardt UK Ltd)
+amp,34799211000001105,0502040C0AAABAB,Caspofungin 70mg powder for concentrate for solution for infusion vials (Flynn Pharma Ltd)
+amp,34888411000001102,0502040C0AAABAB,Caspofungin 70mg powder for concentrate for solution for infusion vials (Altan Pharma Ltd)
+amp,35722211000001101,0502040C0AAABAB,Caspofungin 70mg powder for concentrate for solution for infusion vials (Tillomed Laboratories Ltd)
+amp,36811111000001109,0502040C0AAABAB,Caspofungin 70mg powder for concentrate for solution for infusion vials (Sun Pharmaceutical Industries Europe B.V.)
+amp,4847311000001104,0502040C0BBAAAA,Cancidas 50mg powder for solution for infusion vials (Merck Sharp & Dohme Ltd)
+amp,4847711000001100,0502040C0BBABAB,Cancidas 70mg powder for solution for infusion vials (Merck Sharp & Dohme Ltd)
+amp,7973411000001103,0503010J0BBAAAA,Fuzeon 108mg powder and solvent for solution for injection vials (Roche Products Ltd)
+amp,4620211000001103,0503010Y0BBAFAE,Retrovir IV 200mg/20ml concentrate for solution for infusion vials (ViiV Healthcare UK Ltd)
+amp,4443811000001109,0503021B0AAAAAA,Aciclovir 250mg powder for solution for infusion vials (A A H Pharmaceuticals Ltd)
+amp,4444011000001101,0503021B0AAAAAA,Aciclovir 250mg powder for solution for infusion vials (Genus Pharmaceuticals Ltd)
+amp,13142411000001100,0503021B0AAAAAA,Aciclovir 250mg powder for solution for infusion vials (Wockhardt UK Ltd)
+amp,35834311000001103,0503021B0AAAAAA,Aciclovir 250mg powder for solution for infusion vials (Consilient Health Ltd)
+amp,36398411000001105,0503021B0AAAAAA,Aciclovir 250mg powder for solution for Infusion vials (Bowmed Ibisqus Ltd)
+amp,4444511000001109,0503021B0AAABAB,Aciclovir 500mg powder for solution for infusion vials (A A H Pharmaceuticals Ltd)
+amp,4444711000001104,0503021B0AAABAB,Aciclovir 500mg powder for solution for infusion vials (Genus Pharmaceuticals Ltd)
+amp,35829211000001107,0503021B0AAABAB,Aciclovir 500mg powder for solution for infusion vials (Consilient Health Ltd)
+amp,4444211000001106,0503021B0BBAAAA,Zovirax I.V. 250mg powder for solution for infusion vials (GlaxoSmithKline UK Ltd)
+amp,4444911000001102,0503021B0BBABAB,Zovirax I.V. 500mg powder for solution for infusion vials (GlaxoSmithKline UK Ltd)
+amp,10067011000001109,0503021C0AAAIAI,Aciclovir 250mg/10ml concentrate for solution for infusion vials (Pfizer Ltd)
+amp,18498111000001100,0503021C0AAAIAI,Aciclovir 250mg/10ml concentrate for solution for infusion vials (A A H Pharmaceuticals Ltd)
+amp,34494011000001107,0503021C0AAAIAI,Aciclovir 250mg/10ml concentrate for solution for infusion vials (Peckforton Pharmaceuticals Ltd)
+amp,10067311000001107,0503021C0AAAJAJ,Aciclovir 500mg/20ml solution for infusion vials (Pfizer Ltd)
+amp,19236111000001105,0503021C0AAAJAJ,Aciclovir 500mg/20ml solution for infusion vials (A A H Pharmaceuticals Ltd)
+amp,33349111000001108,0503021C0AAAJAJ,Aciclovir 500mg/20ml concentrate for solution for infusion vials (Peckforton Pharmaceuticals Ltd)
+amp,10067611000001102,0503021C0AAAKAK,Aciclovir 1g/40ml solution for infusion vials (Pfizer Ltd)
+amp,36493211000001105,0503022C0AAAAAA,Cidofovir 375mg/5ml concentrate for solution for infusion vials (Tillomed Laboratories Ltd)
+amp,4641611000001108,0503022C0BBAAAA,Vistide 375mg/5ml solution for infusion vials (Gilead Sciences International Ltd)
+amp,36011511000001104,0503022C0BBABAA,Vistide 375mg/5ml solution for infusion vials (Imported (United States))
+amp,35384311000001106,0503022D0AAAAAA,Ganciclovir 500mg powder for concentrate for solution for infusion vials (Kensington Pharma Ltd)
+amp,35672111000001101,0503022D0AAAAAA,Ganciclovir 500mg powder for concentrate for solution for infusion vials (A A H Pharmaceuticals Ltd)
+amp,36867911000001103,0503022D0AAAAAA,Ganciclovir 500mg powder for concentrate for solution for infusion vials (Reig Jofre UK Ltd)
+amp,4351411000001103,0503022D0BBAAAA,Cymevene 500mg powder for concentrate for solution for infusion vials (Cheplapharm Arzneimittel GmbH)
+amp,4596311000001108,0503022E0BBABAB,Foscavir 6g/250ml solution for infusion bottles (Clinigen Healthcare Ltd)
+amp,4831711000001108,0503050A0BBAAAA,Synagis 100mg powder and solvent for solution for injection vials (AbbVie Ltd)
+amp,4832511000001106,0503050A0BBABAB,Synagis 50mg powder and solvent for solution for injection vials (AbbVie Ltd)
+amp,30251311000001102,0503050A0BBACAC,Synagis 50mg/0.5ml solution for injection vials (AbbVie Ltd)
+amp,30251611000001107,0503050A0BBADAD,Synagis 100mg/1ml solution for injection vials (AbbVie Ltd)
+amp,15652011000001101,0503050B0BCACAI,Virazole 1.2g/12ml solution for injection vials (Mylan)
+amp,4869911000001103,0504010G0AAAAAA,Chloroquine sulfate 200mg/5ml solution for injection ampoules (Alliance Healthcare (Distribution) Ltd)
+amp,5858911000001108,0504010G0AAAAAA,Chloroquine sulfate 200mg/5ml solution for injection ampoules (A A H Pharmaceuticals Ltd)
+amp,8824411000001104,0504010G0AAAAAA,Chloroquine sulfate 200mg/5ml solution for injection ampoules (Sanofi)
+amp,4385111000001102,0504010G0BBACAA,Nivaquine 200mg/5ml solution for injection ampoules (Aventis Pharma)
+amp,10535111000001105,0504010V0AAAFAF,Quinine dihydrochloride 600mg/2ml concentrate for solution for infusion ampoules (Special Order)
+amp,10535411000001100,0504010V0AAAGAG,Quinine dihydrochloride 300mg/1ml concentrate for solution for infusion ampoules (Special Order)
+amp,4735811000001100,0504050S0BBAAAA,Pentostam 10g/100ml solution for injection vials (GlaxoSmithKline UK Ltd)
+amp,4384211000001107,0504080P0BBAAAA,Pentacarinat 300mg powder for solution for injection vials (Sanofi)
+vmp,323398002,0501011J0AAABAB,Benzylpenicillin 600mg powder for solution for injection vials
+vmp,323396003,0501011J0AAAFAF,Benzylpenicillin 1.2g powder for solution for injection vials
+vmp,323491007,0501012G0AAACAC,Flucloxacillin 250mg powder for solution for injection vials
+vmp,323492000,0501012G0AAADAD,Flucloxacillin 500mg powder for solution for injection vials
+vmp,323493005,0501012G0AAAEAE,Flucloxacillin 1g powder for solution for injection vials
+vmp,34769611000001109,0501012G0AAARAR,Flucloxacillin 2g powder for solution for injection vials
+vmp,9553611000001102,0501012U0AAABAB,Temocillin 1g powder for solution for injection vials
+vmp,323737008,0501013C0AAACAC,Amoxicillin 250mg powder for solution for injection vials
+vmp,323738003,0501013C0AAADAD,Amoxicillin 500mg powder for solution for injection vials
+vmp,323739006,0501013C0AAAEAE,Amoxicillin 1g powder for solution for injection vials
+vmp,323584006,0501013E0AAADAD,Ampicillin 500mg powder for solution for injection vials
+vmp,323567000,0501013K0AAAEAE,Co-amoxiclav 500mg/100mg powder for solution for injection vials
+vmp,323568005,0501013K0AAAFAF,Co-amoxiclav 1000mg/200mg powder for solution for injection vials
+vmp,323626004,0501013L0AAABAB,Co-fluampicil 250mg/250mg powder for solution for injection vials
+vmp,323772006,0501014N0AAACAC,Ticarcillin 3g / Clavulanic acid 200mg powder for solution for infusion vials
+vmp,323673005,0501014S0AAAAAA,Piperacillin 2g / Tazobactam 250mg powder for solution for infusion vials
+vmp,323671007,0501014S0AAABAB,Piperacillin 4g / Tazobactam 500mg powder for solution for infusion vials
+vmp,4651611000001105,0501014S0AAACAC,Piperacillin 4g / Tazobactam 500mg powder and solvent for solution for injection vials
+vmp,323999000,050102020AAAAAA,Cefpirome 1g powder for solution for injection vials
+vmp,324000003,050102020AAABAB,Cefpirome 2g powder for solution for injection vials
+vmp,36458411000001105,0501020ADAAAAAA,Cefepime 1g powder for solution for injection vials
+vmp,36458511000001109,0501020ADAAABAB,Cefepime 2g powder for solution for injection vials
+vmp,4457111000001107,0501020T0AAABAB,Cefamandole 1g powder for solution for injection vials
+vmp,323935008,0501020V0AAAAAA,Cefazolin 500mg powder for solution for injection vials
+vmp,323936009,0501020V0AAABAB,Cefazolin 1g powder for solution for injection vials
+vmp,33631211000001106,0501020V0AAADAD,Cefazolin 2g powder for solution for injection vials
+vmp,323824004,0501021D0AAAAAA,Cefotaxime 500mg powder for solution for injection vials
+vmp,323825003,0501021D0AAABAB,Cefotaxime 1g powder for solution for injection vials
+vmp,4558311000001100,0501021D0AAACAC,Cefotaxime 2g powder for solution for injection vials
+vmp,323829009,0501021E0AAADAD,Cefoxitin 1g powder for solution for injection vials
+vmp,323830004,0501021E0AAAEAE,Cefoxitin 2g powder for solution for injection vials
+vmp,323989005,0501021G0AAABAB,Ceftriaxone 250mg powder for solution for injection vials
+vmp,323990001,0501021G0AAACAC,Ceftriaxone 1g powder for solution for injection vials
+vmp,323991002,0501021G0AAADAD,Ceftriaxone 2g powder for solution for injection vials
+vmp,323853003,0501021H0AAAAAA,Ceftazidime 500mg powder for solution for injection vials
+vmp,323854009,0501021H0AAABAB,Ceftazidime 1g powder for solution for injection vials
+vmp,323855005,0501021H0AAACAC,Ceftazidime 2g powder for solution for injection vials
+vmp,323852008,0501021H0AAADAD,Ceftazidime 250mg powder for solution for injection vials
+vmp,323849000,0501021H0AAAHAH,Ceftazidime 3g powder for solution for injection vials
+vmp,323880005,0501021J0AAAAAA,Cefuroxime 250mg powder for injection vials
+vmp,36134711000001107,0501021J0AAABAB,Cefuroxime 750mg powder for injection vials
+vmp,4557611000001106,0501021J0AAACAC,Cefuroxime 1.5g powder for injection vials
+vmp,323947002,0501021M0AAACAC,Cefradine 500mg powder for solution for injection vials
+vmp,323948007,0501021M0AAADAD,Cefradine 1g powder for solution for injection vials
+vmp,324343004,0501022A0AAAAAA,Meropenem 500mg powder for solution for injection vials
+vmp,324344005,0501022A0AAABAB,Meropenem 1g powder for solution for injection vials
+vmp,4792411000001101,0501022B0AAAAAA,Ertapenem 1g powder for solution for infusion vials
+vmp,428353009,0501022C0AAAAAA,Doripenem 500mg powder for solution for infusion vials
+vmp,4396211000001103,0501022D0AAAAAA,Imipenem 500mg / Cilastatin 500mg powder for solution for infusion vials
+vmp,323970005,0501022D0AAACAC,Imipenem 500mg / Cilastatin 500mg powder for suspension for injection vials
+vmp,323962000,0501023A0AAAAAA,Aztreonam 2g powder for solution for injection vials
+vmp,323961007,0501023A0AAABAB,Aztreonam 1g powder for solution for injection vials
+vmp,323960008,0501023A0AAACAC,Aztreonam 500mg powder for solution for injection vials
+vmp,10328711000001100,0501030Y0AAAAAA,Tigecycline 50mg powder for solution for infusion vials
+vmp,35899911000001109,0501040C0AAAAAA,Amikacin 500mg/2ml solution for injection vials
+vmp,35899811000001104,0501040C0AAADAD,Amikacin 100mg/2ml solution for injection vials
+vmp,36051011000001102,0501040H0AAAAAA,Gentamicin 80mg/2ml solution for injection ampoules
+vmp,36063011000001107,0501040H0AAAEAE,Gentamicin 20mg/2ml solution for injection vials
+vmp,4615711000001107,0501040H0AAAHAH,Gentamicin 5mg/1ml solution for injection ampoules
+vmp,36051111000001101,0501040H0AAAMAM,Gentamicin 80mg/2ml solution for injection vials
+vmp,36050911000001105,0501040H0AAAQAQ,Gentamicin 40mg/1ml solution for injection ampoules
+vmp,29903511000001102,0501040H0AABBBB,Gentamicin 20mg/2ml solution for injection ampoules
+vmp,29951311000001103,0501040H0AABCBC,Gentamicin 80mg/80ml infusion bags
+vmp,29951111000001100,0501040H0AABDBD,Gentamicin 240mg/80ml infusion bags
+vmp,29951211000001106,0501040H0AABEBE,Gentamicin 360mg/120ml infusion bags
+vmp,36031111000001100,0501040R0AAAAAA,Netilmicin 15mg/1.5ml solution for injection ampoules
+vmp,36031311000001103,0501040R0AAABAB,Netilmicin 50mg/1ml solution for injection ampoules
+vmp,36030911000001109,0501040R0AAACAC,Netilmicin 100mg/1ml solution for injection ampoules
+vmp,36031011000001101,0501040R0AAAEAE,Netilmicin 150mg/1.5ml solution for injection ampoules
+vmp,36031211000001106,0501040R0AAAFAF,Netilmicin 200mg/2ml solution for injection ampoules
+vmp,34194211000001103,0501040U0AAAAAA,Tobramycin 20mg/2ml solution for injection vials
+vmp,4957911000001108,0501040U0AAABAB,Tobramycin 40mg/1ml solution for injection vials
+vmp,4145011000001103,0501040U0AAACAC,Tobramycin 80mg/2ml solution for injection vials
+vmp,35919711000001100,0501040U0AAAEAE,Tobramycin 40mg/1ml solution for injection ampoules
+vmp,35919811000001108,0501040U0AAAFAF,Tobramycin 80mg/2ml solution for infusion ampoules
+vmp,4516011000001106,0501040U0AAAIAI,Tobramycin 240mg/6ml solution for injection vials
+vmp,324242007,0501050B0AAACAC,Clarithromycin 500mg powder for solution for infusion vials
+vmp,324215006,0501050K0AAAAAA,Erythromycin 1g powder for solution for infusion vials
+vmp,36087211000001109,0501060E0AAAAAA,Clindamycin 300mg/2ml solution for injection ampoules
+vmp,36087311000001101,0501060E0AAABAB,Clindamycin 600mg/4ml solution for injection ampoules
+vmp,29734011000001109,0501070ADAAAAAA,Tedizolid 200mg powder for solution for infusion vials
+vmp,34377311000001104,0501070AFAAAAAA,Dalbavancin 500mg powder for solution for infusion vials
+vmp,324303009,0501070F0AAACAC,Chloramphenicol 1g powder for solution for injection vials
+vmp,35927411000001109,0501070N0AAABAB,Sodium fusidate 500mg powder and solvent for solution for infusion vials
+vmp,35915211000001109,0501070T0AAAAAA,Teicoplanin 400mg powder and solvent for solution for injection vials
+vmp,35915111000001103,0501070T0AAABAB,Teicoplanin 200mg powder and solvent for solution for injection vials
+vmp,324337001,0501070U0AAACAC,Vancomycin 500mg powder for solution for infusion vials
+vmp,324333002,0501070U0AAAFAF,Vancomycin 1g powder for solution for infusion vials
+vmp,324354009,0501070V0AAAAAA,Quinupristin 150mg / Dalfopristin 350mg powder for solution for infusion vials
+vmp,36040111000001105,0501070W0AAACAC,Linezolid 600mg/300ml infusion bags
+vmp,36441911000001108,0501070W0AAADAD,Linezolid 600mg/300ml solution for infusion bottles
+vmp,10140911000001105,0501070Y0AAAAAA,Daptomycin 350mg powder for solution for infusion vials
+vmp,10961311000001108,0501070Y0AAABAB,Daptomycin 500mg powder for solution for infusion vials
+vmp,3653911000001100,0501080D0AAABAB,Co-trimoxazole 80mg/400mg/5ml solution for infusion ampoules
+vmp,36091911000001107,0501080D0AAATAT,Co-trimoxazole 160mg/800mg/10ml solution for infusion ampoules
+vmp,36144011000001106,0501080W0AAAAAA,Trimethoprim 100mg/5ml solution for injection ampoules
+vmp,324455006,0501090C0AAAAAA,Capreomycin 1g powder for solution for injection vials
+vmp,36050011000001106,0501090K0AAADAD,Isoniazid 50mg/2ml solution for injection ampoules
+vmp,35934511000001102,0501090R0AAADAD,Rifampicin 600mg powder and solvent for solution for infusion vials
+vmp,324503008,0501090U0AAAAAA,Streptomycin 1g powder for solution for injection vials
+vmp,34194011000001108,0501110C0AAADAD,Metronidazole 100mg/20ml solution for infusion ampoules
+vmp,34617211000001105,0501110C0AAAKAK,Metronidazole 500mg/100ml solution for infusion bottles
+vmp,36035611000001106,0501110C0AABABA,Metronidazole 500mg/100ml infusion 100ml bags
+vmp,36140911000001100,0501120L0AAABAB,Ciprofloxacin 100mg/50ml solution for infusion bottles
+vmp,8967411000001108,0501120L0AAADAD,Ciprofloxacin 200mg/100ml solution for infusion bottles
+vmp,8973011000001101,0501120L0AAAYAY,Ciprofloxacin 400mg/200ml solution for infusion bottles
+vmp,36141011000001108,0501120L0AABEBE,Ciprofloxacin 200mg/100ml infusion bags
+vmp,36141511000001100,0501120L0AABFBF,Ciprofloxacin 400mg/200ml infusion bags
+vmp,10892711000001106,0501120L0AABQBQ,Ciprofloxacin 100mg/50ml solution for infusion vials
+vmp,10892811000001103,0501120L0AABRBR,Ciprofloxacin 200mg/100ml solution for infusion vials
+vmp,10892911000001108,0501120L0AABSBS,Ciprofloxacin 400mg/200ml solution for infusion vials
+vmp,324615001,0501120P0AAACAC,Ofloxacin 200mg/100ml solution for infusion bottles
+vmp,36038911000001106,0501120X0AAACAC,Levofloxacin 500mg/100ml solution for infusion vials
+vmp,19448711000001105,0501120X0AAADAD,Levofloxacin 500mg/100ml infusion bags
+vmp,23108311000001101,0501120X0AAAEAE,Levofloxacin 500mg/100ml solution for infusion bottles
+vmp,16756911000001108,0501120Y0AAABAB,Moxifloxacin 400mg/250ml solution for infusion bottles
+vmp,36028511000001101,0501120Y0AAACAC,Moxifloxacin 400mg/250ml infusion bags
+vmp,28013311000001101,0502010A0AAACAC,Posaconazole 300mg/16.7ml solution for infusion vials
+vmp,36067611000001108,0502010B0AAADAD,Fluconazole 50mg/25ml solution for infusion vials
+vmp,3458511000001101,0502010B0AAAEAE,Fluconazole 200mg/100ml solution for infusion vials
+vmp,10606711000001104,0502010B0AAAKAK,Fluconazole 200mg/100ml infusion bags
+vmp,23108011000001104,0502010B0AAALAL,Fluconazole 200mg/100ml solution for infusion bottles
+vmp,23107711000001103,0502010B0AAAMAM,Fluconazole 100mg/50ml solution for infusion bottles
+vmp,34769711000001100,0502010B0AAANAN,Fluconazole 400mg/200ml infusion bags
+vmp,36777211000001102,0502010B0AAAPAP,Fluconazole 100mg/50ml solution for infusion vials
+vmp,36050811000001100,0502010C0AAADAD,Itraconazole 250mg/25ml solution for infusion ampoules and diluent
+vmp,386119001,0502010D0AAACAC,Voriconazole 200mg powder for solution for infusion vials
+vmp,22556111000001107,0502010D0AAAFAF,Voriconazole 200mg powder and solvent for solution for infusion vials
+vmp,324658002,0502030A0AAAAAA,Amphotericin B 50mg powder for solution for infusion vials
+vmp,21199211000001105,0502030A0AAAIAI,Amphotericin B liposomal 50mg powder for dispersion for infusion vials
+vmp,21199411000001109,0502030A0AAAJAJ,Amphotericin B sodium cholesteryl sulfate complex 50mg powder for solution for infusion vials
+vmp,21199311000001102,0502030A0AAAMAM,Amphotericin B sodium cholesteryl sulfate complex 100mg powder for solution for infusion vials
+vmp,12818311000001100,0502040A0AAAAAA,Anidulafungin 100mg powder and solvent for solution for infusion vials
+vmp,16642611000001108,0502040A0AAABAB,Anidulafungin 100mg powder for solution for infusion vials
+vmp,425120008,0502040B0AAAAAA,Micafungin 100mg powder for solution for infusion vials
+vmp,416860003,0502040B0AAABAB,Micafungin 50mg powder for solution for infusion vials
+vmp,4847911000001103,0502040C0AAAAAA,Caspofungin 50mg powder for solution for infusion vials
+vmp,4848011000001101,0502040C0AAABAB,Caspofungin 70mg powder for solution for infusion vials
+vmp,7973211000001102,0503010J0AAAAAA,Enfuvirtide 108mg powder and solvent for solution for injection vials
+vmp,4623211000001108,0503010Y0AAAEAE,Zidovudine 200mg/20ml solution for infusion vials
+vmp,324728003,0503021B0AAAAAA,Aciclovir 250mg powder for solution for infusion vials
+vmp,324735006,0503021B0AAABAB,Aciclovir 500mg powder for solution for infusion vials
+vmp,35892411000001107,0503021C0AAAIAI,Aciclovir 250mg/10ml solution for infusion vials
+vmp,35892511000001106,0503021C0AAAJAJ,Aciclovir 500mg/20ml solution for infusion vials
+vmp,35892211000001108,0503021C0AAAKAK,Aciclovir 1g/40ml solution for infusion vials
+vmp,36140511000001107,0503022C0AAAAAA,Cidofovir 375mg/5ml solution for infusion vials
+vmp,324781006,0503022D0AAAAAA,Ganciclovir 500mg powder for solution for infusion vials
+vmp,36061011000001106,0503022E0AAABAB,Foscarnet sodium 6g/250ml solution for infusion bottles
+vmp,36023911000001103,0503050A0AAAAAA,Palivizumab 100mg powder and solvent for solution for injection vials
+vmp,36024011000001100,0503050A0AAABAB,Palivizumab 50mg powder and solvent for solution for injection vials
+vmp,30319211000001108,0503050A0AAACAC,Palivizumab 50mg/0.5ml solution for injection vials
+vmp,30319111000001102,0503050A0AAADAD,Palivizumab 100mg/1ml solution for injection vials
+vmp,15774911000001104,0503050B0AAAIAI,Ribavirin 1.2g/12ml solution for injection vials
+vmp,4389011000001101,0504010G0AAAAAA,Chloroquine sulfate 200mg/5ml solution for injection ampoules
+vmp,324922007,0504010V0AAAFAF,Quinine dihydrochloride 600mg/2ml solution for infusion ampoules
+vmp,324921000,0504010V0AAAGAG,Quinine dihydrochloride 300mg/1ml solution for infusion ampoules
+vmp,324953009,0504050S0AAAAAA,Sodium stibogluconate 10g/100ml solution for injection vials
+vmp,325001005,0504080P0AAAAAA,Pentamidine 300mg powder for solution for injection vials
