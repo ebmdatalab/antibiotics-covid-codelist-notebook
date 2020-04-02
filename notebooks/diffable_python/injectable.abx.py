@@ -14,7 +14,7 @@
 #     name: python3
 # ---
 
-# This notebook contains SnoMed/dm+d codes for VMPs and AMPs for injectable antibiotics which have been defined in this [OpenPrescribing Injectable Antibiotics measure](https://openprescribing.net/measure/injectable_antibiotics/national/england/)
+# This notebook contains SnoMed/dm+d codes for VMPs and AMPs for injectable antibiotics which have been defined in this [OpenPrescribing Injectable Antibiotics measure](https://openprescribing.net/measure/injectable_antibiotics/national/england/). Will need final agreement on exact specification e.g. antimicrobial, antifungal etc.
 
 from ebmdatalab import bq
 import os

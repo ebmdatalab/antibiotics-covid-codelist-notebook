@@ -14,7 +14,7 @@
 #     name: python3
 # ---
 
-# This notebook contains dm+d SnoMed codes for oral antibiotics in chapter 5 o
+# This notebook contains dm+d SnoMed codes for oral antibiotics in chapter 5 of BNF. Will need final agreement on exact specification e.g. antimicrobial, antifungal etc.
 
 from ebmdatalab import bq
 import os
