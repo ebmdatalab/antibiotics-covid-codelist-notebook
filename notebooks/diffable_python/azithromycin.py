@@ -14,7 +14,7 @@
 #     name: python3
 # ---
 
-
+# Snomed/NHS Dictionary of Medicines Devices codes for oral preparations of azithromycin.
 
 from ebmdatalab import bq
 import os
@@ -42,6 +42,3 @@ ORDER BY type, bnf_code, id'''
 azithromycin_codelist = bq.cached_read(sql, csv_path=os.path.join('..','data','azithromycin_codelist.csv'))
 pd.set_option('display.max_rows', None)
 azithromycin_codelist
-# -
-
-
