@@ -10,7 +10,6 @@ amp,808511000001109,0501011P0AAADAD,Phenoxymethylpenicillin 125mg/5ml oral solut
 amp,9804611000001105,0501011P0AAADAD,Phenoxymethylpenicillin 125mg/5ml oral solution (Almus Pharmaceuticals Ltd)
 amp,10452211000001101,0501011P0AAADAD,Phenoxymethylpenicillin 125mg/5ml oral solution (Arrow Generics Ltd)
 amp,11144611000001104,0501011P0AAADAD,Phenoxymethylpenicillin 125mg/5ml oral solution (Karib Kemi-Pharm Ltd)
-amp,17954311000001108,0501011P0AAADAD,Phenoxymethylpenicillin 125mg/5ml oral solution sugar free (Phoenix Healthcare Distribution Ltd)
 amp,18719011000001104,0501011P0AAADAD,Phenoxymethylpenicillin 125mg/5ml oral solution (Sigma Pharmaceuticals Plc)
 amp,19736211000001105,0501011P0AAADAD,Phenoxymethylpenicillin 125mg/5ml oral solution (Medreich Plc)
 amp,20129511000001108,0501011P0AAADAD,Phenoxymethylpenicillin 125mg/5ml oral solution (Crescent Pharma Ltd)
@@ -27,7 +26,6 @@ amp,770211000001102,0501011P0AAAFAF,Phenoxymethylpenicillin 250mg/5ml oral solut
 amp,887811000001107,0501011P0AAAFAF,Phenoxymethylpenicillin 250mg/5ml oral solution (Kent Pharmaceuticals Ltd)
 amp,9805411000001108,0501011P0AAAFAF,Phenoxymethylpenicillin 250mg/5ml oral solution (Almus Pharmaceuticals Ltd)
 amp,10452411000001102,0501011P0AAAFAF,Phenoxymethylpenicillin 250mg/5ml oral solution (Arrow Generics Ltd)
-amp,17954511000001102,0501011P0AAAFAF,Phenoxymethylpenicillin 250mg/5ml oral solution sugar free (Phoenix Healthcare Distribution Ltd)
 amp,18719411000001108,0501011P0AAAFAF,Phenoxymethylpenicillin 250mg/5ml oral solution (Sigma Pharmaceuticals Plc)
 amp,20129711000001103,0501011P0AAAFAF,Phenoxymethylpenicillin 250mg/5ml oral solution (Crescent Pharma Ltd)
 amp,21038511000001103,0501011P0AAAFAF,Phenoxymethylpenicillin 250mg/5ml oral solution (Bristol Laboratories Ltd)
@@ -59,7 +57,9 @@ amp,9209211000001101,0501011P0AAARAR,Phenoxymethylpenicillin 125mg/5ml oral solu
 amp,9253911000001104,0501011P0AAARAR,Phenoxymethylpenicillin 125mg/5ml oral solution sugar free (A A H Pharmaceuticals Ltd)
 amp,9308011000001109,0501011P0AAARAR,Phenoxymethylpenicillin 125mg/5ml oral solution sugar free (Teva UK Ltd)
 amp,9842311000001100,0501011P0AAARAR,Phenoxymethylpenicillin 125mg/5ml oral solution sugar free (Mylan)
+amp,10452611000001104,0501011P0AAARAR,Phenoxymethylpenicillin 125mg/5ml oral solution sugar free (Arrow Generics Ltd)
 amp,16165811000001108,0501011P0AAARAR,Phenoxymethylpenicillin 125mg/5ml oral solution sugar free (Alliance Healthcare (Distribution) Ltd)
+amp,17954311000001108,0501011P0AAARAR,Phenoxymethylpenicillin 125mg/5ml oral solution sugar free (Phoenix Healthcare Distribution Ltd)
 amp,21038711000001108,0501011P0AAARAR,Phenoxymethylpenicillin 125mg/5ml oral solution sugar free (Bristol Laboratories Ltd)
 amp,21844311000001104,0501011P0AAARAR,Phenoxymethylpenicillin 125mg/5ml oral solution sugar free (Waymade Healthcare Plc)
 amp,21863211000001102,0501011P0AAARAR,Phenoxymethylpenicillin 125mg/5ml oral solution sugar free (Cubic Pharmaceuticals Ltd)
@@ -71,8 +71,10 @@ amp,9209511000001103,0501011P0AAASAS,Phenoxymethylpenicillin 250mg/5ml oral solu
 amp,9254111000001100,0501011P0AAASAS,Phenoxymethylpenicillin 250mg/5ml oral solution sugar free (A A H Pharmaceuticals Ltd)
 amp,9308211000001104,0501011P0AAASAS,Phenoxymethylpenicillin 250mg/5ml oral solution sugar free (Teva UK Ltd)
 amp,9842511000001106,0501011P0AAASAS,Phenoxymethylpenicillin 250mg/5ml oral solution sugar free (Mylan)
+amp,10452811000001100,0501011P0AAASAS,Phenoxymethylpenicillin 250mg/5ml oral solution sugar free (Arrow Generics Ltd)
 amp,11533211000001107,0501011P0AAASAS,Phenoxymethylpenicillin 250mg/5ml oral solution sugar free (Sandoz Ltd)
 amp,16166011000001106,0501011P0AAASAS,Phenoxymethylpenicillin 250mg/5ml oral solution sugar free (Alliance Healthcare (Distribution) Ltd)
+amp,17954511000001102,0501011P0AAASAS,Phenoxymethylpenicillin 250mg/5ml oral solution sugar free (Phoenix Healthcare Distribution Ltd)
 amp,21038911000001105,0501011P0AAASAS,Phenoxymethylpenicillin 250mg/5ml oral solution sugar free (Bristol Laboratories Ltd)
 amp,21834511000001106,0501011P0AAASAS,Phenoxymethylpenicillin 250mg/5ml oral solution sugar free (Cubic Pharmaceuticals Ltd)
 amp,21844511000001105,0501011P0AAASAS,Phenoxymethylpenicillin 250mg/5ml oral solution sugar free (Waymade Healthcare Plc)
@@ -81,7 +83,6 @@ amp,30856211000001108,0501011P0AAASAS,Phenoxymethylpenicillin 250mg/5ml oral sol
 amp,31058811000001100,0501011P0AAASAS,Phenoxymethylpenicillin 250mg/5ml oral solution sugar free (Actavis UK Ltd)
 amp,32492211000001103,0501011P0AAASAS,Phenoxymethylpenicillin 250mg/5ml oral solution sugar free (Brown & Burk UK Ltd)
 amp,37772811000001100,0501011P0AAASAS,Phenoxymethylpenicillin 250mg/5ml oral solution sugar free (DE Pharmaceuticals)
-amp,849911000001104,0501011P0BNADAJ,Tenkicin 250mg tablets (Kent Pharmaceuticals Ltd)
 amp,120711000001100,0501012G0AAAAAA,Flucloxacillin 250mg capsules (A A H Pharmaceuticals Ltd)
 amp,135511000001102,0501012G0AAAAAA,Flucloxacillin 250mg capsules (Sandoz Ltd)
 amp,194111000001102,0501012G0AAAAAA,Flucloxacillin 250mg capsules (IVAX Pharmaceuticals UK Ltd)
@@ -163,9 +164,6 @@ amp,28096511000001103,0501012G0AAAQAQ,Flucloxacillin 250mg/5ml oral solution sug
 amp,37732211000001103,0501012G0AAAQAQ,Flucloxacillin 250mg/5ml oral solution sugar free (Novelgenix Therapeutics Ltd)
 amp,471111000001107,0501012G0BBAAAA,Floxapen 250mg capsules (Actavis UK Ltd)
 amp,888011000001100,0501012G0BBABAB,Floxapen 500mg capsules (Actavis UK Ltd)
-amp,748211000001100,0501012G0BCAAAA,Ladropen 250mg capsules (Teva UK Ltd)
-amp,703911000001109,0501012G0BCABAB,Ladropen 500mg capsules (Teva UK Ltd)
-amp,251311000001107,0501012G0BGACAA,Fluclomix 250 capsules (Ashbourne Pharmaceuticals Ltd)
 amp,499611000001105,0501012G0BGADAB,Fluclomix 500 capsules (Ashbourne Pharmaceuticals Ltd)
 amp,811111000001105,0501012H0BBAAAA,Floxapen 125mg/5ml syrup (Actavis UK Ltd)
 amp,442211000001107,0501012H0BBABAB,Floxapen 250mg/5ml syrup (Actavis UK Ltd)
@@ -198,6 +196,7 @@ amp,13811000001100,0501013B0AAABAB,Amoxicillin 500mg capsules (Kent Pharmaceutic
 amp,53711000001102,0501013B0AAABAB,Amoxicillin 500mg capsules (Sandoz Ltd)
 amp,116511000001101,0501013B0AAABAB,Amoxicillin 500mg capsules (Alliance Healthcare (Distribution) Ltd)
 amp,181511000001108,0501013B0AAABAB,Amoxicillin 500mg capsules (Ranbaxy (UK) Ltd)
+amp,268011000001106,0501013B0AAABAB,Amoxicillin 500mg capsules (Pfizer Ltd)
 amp,406811000001101,0501013B0AAABAB,Amoxicillin 500mg capsules (Actavis UK Ltd)
 amp,668411000001104,0501013B0AAABAB,Amoxicillin 500mg capsules (Teva UK Ltd)
 amp,802011000001104,0501013B0AAABAB,Amoxicillin 500mg capsules (IVAX Pharmaceuticals UK Ltd)
@@ -306,23 +305,11 @@ amp,234411000001104,0501013B0BCAEAS,Amoxil 125mg/5ml syrup sucrose free (GlaxoSm
 amp,689711000001103,0501013B0BCAFAT,Amoxil 250mg/5ml syrup sucrose free (GlaxoSmithKline UK Ltd)
 amp,389311000001106,0501013B0BCAGAI,Amoxil 125mg/1.25ml paediatric oral suspension (GlaxoSmithKline UK Ltd)
 amp,3243311000001101,0501013B0BCAIAH,Amoxil 3g oral powder sachets sucrose free (GlaxoSmithKline UK Ltd)
-amp,196111000001109,0501013B0BDABAJ,Almodan 125mg/5ml syrup (Teva UK Ltd)
-amp,644811000001100,0501013B0BFAEAA,Amix 250 capsules (Ashbourne Pharmaceuticals Ltd)
-amp,121011000001106,0501013B0BFAFAB,Amix 500 capsules (Ashbourne Pharmaceuticals Ltd)
-amp,774011000001100,0501013B0BFAGAS,Amix 125 oral suspension (Ashbourne Pharmaceuticals Ltd)
-amp,252511000001109,0501013B0BFAIAT,Amix 250 oral suspension (Ashbourne Pharmaceuticals Ltd)
 amp,500511000001107,0501013B0BGAAAA,Amoram 250mg capsules (LPC Medical (UK) Ltd)
 amp,19211000001104,0501013B0BGABAB,Amoram 500mg capsules (LPC Medical (UK) Ltd)
 amp,42011000001106,0501013B0BGACAS,Amoram 125mg/5ml oral suspension (LPC Medical (UK) Ltd)
 amp,284811000001105,0501013B0BGADAT,Amoram 250mg/5ml oral suspension (LPC Medical (UK) Ltd)
-amp,2011000001104,0501013B0BHAAAA,Galenamox 250mg capsules (Galen Ltd)
-amp,130111000001103,0501013B0BHABAB,Galenamox 500mg capsules (Galen Ltd)
 amp,874611000001105,0501013B0BHACAS,Galenamox 125mg/5ml oral suspension (Galen Ltd)
-amp,190111000001106,0501013B0BHADAT,Galenamox 250mg/5ml oral suspension (Galen Ltd)
-amp,161011000001103,0501013B0BNACAA,Respillin 250mg capsules (Kent Pharmaceuticals Ltd)
-amp,14811000001102,0501013B0BNADAB,Respillin 500mg capsules (Kent Pharmaceuticals Ltd)
-amp,7339611000001107,0501013B0BRAAAA,Amoxident 250 capsules (Britannia Pharmaceuticals Ltd)
-amp,7339811000001106,0501013B0BRABAB,Amoxident 500 capsules (Britannia Pharmaceuticals Ltd)
 amp,305911000001106,0501013E0AAAAAA,Ampicillin 250mg capsules (Mylan)
 amp,529211000001107,0501013E0AAAAAA,Ampicillin 250mg capsules (Alliance Healthcare (Distribution) Ltd)
 amp,536211000001101,0501013E0AAAAAA,Ampicillin 250mg capsules (Actavis UK Ltd)
@@ -486,11 +473,6 @@ amp,932211000001108,0501013K0BBAJAD,Augmentin 125/31 SF oral suspension (GlaxoSm
 amp,866111000001100,0501013K0BBAKAG,Augmentin 250/62 SF oral suspension (GlaxoSmithKline UK Ltd)
 amp,292511000001103,0501013K0BBALAJ,Augmentin 625mg tablets (GlaxoSmithKline UK Ltd)
 amp,169511000001107,0501013K0BBAMAK,Augmentin-Duo 400/57 oral suspension (GlaxoSmithKline UK Ltd)
-amp,29011000001102,0501013K0BCAAAA,Amiclav 250mg/125mg tablets (Ashbourne Pharmaceuticals Ltd)
-amp,139811000001101,0501013K0BDAAAA,Ranclav 375mg tablets (Ranbaxy (UK) Ltd)
-amp,57911000001109,0501013K0BDABAJ,Ranclav 625mg tablets (Ranbaxy (UK) Ltd)
-amp,451111000001109,0501013K0BDACAG,Ranclav 250mg/62mg/5ml SF oral suspension (Ranbaxy (UK) Ltd)
-amp,618111000001108,0501013K0BDADAD,Ranclav 125mg/31mg/5ml SF oral suspension (Ranbaxy (UK) Ltd)
 amp,34411000001105,0501013L0AAAAAA,Co-fluampicil 250mg/250mg capsules (Actavis UK Ltd)
 amp,146111000001101,0501013L0AAAAAA,Co-fluampicil 250mg/250mg capsules (Kent Pharmaceuticals Ltd)
 amp,382411000001105,0501013L0AAAAAA,Co-fluampicil 250mg/250mg capsules (Sandoz Ltd)
@@ -518,9 +500,6 @@ amp,37305311000001105,0501015P0AAABAB,Pivmecillinam 200mg tablets (A A H Pharmac
 amp,37775511000001109,0501015P0AAABAB,Pivmecillinam 200mg tablets (DE Pharmaceuticals)
 amp,32744411000001108,0501015P0AAACAC,Pivmecillinam 200mg/5ml oral suspension (Special Order)
 amp,3685611000001102,0501015P0BBABAB,Selexid 200mg tablets (Karo Pharma)
-amp,4626311000001109,0501020AABBAAAA,Cefzil 250mg tablets (Bristol-Myers Squibb Pharmaceuticals Ltd)
-amp,4626611000001104,0501020AABBABAB,Cefzil 500mg tablets (Bristol-Myers Squibb Pharmaceuticals Ltd)
-amp,4627111000001105,0501020AABBACAC,Cefzil 250mg/5ml oral suspension (Bristol-Myers Squibb Pharmaceuticals Ltd)
 amp,233911000001105,0501021A0AAAAAA,Cefaclor 250mg capsules (Ranbaxy (UK) Ltd)
 amp,270911000001104,0501021A0AAAAAA,Cefaclor 250mg capsules (Teva UK Ltd)
 amp,275011000001109,0501021A0AAAAAA,Cefaclor 250mg capsules (A A H Pharmaceuticals Ltd)
@@ -553,6 +532,7 @@ amp,744311000001103,0501021A0AAAEAE,Cefaclor 500mg capsules (A A H Pharmaceutica
 amp,923811000001104,0501021A0AAAEAE,Cefaclor 500mg capsules (Ranbaxy (UK) Ltd)
 amp,4323911000001106,0501021A0AAAEAE,Cefaclor 500mg capsules (Kent Pharmaceuticals Ltd)
 amp,10291411000001104,0501021A0AAAEAE,Cefaclor 500mg capsules (Focus Pharmaceuticals Ltd)
+amp,15073011000001102,0501021A0AAAEAE,Cefaclor 500mg capsules (Sigma Pharmaceuticals Plc)
 amp,17826711000001106,0501021A0AAAEAE,Cefaclor 500mg capsules (Phoenix Healthcare Distribution Ltd)
 amp,168011000001109,0501021A0AAAGAG,Cefaclor 375mg modified-release tablets (Ranbaxy (UK) Ltd)
 amp,804411000001101,0501021A0AAAGAG,Cefaclor 375mg modified-release tablets (Alliance Healthcare (Distribution) Ltd)
@@ -574,10 +554,8 @@ amp,602211000001101,0501021A0BBACAC,Distaclor 250mg/5ml oral suspension (Flynn P
 amp,252811000001107,0501021A0BBADAE,Distaclor 500mg capsules (Flynn Pharma Ltd)
 amp,583511000001100,0501021A0BBAEAG,Distaclor MR 375mg tablets (Flynn Pharma Ltd)
 amp,555211000001108,0501021A0BDAAAA,Keftid 250mg capsules (Strides Pharma UK Ltd)
-amp,803611000001101,0501021A0BDABAE,Keftid 500mg capsules (Strides Pharma UK Ltd)
 amp,531011000001104,0501021A0BDACAJ,Keftid 125mg/5ml oral suspension (Strides Pharma UK Ltd)
 amp,318811000001107,0501021A0BDADAK,Keftid 250mg/5ml oral suspension (Strides Pharma UK Ltd)
-amp,869711000001109,0501021A0BEAAAG,Bacticlor MR 375mg tablets (Ranbaxy (UK) Ltd)
 amp,4814611000001109,0501021B0AAAAAA,Cefadroxil 500mg capsules (Sandoz Ltd)
 amp,5918311000001108,0501021B0AAAAAA,Cefadroxil 500mg capsules (Alliance Healthcare (Distribution) Ltd)
 amp,7887711000001102,0501021B0AAAAAA,Cefadroxil 500mg capsules (A A H Pharmaceuticals Ltd)
@@ -588,14 +566,11 @@ amp,19712411000001100,0501021B0AAAAAA,Cefadroxil 500mg capsules (DE Pharmaceutic
 amp,21821711000001101,0501021B0AAAAAA,Cefadroxil 500mg capsules (Waymade Healthcare Plc)
 amp,30009111000001103,0501021B0AAAAAA,Cefadroxil 500mg capsules (Mawdsley-Brooks & Company Ltd)
 amp,674111000001108,0501021B0BBAAAA,Baxan 500mg capsules (Bristol-Myers Squibb Pharmaceuticals Ltd)
-amp,912111000001109,0501021B0BBABAB,Baxan 125mg/5ml oral suspension (Bristol-Myers Squibb Pharmaceuticals Ltd)
-amp,60011000001100,0501021B0BBACAC,Baxan 250mg/5ml oral suspension (Bristol-Myers Squibb Pharmaceuticals Ltd)
 amp,304211000001103,0501021B0BBADAD,Baxan 500mg/5ml oral suspension (Bristol-Myers Squibb Pharmaceuticals Ltd)
 amp,34762811000001103,0501021C0AAACAC,Cefixime 400mg tablets (Rivopharm (UK) Ltd)
 amp,511411000001101,0501021C0BBAAAA,Suprax 200mg tablets (Sanofi)
 amp,3184511000001101,0501021C0BBABAB,Suprax Paediatric 100mg/5ml oral suspension (Sanofi)
 amp,3929911000001104,0501021F0BBAAAA,Orelox 100mg tablets (Sanofi)
-amp,3930911000001108,0501021F0BBABAB,Orelox 40mg/5ml oral suspension paediatric (Sanofi)
 amp,9547111000001104,0501021K0AAABAB,Cefuroxime 250mg tablets (Sandoz Ltd)
 amp,10096411000001100,0501021K0AAABAB,Cefuroxime 250mg tablets (A A H Pharmaceuticals Ltd)
 amp,10271811000001105,0501021K0AAABAB,Cefuroxime 250mg tablets (Alliance Healthcare (Distribution) Ltd)
@@ -609,7 +584,6 @@ amp,30011011000001101,0501021K0AAABAB,Cefuroxime 250mg tablets (Mawdsley-Brooks 
 amp,228011000001102,0501021K0BBAAAA,Zinnat 125mg tablets (GlaxoSmithKline UK Ltd)
 amp,211911000001100,0501021K0BBABAB,Zinnat 250mg tablets (GlaxoSmithKline UK Ltd)
 amp,238811000001105,0501021K0BBACAC,Zinnat 125mg/5ml oral suspension (GlaxoSmithKline UK Ltd)
-amp,3253511000001109,0501021K0BBADAD,Zinnat Suspension 125mg granules sachets (GlaxoSmithKline UK Ltd)
 amp,3611000001101,0501021L0AAAAAA,Cefalexin 250mg capsules (IVAX Pharmaceuticals UK Ltd)
 amp,34811000001107,0501021L0AAAAAA,Cefalexin 250mg capsules (Actavis UK Ltd)
 amp,216811000001100,0501021L0AAAAAA,Cefalexin 250mg capsules (Mylan)
@@ -675,6 +649,7 @@ amp,30010611000001103,0501021L0AAADAD,Cefalexin 250mg/5ml oral suspension (Mawds
 amp,30136211000001103,0501021L0AAADAD,Cefalexin 250mg/5ml oral suspension (DE Pharmaceuticals)
 amp,37510711000001104,0501021L0AAADAD,Cefalexin 250mg/5ml oral suspension (Flynn Pharma Ltd)
 amp,8825611000001100,0501021L0AAAEAE,Cefalexin 500mg/5ml oral suspension (Kent Pharmaceuticals Ltd)
+amp,15074311000001102,0501021L0AAAEAE,Cefalexin 500mg/5ml oral suspension (Sigma Pharmaceuticals Plc)
 amp,21825911000001102,0501021L0AAAEAE,Cefalexin 500mg/5ml oral suspension (Waymade Healthcare Plc)
 amp,30769411000001109,0501021L0AAAEAE,Cefalexin 500mg/5ml oral suspension (Ennogen Healthcare Ltd)
 amp,31565211000001103,0501021L0AAAEAE,Cefalexin 500mg/5ml oral suspension (J M McGill Ltd)
@@ -755,20 +730,14 @@ amp,21831111000001100,0501021M0AAABAB,Cefradine 500mg capsules (Waymade Healthca
 amp,22632411000001107,0501021M0AAABAB,Cefradine 500mg capsules (DE Pharmaceuticals)
 amp,29783311000001104,0501021M0AAABAB,Cefradine 500mg capsules (Sigma Pharmaceuticals Plc)
 amp,30010811000001104,0501021M0AAABAB,Cefradine 500mg capsules (Mawdsley-Brooks & Company Ltd)
-amp,705811000001100,0501021M0BBAAAA,Velosef 250mg capsules (Bristol-Myers Squibb Pharmaceuticals Ltd)
 amp,8911000001102,0501021M0BBABAB,Velosef 500mg capsules (Bristol-Myers Squibb Pharmaceuticals Ltd)
-amp,3466111000001104,0501021M0BBACAF,Velosef 250mg/5ml syrup (Bristol-Myers Squibb Pharmaceuticals Ltd)
 amp,435511000001103,0501021M0BCAAAA,Nicef 250mg capsules (Strides Pharma UK Ltd)
 amp,769211000001104,0501021M0BCABAB,Nicef 500mg capsules (Strides Pharma UK Ltd)
 amp,13385911000001100,0501030F0AAAAAA,Demeclocycline 150mg capsules (Advanz Pharma)
 amp,13479311000001102,0501030F0AAAAAA,Demeclocycline 150mg capsules (Alliance Healthcare (Distribution) Ltd)
 amp,13613311000001108,0501030F0AAAAAA,Demeclocycline 150mg capsules (A A H Pharmaceuticals Ltd)
-amp,11697311000001107,0501030F0AAAFAF,Demeclocycline 300mg/5ml oral suspension (Special Order)
-amp,11697611000001102,0501030F0AAAFAF,Demeclocycline 300mg/5ml oral solution (Special Order)
 amp,11696711000001108,0501030F0AAAGAG,Demeclocycline 150mg/5ml oral suspension (Special Order)
 amp,11697011000001109,0501030F0AAAGAG,Demeclocycline 150mg/5ml oral solution (Special Order)
-amp,11697911000001108,0501030F0AAAHAH,Demeclocycline 75mg/5ml oral suspension (Special Order)
-amp,11698211000001100,0501030F0AAAHAH,Demeclocycline 75mg/5ml oral solution (Special Order)
 amp,27808811000001108,0501030F0AAAIAI,Demeclocycline 150mg tablets (Imported (United States))
 amp,34802411000001103,0501030F0AAAIAI,Demeclocycline 150mg tablets (Special Order)
 amp,3722011000001101,0501030F0BBAAAA,Ledermycin 150mg capsules (Mercury Pharma Group Ltd)
@@ -791,6 +760,7 @@ amp,37071111000001104,0501030I0AAAAAA,Doxycycline 50mg capsules (Mawdsley-Brooks
 amp,37897811000001106,0501030I0AAAAAA,Doxycycline 50mg capsules (Dawa Ltd)
 amp,2850911000001108,0501030I0AAABAB,Doxycycline 100mg capsules (A A H Pharmaceuticals Ltd)
 amp,2851411000001109,0501030I0AAABAB,Doxycycline 100mg capsules (Actavis UK Ltd)
+amp,2851811000001106,0501030I0AAABAB,Doxycycline 100mg capsules (Approved Prescription Services Ltd)
 amp,2852311000001106,0501030I0AAABAB,Doxycycline 100mg capsules (The Boots Company Plc)
 amp,2852511000001100,0501030I0AAABAB,Doxycycline 100mg capsules (IVAX Pharmaceuticals UK Ltd)
 amp,2852911000001107,0501030I0AAABAB,Doxycycline 100mg capsules (Mylan)
@@ -815,8 +785,6 @@ amp,2849511000001107,0501030I0BEAAAA,Vibramycin 50 capsules (Pfizer Ltd)
 amp,2854011000001102,0501030I0BEABAB,Vibramycin 100mg capsules (Pfizer Ltd)
 amp,2847211000001103,0501030I0BEADAE,Vibramycin-D 100mg dispersible tablets (Pfizer Ltd)
 amp,2849711000001102,0501030I0BEAEAA,Vibramycin Acne Pack 50mg capsules (Pfizer Ltd)
-amp,2852111000001109,0501030I0BHAAAB,Demix 100 capsules (Ashbourne Pharmaceuticals Ltd)
-amp,2848211000001104,0501030I0BHABAA,Demix 50 capsules (Ashbourne Pharmaceuticals Ltd)
 amp,2853611000001106,0501030I0BLAAAB,Vibrox 100mg capsules (Kent Pharmaceuticals Ltd)
 amp,21219611000001105,0501030L0AAABAB,Lymecycline 408mg capsules (Teva UK Ltd)
 amp,21232111000001104,0501030L0AAABAB,Lymecycline 408mg capsules (A A H Pharmaceuticals Ltd)
@@ -862,19 +830,14 @@ amp,34019411000001108,0501030P0AAABAB,Minocycline 100mg tablets (Crescent Pharma
 amp,7975911000001107,0501030P0AAACAC,Minocycline 100mg modified-release capsules (A A H Pharmaceuticals Ltd)
 amp,9330111000001102,0501030P0AAACAC,Minocycline 100mg modified-release capsules (Kent Pharmaceuticals Ltd)
 amp,14781411000001109,0501030P0AAACAC,Minocycline 100mg modified-release capsules (Sandoz Ltd)
-amp,12979011000001107,0501030P0AAAFAF,Minocycline 50mg/5ml oral suspension (Special Order)
-amp,12979311000001105,0501030P0AAAFAF,Minocycline 50mg/5ml oral solution (Special Order)
 amp,123211000001102,0501030P0BBAAAA,Minocin 50mg tablets (Wyeth Pharmaceuticals)
 amp,621011000001105,0501030P0BBABAB,Minocin 100mg tablets (Wyeth Pharmaceuticals)
 amp,820411000001100,0501030P0BBACAC,Minocin MR 100mg capsules (Mylan)
-amp,921111000001105,0501030P0BCAAAA,Blemix 50mg tablets (Ashbourne Pharmaceuticals Ltd)
-amp,926911000001103,0501030P0BCABAB,Blemix 100mg tablets (Ashbourne Pharmaceuticals Ltd)
 amp,116911000001108,0501030P0BDAAAD,Aknemin 50 capsules (Almirall Ltd)
 amp,147511000001107,0501030P0BDABAE,Aknemin 100mg capsules (Almirall Ltd)
 amp,7393411000001103,0501030P0BGAAAC,Sebomin MR 100mg capsules (Actavis UK Ltd)
 amp,9361611000001109,0501030P0BHAAAC,Acnamino MR 100mg capsules (Dexcel-Pharma Ltd)
 amp,18248711000001106,0501030P0BHABAC,Acnamino MR 100mg capsules (Almus Pharmaceuticals Ltd)
-amp,9891211000001108,0501030P0BIAAAC,Sebren MR 100mg capsules (Teva UK Ltd)
 amp,3345011000001108,0501030T0AAAJAJ,Oxytetracycline 250mg tablets (A A H Pharmaceuticals Ltd)
 amp,3345611000001101,0501030T0AAAJAJ,Oxytetracycline 250mg tablets (Actavis UK Ltd)
 amp,3346311000001101,0501030T0AAAJAJ,Oxytetracycline 250mg tablets (Teva UK Ltd)
@@ -884,6 +847,7 @@ amp,3349611000001103,0501030T0AAAJAJ,Oxytetracycline 250mg tablets (Sussex Pharm
 amp,3350311000001102,0501030T0AAAJAJ,Oxytetracycline 250mg tablets (Alliance Healthcare (Distribution) Ltd)
 amp,4331711000001105,0501030T0AAAJAJ,Oxytetracycline 250mg tablets (Sandoz Ltd)
 amp,9802411000001100,0501030T0AAAJAJ,Oxytetracycline 250mg tablets (Almus Pharmaceuticals Ltd)
+amp,10436911000001108,0501030T0AAAJAJ,Oxytetracycline 250mg tablets (Arrow Generics Ltd)
 amp,11013711000001105,0501030T0AAAJAJ,Oxytetracycline 250mg tablets (Dr Reddy's Laboratories (UK) Ltd)
 amp,15114911000001103,0501030T0AAAJAJ,Oxytetracycline 250mg tablets (Sigma Pharmaceuticals Plc)
 amp,16062611000001107,0501030T0AAAJAJ,Oxytetracycline 250mg tablets (Bristol Laboratories Ltd)
@@ -897,9 +861,6 @@ amp,30071211000001104,0501030T0AAAJAJ,Oxytetracycline 250mg tablets (DE Pharmace
 amp,12989611000001106,0501030T0AAAPAP,Oxytetracycline 125mg/5ml oral suspension (Special Order)
 amp,12990511000001100,0501030T0AAAQAQ,Oxytetracycline 250mg/5ml oral suspension (Special Order)
 amp,12991011000001104,0501030T0AAARAR,Oxytetracycline 500mg/5ml oral suspension (Special Order)
-amp,12989211000001109,0501030T0AAATAT,Oxytetracycline 100mg/5ml oral suspension (Special Order)
-amp,3348411000001109,0501030T0BFAAAJ,Oxymycin 250mg tablets (Dr Reddy's Laboratories (UK) Ltd)
-amp,3348811000001106,0501030T0BGABAJ,Terramycin 250mg tablets (Pfizer Ltd)
 amp,3347011000001101,0501030T0BIAAAJ,Oxytetramix 250 tablets (Ashbourne Pharmaceuticals Ltd)
 amp,20291511000001104,0501030V0AAAAAA,Tetracycline 250mg capsules (Special Order)
 amp,47611000001101,0501030V0AAAFAF,Tetracycline 250mg tablets (A A H Pharmaceuticals Ltd)
@@ -914,20 +875,15 @@ amp,35593811000001102,0501030V0AAAFAF,Tetracycline 250mg tablets (RX Farma)
 amp,36074811000001107,0501030V0AAAFAF,Tetracycline 250mg tablets (Genesis Pharmaceuticals Ltd)
 amp,37824111000001101,0501030V0AAAFAF,Tetracycline 250mg tablets (DE Pharmaceuticals)
 amp,21406411000001101,0501030V0AAARAR,Tetracycline 125mg/5ml oral solution (Special Order)
-amp,4548811000001106,0501030V0BBAAAA,Achromycin 250mg capsules (Wyeth Pharmaceuticals)
 amp,917911000001109,0501030X0BBAAAA,Deteclo 300mg tablets (Mercury Pharma Group Ltd)
 amp,15656211000001107,0501030Z0BBAAAA,Efracea 40mg modified-release capsules (Galderma (UK) Ltd)
 amp,8494111000001107,0501040H0AAAWAW,Gentamicin 50mg/5ml oral solution (Special Order)
-amp,12075211000001108,0501040H0AAAXAX,Gentamicin 62.5mg/5ml oral solution (Special Order)
 amp,12076611000001100,0501040H0AAAYAY,Gentamicin 75mg/5ml oral solution (Special Order)
-amp,27690911000001109,0501040H0AAAZAZ,Gentamicin 30mg/5ml oral suspension (Special Order)
-amp,29793411000001107,0501040H0AABABA,Gentamicin 35mg/5ml oral suspension (Special Order)
 amp,32743411000001105,0501040H0AABFBF,Gentamicin 45mg/5ml oral solution (Special Order)
 amp,4055311000001106,0501040N0AAADAD,Neomycin 500mg tablets (A A H Pharmaceuticals Ltd)
 amp,4055711000001105,0501040N0AAADAD,Neomycin 500mg tablets (Alliance Healthcare (Distribution) Ltd)
 amp,4208311000001104,0501040N0AAADAD,Neomycin 500mg tablets (Teva UK Ltd)
 amp,28932611000001103,0501040N0AAADAD,Neomycin 500mg tablets (Advanz Pharma)
-amp,12274811000001104,0501040N0AAAIAI,Neomycin 500mg/5ml oral solution (Special Order)
 amp,12273311000001106,0501040N0AAAJAJ,Neomycin 100mg/5ml oral solution (Special Order)
 amp,4055511000001100,0501040N0BCAAAD,Nivemycin 500mg tablets (Advanz Pharma)
 amp,32645711000001105,0501040U0AAAHAH,Tobramycin 40mg/5ml oral solution (Special Order)
@@ -968,6 +924,7 @@ amp,34642911000001105,0501050A0AAADAD,Azithromycin 500mg tablets (Almus Pharmace
 amp,36420111000001101,0501050A0AAADAD,Azithromycin 500mg tablets (Crescent Pharma Ltd)
 amp,37042711000001106,0501050A0AAADAD,Azithromycin 500mg tablets (Mawdsley-Brooks & Company Ltd)
 amp,37857911000001108,0501050A0AAADAD,Azithromycin 500mg tablets (Somex Pharma)
+amp,38006911000001107,0501050A0AAADAD,Azithromycin 500mg tablets (Accord Healthcare Ltd)
 amp,11028411000001100,0501050A0AAAGAG,Azithromycin 250mg tablets (Teva UK Ltd)
 amp,11252111000001104,0501050A0AAAGAG,Azithromycin 250mg tablets (A A H Pharmaceuticals Ltd)
 amp,15071411000001107,0501050A0AAAGAG,Azithromycin 250mg tablets (Sigma Pharmaceuticals Plc)
@@ -983,6 +940,7 @@ amp,32395711000001105,0501050A0AAAGAG,Azithromycin 250mg tablets (Kent Pharmaceu
 amp,34642111000001107,0501050A0AAAGAG,Azithromycin 250mg tablets (Almus Pharmaceuticals Ltd)
 amp,36445611000001104,0501050A0AAAGAG,Azithromycin 250mg tablets (Crescent Pharma Ltd)
 amp,36907711000001108,0501050A0AAAGAG,Azithromycin 250mg tablets (Somex Pharma)
+amp,38006711000001105,0501050A0AAAGAG,Azithromycin 250mg tablets (Accord Healthcare Ltd)
 amp,29516411000001104,0501050A0AAAHAH,Azithromycin 200mg/5ml oral suspension sugar free (Special Order)
 amp,85911000001108,0501050A0BBAAAA,Zithromax 250mg capsules (Pfizer Ltd)
 amp,650911000001103,0501050A0BBABAB,Zithromax 200mg/5ml oral suspension (Pfizer Ltd)
@@ -1057,11 +1015,7 @@ amp,917411000001101,0501050B0BBABAB,Klaricid Paediatric 125mg/5ml oral suspensio
 amp,463111000001102,0501050B0BBADAD,Klaricid 500 tablets (Abbott Laboratories Ltd)
 amp,40811000001101,0501050B0BBAEAE,Klaricid XL 500mg tablets (Mylan)
 amp,3253811000001107,0501050B0BBAFAF,Klaricid Adult 250mg granules sachets (Mylan)
-amp,4973711000001103,0501050B0BBAGAG,Klaricid Paediatric 125mg granules sachets (Abbott Laboratories Ltd)
 amp,211000001101,0501050B0BBAHAH,Klaricid Paediatric 250mg/5ml oral suspension (Mylan)
-amp,9739611000001100,0501050B0BDAAAK,Clarosip 125mg granules for oral suspension straws (Grunenthal Ltd)
-amp,9739911000001106,0501050B0BDABAL,Clarosip 187.5mg granules for oral suspension straws (Grunenthal Ltd)
-amp,9740211000001105,0501050B0BDACAM,Clarosip 250mg granules for oral suspension straws (Grunenthal Ltd)
 amp,18149211000001106,0501050B0BEAAAE,Clarie XL 500mg tablets (Teva UK Ltd)
 amp,21667211000001100,0501050B0BFAAAE,Mycifor XL 500mg tablets (Forum Products Ltd)
 amp,21708211000001106,0501050B0BGAAAE,Febzin XL 500mg tablets (Actavis UK Ltd)
@@ -1098,9 +1052,7 @@ amp,10139811000001105,0501050C0AAAKAK,Erythromycin 250mg gastro-resistant capsul
 amp,10406211000001109,0501050C0AAAKAK,Erythromycin 250mg gastro-resistant capsules (Arrow Generics Ltd)
 amp,20962611000001108,0501050C0AAAKAK,Erythromycin 250mg gastro-resistant capsules (Actavis UK Ltd)
 amp,759811000001108,0501050C0BCAAAK,Erymax 250mg gastro-resistant capsules (Teva UK Ltd)
-amp,235411000001103,0501050C0BIAAAB,Rommix 250 EC tablets (Ashbourne Pharmaceuticals Ltd)
 amp,165611000001108,0501050C0BKAAAK,Tiloryth 250mg gastro-resistant capsules (Tillomed Laboratories Ltd)
-amp,4227311000001109,0501050C0BLAAAK,Kerymax 250mg gastro-resistant capsules (Kent Pharmaceuticals Ltd)
 amp,231611000001103,0501050H0AAAAAA,Erythromycin ethyl succinate 125mg/5ml oral suspension (Sandoz Ltd)
 amp,468911000001109,0501050H0AAAAAA,Erythromycin ethyl succinate 125mg/5ml oral suspension (Alliance Healthcare (Distribution) Ltd)
 amp,469911000001101,0501050H0AAAAAA,Erythromycin ethyl succinate 125mg/5ml oral suspension (Kent Pharmaceuticals Ltd)
@@ -1188,7 +1140,6 @@ amp,274611000001103,0501050N0BBAAAA,Erythrocin 250 tablets (Advanz Pharma)
 amp,30611000001101,0501050N0BBABAB,Erythrocin 500 tablets (Advanz Pharma)
 amp,17628011000001101,0501050N0BCAAAA,Erythrolar 250mg tablets (Ennogen Pharma Ltd)
 amp,17627611000001109,0501050N0BCABAB,Erythrolar 500mg tablets (Ennogen Pharma Ltd)
-amp,98311000001102,0501050T0BBAAAA,Ketek 400mg tablets (Sanofi)
 amp,36646511000001108,0501060D0AAAAAA,Clindamycin 75mg capsules (Alliance Healthcare (Distribution) Ltd)
 amp,37334911000001104,0501060D0AAAAAA,Clindamycin 75mg capsules (Brown & Burk UK Ltd)
 amp,4329711000001107,0501060D0AAABAB,Clindamycin 150mg capsules (Sandoz Ltd)
@@ -1209,12 +1160,9 @@ amp,35638511000001105,0501060D0AAABAB,Clindamycin 150mg capsules (Mylan)
 amp,37053311000001104,0501060D0AAABAB,Clindamycin 150mg capsules (Mawdsley-Brooks & Company Ltd)
 amp,37342311000001106,0501060D0AAABAB,Clindamycin 150mg capsules (Brown & Burk UK Ltd)
 amp,8351711000001105,0501060D0AAAEAE,Clindamycin 75mg/5ml oral solution (Special Order)
-amp,11968011000001106,0501060D0AAAFAF,Clindamycin 20mg/5ml oral solution (Special Order)
 amp,11969011000001101,0501060D0AAAGAG,Clindamycin 300mg/5ml oral solution (Special Order)
 amp,11967711000001107,0501060D0AAAHAH,Clindamycin 150mg/5ml oral solution (Special Order)
-amp,11969511000001109,0501060D0AAAIAI,Clindamycin 400mg/5ml oral solution (Special Order)
 amp,11967411000001101,0501060D0AAAJAJ,Clindamycin 120mg/5ml oral solution (Special Order)
-amp,18513011000001103,0501060D0AAALAL,Clindamycin 60mg/5ml oral solution (Special Order)
 amp,21669011000001101,0501060D0AAAMAM,Clindamycin 300mg capsules (Creo Pharma Ltd)
 amp,21732111000001107,0501060D0AAAMAM,Clindamycin 300mg capsules (A A H Pharmaceuticals Ltd)
 amp,22164711000001102,0501060D0AAAMAM,Clindamycin 300mg capsules (Alliance Healthcare (Distribution) Ltd)
@@ -1237,9 +1185,8 @@ amp,3668311000001100,0501060D0BBABAB,Dalacin C 150mg capsules (Pfizer Ltd)
 amp,20425111000001100,0501070ABAAAAAA,Nitazoxanide 500mg tablets (Special Order)
 amp,21626711000001104,0501070ABAAABAB,Nitazoxanide 100mg/5ml oral suspension (Special Order)
 amp,20540311000001100,0501070ACBBAAAA,Dificlir 200mg tablets (Astellas Pharma Ltd)
-amp,29723111000001106,0501070ADBBABAB,Sivextro 200mg tablets (Merck Sharp & Dohme Ltd)
-amp,21393311000001105,0501070AEAAAAAA,Fosfomycin 3g granules sachets (Special Order)
-amp,29934011000001102,0501070AEAAAAAA,Fosfomycin 3g granules sachets (A A H Pharmaceuticals Ltd)
+amp,21393311000001105,0501070AEAAADAD,Fosfomycin 3g granules sachets (Special Order)
+amp,29934011000001102,0501070AEAAADAD,Fosfomycin 3g granules sachets (A A H Pharmaceuticals Ltd)
 amp,32746111000001105,0501070AEAAADAD,Fosfomycin 3g granules sachets (Advanz Pharma)
 amp,32982711000001106,0501070AEBBADAD,Monuril 3g granules sachets (Profile Pharma Ltd)
 amp,18162811000001109,0501070AEBCAAAD,Monurol 3g granules sachets (Imported (United States))
@@ -1250,7 +1197,6 @@ amp,4743111000001107,0501070F0AAAAAA,Chloramphenicol 250mg capsules (Kent Pharma
 amp,11482411000001104,0501070F0AAAAAA,Chloramphenicol 250mg capsules (Special Order)
 amp,14942611000001102,0501070F0AAAAAA,Chloramphenicol 250mg capsules (Essential Generics Ltd)
 amp,3964811000001102,0501070H0BBAAAE,Colomycin 1.5million unit tablets (Forest Laboratories UK Ltd)
-amp,4352211000001109,0501070H0BBABAD,"Colomycin 250,000units/5ml syrup (Forest Laboratories UK Ltd)"
 amp,3981111000001109,0501070M0BBAAAA,Fucidin 250mg/5ml oral suspension (LEO Pharma)
 amp,3670711000001108,0501070N0BBAAAD,Fucidin 250mg tablets (LEO Pharma)
 amp,36761811000001103,0501070T0AAAAAA,Teicoplanin 400mg powder and solvent for solution for injection vials (Kent Pharmaceuticals Ltd)
@@ -1300,7 +1246,6 @@ amp,15445311000001108,0501070U0AAALAL,Vancomycin 125mg/5ml oral solution (Specia
 amp,15445611000001103,0501070U0AAALAL,Vancomycin 125mg/5ml oral suspension (Special Order)
 amp,13450811000001100,0501070U0AAAMAM,Vancomycin 62.5mg/5ml oral solution (Special Order)
 amp,4128511000001101,0501070U0BBAAAA,Vancocin Matrigel 125mg capsules (Flynn Pharma Ltd)
-amp,4203811000001103,0501070U0BBABAB,Vancocin Matrigel 250mg capsules (Flynn Pharma Ltd)
 amp,4213311000001109,0501070U0BBADAC,Vancocin 500mg powder for solution for infusion vials (Flynn Pharma Ltd)
 amp,4432611000001101,0501070U0BBAEAF,Vancocin 1g powder for solution for infusion vials (Flynn Pharma Ltd)
 amp,31153711000001107,0501070W0AAAAAA,Linezolid 600mg tablets (Pfizer Ltd)
@@ -1319,13 +1264,10 @@ amp,4946211000001104,0501070W0BBACAB,Zyvox 100mg/5ml granules for oral suspensio
 amp,15877511000001101,0501070X0AAAAAA,Rifaximin 200mg tablets (Special Order)
 amp,20442211000001103,0501070X0AAABAB,Rifaximin 550mg tablets (Special Order)
 amp,34604811000001100,0501070X0AAACAC,Rifaximin 100mg/5ml oral suspension (Special Order)
-amp,12556911000001106,0501070X0BBAAAA,Normix 200mg tablets (Imported (Italy))
 amp,22175211000001101,0501070X0BBABAC,Normix 100mg/5ml granules for oral suspension (Imported (Italy))
 amp,19475511000001107,0501070X0BCAAAA,Xifaxanta 200mg tablets (Norgine Pharmaceuticals Ltd)
-amp,20441311000001102,0501070X0BDAAAB,Xifaxan 550mg tablets (Imported (United States))
 amp,21874811000001107,0501070X0BEAAAB,Targaxan 550mg tablets (Norgine Pharmaceuticals Ltd)
 amp,20591911000001100,0501070Z0AAAAAA,Pristinamycin 500mg tablets (Special Order)
-amp,16248411000001105,0501070Z0BBAAAA,Pyostacine 500mg tablets (Imported (France))
 amp,32431411000001103,0501080D0AAACAC,Co-trimoxazole 40mg/200mg/5ml oral suspension sugar free (Aspen Pharma Trading Ltd)
 amp,32501611000001104,0501080D0AAACAC,Co-trimoxazole 40mg/200mg/5ml oral suspension sugar free (A A H Pharmaceuticals Ltd)
 amp,32505711000001105,0501080D0AAACAC,Co-trimoxazole 40mg/200mg/5ml oral suspension sugar free (Alliance Healthcare (Distribution) Ltd)
@@ -1363,12 +1305,9 @@ amp,4104611000001101,0501080J0AAABAB,Sulfadiazine 500mg tablets (Kent Pharmaceut
 amp,4104911000001107,0501080J0AAABAB,Sulfadiazine 500mg tablets (Alliance Healthcare (Distribution) Ltd)
 amp,21903611000001106,0501080J0AAABAB,Sulfadiazine 500mg tablets (Waymade Healthcare Plc)
 amp,26857011000001109,0501080J0AAABAB,Sulfadiazine 500mg tablets (Ennogen Healthcare Ltd)
-amp,13449711000001104,0501080J0AAAFAF,Sulfadiazine 150mg/5ml oral suspension (Special Order)
-amp,13450011000001106,0501080J0AAAGAG,Sulfadiazine 500mg/5ml oral suspension (Special Order)
 amp,13450511000001103,0501080J0AAAHAH,Sulfadiazine 250mg/5ml oral suspension (Special Order)
 amp,13539611000001103,0501080T0AAAAAA,Sulfamethoxypyridazine 500mg tablets (Imported (Germany))
 amp,27397711000001102,0501080T0AAAAAA,Sulfamethoxypyridazine 500mg tablets (Special Order)
-amp,5235811000001100,0501080T0BBAAAA,Lederkyn 500mg tablets (Wyeth Pharmaceuticals)
 amp,21268011000001109,0501080V0AAADAD,Sulfapyridine 250mg capsules (Special Order)
 amp,15457211000001106,0501080V0BDABAD,Concord 693 250mg capsules (Kyowa Kirin Ltd)
 amp,46511000001102,0501080W0AAADAD,Trimethoprim 100mg tablets (Ranbaxy (UK) Ltd)
@@ -1420,16 +1359,9 @@ amp,13361311000001101,0501080W0AAAMAM,Trimethoprim 200mg/5ml oral suspension (Sp
 amp,13363211000001108,0501080W0AAAMAM,Trimethoprim 200mg/5ml oral solution (Special Order)
 amp,13361711000001102,0501080W0AAANAN,Trimethoprim 20mg/5ml oral suspension (Special Order)
 amp,13363511000001106,0501080W0AAANAN,Trimethoprim 20mg/5ml oral solution (Special Order)
-amp,13362311000001105,0501080W0AAAPAP,Trimethoprim 240mg/5ml oral suspension (Special Order)
-amp,13363811000001109,0501080W0AAAPAP,Trimethoprim 240mg/5ml oral solution (Special Order)
-amp,13362611000001100,0501080W0AAAQAQ,Trimethoprim 7mg/5ml oral suspension (Special Order)
-amp,13364111000001100,0501080W0AAAQAQ,Trimethoprim 7mg/5ml oral solution (Special Order)
-amp,426411000001109,0501080W0BCAAAD,Monotrim 100mg tablets (Abbott Healthcare Products Ltd)
 amp,95811000001102,0501080W0BCABAE,Monotrim 200mg tablets (Abbott Healthcare Products Ltd)
 amp,789611000001100,0501080W0BCACAI,Monotrim 50mg/5ml oral suspension (Chemidex Pharma Ltd)
-amp,431211000001104,0501080W0BGAAAD,Trimopan 100mg tablets (Teva UK Ltd)
 amp,329711000001102,0501080W0BGABAE,Trimopan 200mg tablets (Teva UK Ltd)
-amp,16600411000001104,0501090A0BBAAAA,Paser gastro-resistant granules 4g sachets (Imported (United States))
 amp,26396411000001105,0501090A0BCAAAA,Granupas gastro-resistant granules 4g sachets (Eurocept International bv)
 amp,4185311000001109,0501090E0AAABAB,Cycloserine 250mg capsules (King Pharmaceuticals Ltd)
 amp,18865211000001109,0501090E0AAABAB,Cycloserine 250mg capsules (Alliance Healthcare (Distribution) Ltd)
@@ -1458,152 +1390,48 @@ amp,8472011000001107,0501090H0AAARAR,Ethambutol 500mg/5ml oral solution (Special
 amp,8473111000001102,0501090H0AAARAR,Ethambutol 500mg/5ml oral suspension (Special Order)
 amp,8471311000001101,0501090H0AAASAS,Ethambutol 400mg/5ml oral solution (Special Order)
 amp,8471711000001102,0501090H0AAASAS,Ethambutol 400mg/5ml oral suspension (Special Order)
-amp,12279311000001109,0501090H0AAATAT,Ethambutol 375mg/5ml oral solution (Special Order)
-amp,8472911000001106,0501090H0AAAVAV,Ethambutol 200mg/5ml oral suspension (Special Order)
-amp,8473811000001109,0501090H0AAAVAV,Ethambutol 200mg/5ml oral solution (Special Order)
-amp,12278411000001105,0501090H0AAAWAW,Ethambutol 25mg/5ml oral solution (Special Order)
-amp,8475211000001107,0501090H0AAAXAX,Ethambutol 600mg/5ml oral solution (Special Order)
-amp,8475911000001103,0501090H0AAAXAX,Ethambutol 600mg/5ml oral suspension (Special Order)
-amp,12278811000001107,0501090H0AAAYAY,Ethambutol 350mg/5ml oral solution (Special Order)
 amp,8470111000001109,0501090H0AAAZAZ,Ethambutol 300mg/5ml oral solution (Special Order)
 amp,8470711000001105,0501090H0AAAZAZ,Ethambutol 300mg/5ml oral suspension (Special Order)
-amp,8469811000001104,0501090H0AABABA,Ethambutol 250mg/5ml oral solution (Special Order)
-amp,8470511000001100,0501090H0AABABA,Ethambutol 250mg/5ml oral suspension (Special Order)
-amp,12280011000001106,0501090H0AABBBB,Ethambutol 450mg/5ml oral solution (Special Order)
 amp,12277511000001105,0501090H0AABCBC,Ethambutol 150mg/5ml oral solution (Special Order)
 amp,12275811000001103,0501090H0AABDBD,Ethambutol 100mg/5ml oral solution (Special Order)
-amp,12280911000001105,0501090H0AABEBE,Ethambutol 700mg/5ml oral solution (Special Order)
-amp,12276611000001107,0501090H0AABFBF,Ethambutol 125mg/5ml oral solution (Special Order)
-amp,12280511000001103,0501090H0AABGBG,Ethambutol 50mg/5ml oral solution (Special Order)
 amp,22457111000001101,0501090H0AABHBH,Ethambutol 150mg/5ml oral suspension (Special Order)
-amp,35546711000001108,0501090H0AABIBI,Ethambutol 700mg/5ml oral suspension (Special Order)
-amp,16460811000001103,0501090I0AAAAAA,Ethionamide 250mg tablets (Special Order)
 amp,3868211000001104,0501090K0AAAHAH,Isoniazid 50mg tablets (A A H Pharmaceuticals Ltd)
 amp,3868411000001100,0501090K0AAAHAH,Isoniazid 50mg tablets (RPH Pharmaceuticals AB)
 amp,3868711000001106,0501090K0AAAHAH,Isoniazid 50mg tablets (Alliance Healthcare (Distribution) Ltd)
+amp,15102411000001101,0501090K0AAAHAH,Isoniazid 50mg tablets (Sigma Pharmaceuticals Plc)
 amp,3792911000001106,0501090K0AAAIAI,Isoniazid 100mg tablets (A A H Pharmaceuticals Ltd)
 amp,3793211000001108,0501090K0AAAIAI,Isoniazid 100mg tablets (RPH Pharmaceuticals AB)
 amp,3793411000001107,0501090K0AAAIAI,Isoniazid 100mg tablets (Alliance Healthcare (Distribution) Ltd)
+amp,15102211000001100,0501090K0AAAIAI,Isoniazid 100mg tablets (Sigma Pharmaceuticals Plc)
 amp,33656311000001107,0501090K0AAAIAI,Isoniazid 100mg tablets (Morningside Healthcare Ltd)
 amp,8550011000001101,0501090K0AABIBI,Isoniazid 50mg/5ml oral suspension (Special Order)
 amp,8547211000001107,0501090K0AABJBJ,Isoniazid 100mg/5ml oral solution (Special Order)
 amp,8547911000001103,0501090K0AABJBJ,Isoniazid 100mg/5ml oral suspension (Special Order)
-amp,12612711000001106,0501090K0AABKBK,Isoniazid 130mg/5ml oral solution (Special Order)
 amp,8548011000001101,0501090K0AABLBL,Isoniazid 150mg/5ml oral solution (Special Order)
 amp,8549711000001108,0501090K0AABLBL,Isoniazid 150mg/5ml oral suspension (Special Order)
 amp,8547311000001104,0501090K0AABMBM,Isoniazid 200mg/5ml oral solution (Special Order)
 amp,8548311000001103,0501090K0AABMBM,Isoniazid 200mg/5ml oral suspension (Special Order)
-amp,12613611000001107,0501090K0AABNBN,Isoniazid 17.5mg/5ml oral solution (Special Order)
-amp,12613011000001100,0501090K0AABPBP,Isoniazid 135mg/5ml oral solution (Special Order)
-amp,12610511000001102,0501090K0AABQBQ,Isoniazid 110mg/5ml oral solution (Special Order)
-amp,12630411000001107,0501090K0AABRBR,Isoniazid 87.5mg/5ml oral solution (Special Order)
-amp,12615411000001108,0501090K0AABSBS,Isoniazid 220mg/5ml oral solution (Special Order)
 amp,12625711000001109,0501090K0AABTBT,Isoniazid 300mg/5ml oral solution (Special Order)
-amp,12614811000001109,0501090K0AABUBU,Isoniazid 180mg/5ml oral solution (Special Order)
-amp,8549811000001100,0501090K0AABVBV,Isoniazid 75mg/5ml oral solution (Special Order)
-amp,8550411000001105,0501090K0AABVBV,Isoniazid 75mg/5ml oral suspension (Special Order)
-amp,12615711000001102,0501090K0AABWBW,Isoniazid 250mg/5ml oral solution (Special Order)
-amp,12628811000001105,0501090K0AABXBX,Isoniazid 60mg/5ml oral solution (Special Order)
-amp,12628411000001108,0501090K0AABYBY,Isoniazid 500mg/5ml oral solution (Special Order)
-amp,12611511000001109,0501090K0AABZBZ,Isoniazid 120mg/5ml oral solution (Special Order)
-amp,12616811000001102,0501090K0AACACA,Isoniazid 270mg/5ml oral solution (Special Order)
-amp,12613311000001102,0501090K0AACBCB,Isoniazid 140mg/5ml oral solution (Special Order)
-amp,12629511000001101,0501090K0AACCCC,Isoniazid 80mg/5ml oral solution (Special Order)
-amp,12616011000001108,0501090K0AACDCD,Isoniazid 25mg/5ml oral solution (Special Order)
-amp,12612111000001105,0501090K0AACECE,Isoniazid 125mg/5ml oral solution (Special Order)
-amp,12616311000001106,0501090K0AACFCF,Isoniazid 260mg/5ml oral solution (Special Order)
-amp,12614211000001108,0501090K0AACGCG,Isoniazid 175mg/5ml oral solution (Special Order)
 amp,12626911000001104,0501090K0AACJCJ,Isoniazid 400mg/5ml oral solution (Special Order)
-amp,12613911000001101,0501090K0AACKCK,Isoniazid 170mg/5ml oral solution (Special Order)
-amp,12617211000001101,0501090K0AACLCL,Isoniazid 27mg/5ml oral solution (Special Order)
-amp,12626411000001107,0501090K0AACMCM,Isoniazid 375mg/5ml oral solution (Special Order)
-amp,12627711000001103,0501090K0AACPCP,Isoniazid 40mg/5ml oral solution (Special Order)
-amp,12626011000001103,0501090K0AACQCQ,Isoniazid 30mg/5ml oral solution (Special Order)
-amp,12625411000001103,0501090K0AACRCR,Isoniazid 30.5mg/5ml oral solution (Special Order)
-amp,12610911000001109,0501090K0AACSCS,Isoniazid 119mg/5ml oral solution (Special Order)
-amp,12629811000001103,0501090K0AACTCT,Isoniazid 85mg/5ml oral solution (Special Order)
 amp,8549211000001101,0501090K0AACUCU,Isoniazid 50mg/5ml oral solution (Drug Tariff Special Order)
-amp,13219111000001106,0501090N0AAA7A7,Pyrazinamide 175mg/5ml oral suspension (Special Order)
-amp,13220711000001108,0501090N0AAA7A7,Pyrazinamide 175mg/5ml oral solution (Special Order)
-amp,13247511000001101,0501090N0AAA8A8,Pyrazinamide 750mg/5ml oral suspension (Special Order)
-amp,13251311000001103,0501090N0AAA8A8,Pyrazinamide 750mg/5ml oral solution (Special Order)
 amp,13235911000001104,0501090N0AAA9A9,Pyrazinamide 50mg/5ml oral suspension (Special Order)
 amp,13240211000001103,0501090N0AAA9A9,Pyrazinamide 50mg/5ml oral solution (Special Order)
-amp,15529311000001102,0501090N0AAAAAA,Pyrazinamide 500mg tablets (Special Order)
-amp,13218811000001106,0501090N0AABABA,Pyrazinamide 150mg/5ml oral suspension (Special Order)
-amp,13220411000001102,0501090N0AABABA,Pyrazinamide 150mg/5ml oral solution (Special Order)
 amp,8656711000001108,0501090N0AABBBB,Pyrazinamide 500mg/5ml oral solution (Special Order)
 amp,8657011000001109,0501090N0AABBBB,Pyrazinamide 500mg/5ml oral suspension (Special Order)
-amp,13222111000001106,0501090N0AABCBC,Pyrazinamide 1g/5ml oral suspension (Special Order)
-amp,13228411000001104,0501090N0AABCBC,Pyrazinamide 1g/5ml oral solution (Special Order)
-amp,13226811000001103,0501090N0AABDBD,Pyrazinamide 375mg/5ml oral suspension (Special Order)
-amp,13231911000001101,0501090N0AABDBD,Pyrazinamide 375mg/5ml oral solution (Special Order)
-amp,13225511000001108,0501090N0AABEBE,Pyrazinamide 350mg/5ml oral suspension (Special Order)
-amp,13231411000001109,0501090N0AABEBE,Pyrazinamide 350mg/5ml oral solution (Special Order)
 amp,13222611000001103,0501090N0AABFBF,Pyrazinamide 200mg/5ml oral suspension (Special Order)
 amp,13228911000001107,0501090N0AABFBF,Pyrazinamide 200mg/5ml oral solution (Special Order)
-amp,13234711000001100,0501090N0AABGBG,Pyrazinamide 450mg/5ml oral suspension (Special Order)
-amp,13239411000001105,0501090N0AABGBG,Pyrazinamide 450mg/5ml oral solution (Special Order)
-amp,13218511000001108,0501090N0AABHBH,Pyrazinamide 125mg/5ml oral suspension (Special Order)
-amp,13220011000001106,0501090N0AABHBH,Pyrazinamide 125mg/5ml oral solution (Special Order)
 amp,13197811000001105,0501090N0AABIBI,Pyrazinamide 100mg/5ml oral suspension (Special Order)
 amp,13199311000001106,0501090N0AABIBI,Pyrazinamide 100mg/5ml oral solution (Special Order)
 amp,13224511000001107,0501090N0AABJBJ,Pyrazinamide 300mg/5ml oral suspension (Special Order)
 amp,13230611000001102,0501090N0AABJBJ,Pyrazinamide 300mg/5ml oral solution (Special Order)
 amp,13223311000001103,0501090N0AABKBK,Pyrazinamide 250mg/5ml oral suspension (Special Order)
 amp,13229511000001106,0501090N0AABKBK,Pyrazinamide 250mg/5ml oral solution (Special Order)
-amp,13248511000001102,0501090N0AABLBL,Pyrazinamide 75mg/5ml oral suspension (Special Order)
-amp,13252011000001109,0501090N0AABLBL,Pyrazinamide 75mg/5ml oral solution (Special Order)
-amp,13197411000001108,0501090N0AABMBM,Pyrazinamide 1.5g/5ml oral suspension (Special Order)
-amp,13198811000001109,0501090N0AABMBM,Pyrazinamide 1.5g/5ml oral solution (Special Order)
-amp,13237111000001106,0501090N0AABPBP,Pyrazinamide 600mg/5ml oral suspension (Special Order)
-amp,13240711000001105,0501090N0AABPBP,Pyrazinamide 600mg/5ml oral solution (Special Order)
-amp,13242911000001106,0501090N0AABQBQ,Pyrazinamide 675mg/5ml oral suspension (Special Order)
-amp,13250511000001102,0501090N0AABQBQ,Pyrazinamide 675mg/5ml oral solution (Special Order)
-amp,13233911000001100,0501090N0AABRBR,Pyrazinamide 425mg/5ml oral suspension (Special Order)
-amp,13238611000001104,0501090N0AABRBR,Pyrazinamide 425mg/5ml oral solution (Special Order)
-amp,13237811000001104,0501090N0AABSBS,Pyrazinamide 625mg/5ml oral suspension (Special Order)
-amp,13241211000001109,0501090N0AABSBS,Pyrazinamide 625mg/5ml oral solution (Special Order)
-amp,13227911000001106,0501090N0AABTBT,Pyrazinamide 400mg/5ml oral suspension (Special Order)
-amp,13232711000001105,0501090N0AABTBT,Pyrazinamide 400mg/5ml oral solution (Special Order)
-amp,13223811000001107,0501090N0AABUBU,Pyrazinamide 275mg/5ml oral suspension (Special Order)
-amp,13230011000001109,0501090N0AABUBU,Pyrazinamide 275mg/5ml oral solution (Special Order)
-amp,13235411000001107,0501090N0AABVBV,Pyrazinamide 490mg/5ml oral suspension (Special Order)
-amp,13239911000001102,0501090N0AABVBV,Pyrazinamide 490mg/5ml oral solution (Special Order)
-amp,13249011000001100,0501090N0AABWBW,Pyrazinamide 850mg/5ml oral suspension (Special Order)
-amp,13252611000001102,0501090N0AABWBW,Pyrazinamide 850mg/5ml oral solution (Special Order)
-amp,13233611000001106,0501090N0AABZBZ,Pyrazinamide 420mg/5ml oral suspension (Special Order)
-amp,13238311000001109,0501090N0AABZBZ,Pyrazinamide 420mg/5ml oral solution (Special Order)
-amp,13242511000001104,0501090N0AACACA,Pyrazinamide 650mg/5ml oral suspension (Special Order)
-amp,13249811000001106,0501090N0AACACA,Pyrazinamide 650mg/5ml oral solution (Special Order)
-amp,13234211000001107,0501090N0AACBCB,Pyrazinamide 430mg/5ml oral suspension (Special Order)
-amp,13238911000001105,0501090N0AACBCB,Pyrazinamide 430mg/5ml oral solution (Special Order)
-amp,13243511000001106,0501090N0AACCCC,Pyrazinamide 700mg/5ml oral suspension (Special Order)
-amp,13250911000001109,0501090N0AACCCC,Pyrazinamide 700mg/5ml oral solution (Special Order)
-amp,13225211000001105,0501090N0AACDCD,Pyrazinamide 312.5mg/5ml oral suspension (Special Order)
-amp,13230911000001108,0501090N0AACDCD,Pyrazinamide 312.5mg/5ml oral solution (Special Order)
-amp,13197111000001103,0501090N0AACECE,Pyrazinamide 1.4g/5ml oral suspension (Special Order)
-amp,13198511000001106,0501090N0AACECE,Pyrazinamide 1.4g/5ml oral solution (Special Order)
-amp,13218111000001104,0501090N0AACFCF,Pyrazinamide 105mg/5ml oral suspension (Special Order)
-amp,13219611000001103,0501090N0AACFCF,Pyrazinamide 105mg/5ml oral solution (Special Order)
-amp,13249311000001102,0501090N0AACGCG,Pyrazinamide 91mg/5ml oral suspension (Special Order)
-amp,13253211000001105,0501090N0AACGCG,Pyrazinamide 91mg/5ml oral solution (Special Order)
-amp,13196611000001109,0501090N0AACHCH,Pyrazinamide 1.25g/5ml oral suspension (Special Order)
-amp,13198211000001108,0501090N0AACHCH,Pyrazinamide 1.25g/5ml oral solution (Special Order)
+amp,15529311000001102,0501090N0AACJCJ,Pyrazinamide 500mg tablets (Special Order)
 amp,22234211000001102,0501090N0AACJCJ,Pyrazinamide 500mg tablets (A A H Pharmaceuticals Ltd)
 amp,24566611000001103,0501090N0AACJCJ,Pyrazinamide 500mg tablets (Morningside Healthcare Ltd)
 amp,30985911000001107,0501090N0AACJCJ,Pyrazinamide 500mg tablets (Alliance Healthcare (Distribution) Ltd)
+amp,38072511000001107,0501090N0AACJCJ,Pyrazinamide 500mg tablets (Macleods Pharma UK Ltd)
 amp,3887811000001104,0501090N0BBABCJ,Zinamide 500mg tablets (Genus Pharmaceuticals Ltd)
-amp,13348811000001105,0501090Q0AAAGAG,Rifabutin 60mg/5ml oral suspension (Special Order)
-amp,13366511000001103,0501090Q0AAAGAG,Rifabutin 60mg/5ml oral solution (Special Order)
-amp,13348311000001101,0501090Q0AAAJAJ,Rifabutin 50mg/5ml oral suspension (Special Order)
-amp,13366011000001106,0501090Q0AAAJAJ,Rifabutin 50mg/5ml oral solution (Special Order)
-amp,13349511000001101,0501090Q0AAALAL,Rifabutin 75mg/5ml oral suspension (Special Order)
-amp,13366911000001105,0501090Q0AAALAL,Rifabutin 75mg/5ml oral solution (Special Order)
-amp,13347711000001103,0501090Q0AAAUAU,Rifabutin 150mg/5ml oral suspension (Special Order)
-amp,13365611000001109,0501090Q0AAAUAU,Rifabutin 150mg/5ml oral solution (Special Order)
-amp,13350011000001104,0501090Q0AAAVAV,Rifabutin 90mg/5ml oral suspension (Special Order)
-amp,13367411000001100,0501090Q0AAAVAV,Rifabutin 90mg/5ml oral solution (Special Order)
 amp,13347111000001104,0501090Q0AAAZAZ,Rifabutin 100mg/5ml oral suspension (Special Order)
 amp,13352311000001102,0501090Q0AAAZAZ,Rifabutin 100mg/5ml oral solution (Special Order)
 amp,4084511000001109,0501090Q0BBAAAB,Mycobutin 150mg capsules (Pfizer Ltd)
@@ -1617,39 +1445,21 @@ amp,177711000001103,0501090R0AAABAB,Rifampicin 300mg capsules (Alliance Healthca
 amp,261211000001105,0501090R0AAABAB,Rifampicin 300mg capsules (Mylan)
 amp,406611000001100,0501090R0AAABAB,Rifampicin 300mg capsules (A A H Pharmaceuticals Ltd)
 amp,487111000001107,0501090R0AAABAB,Rifampicin 300mg capsules (Kent Pharmaceuticals Ltd)
+amp,15185711000001104,0501090R0AAABAB,Rifampicin 300mg capsules (Sigma Pharmaceuticals Plc)
 amp,30089711000001103,0501090R0AAABAB,Rifampicin 300mg capsules (DE Pharmaceuticals)
 amp,13368411000001101,0501090R0AAAKAK,Rifampicin 150mg/5ml oral suspension (Special Order)
 amp,13370411000001106,0501090R0AAAKAK,Rifampicin 150mg/5ml oral solution (Special Order)
-amp,13368111000001106,0501090R0AAAMAM,Rifampicin 120mg/5ml oral suspension (Special Order)
-amp,13370111000001101,0501090R0AAAMAM,Rifampicin 120mg/5ml oral solution (Special Order)
-amp,13368711000001107,0501090R0AAANAN,Rifampicin 200mg/5ml oral suspension (Special Order)
-amp,13370711000001100,0501090R0AAANAN,Rifampicin 200mg/5ml oral solution (Special Order)
-amp,13369511000001108,0501090R0AAAPAP,Rifampicin 300mg/5ml oral suspension (Special Order)
-amp,13371311000001109,0501090R0AAAPAP,Rifampicin 300mg/5ml oral solution (Special Order)
-amp,13369111000001104,0501090R0AAAQAQ,Rifampicin 30.5mg/5ml oral suspension (Special Order)
-amp,13371011000001106,0501090R0AAAQAQ,Rifampicin 30.5mg/5ml oral solution (Special Order)
-amp,13369811000001106,0501090R0AAARAR,Rifampicin 480mg/5ml oral suspension (Special Order)
-amp,13371611000001104,0501090R0AAARAR,Rifampicin 480mg/5ml oral solution (Special Order)
-amp,13527211000001109,0501090R0AAAUAU,Rifampicin 210mg/5ml oral solution (Special Order)
-amp,13527611000001106,0501090R0AAAUAU,Rifampicin 210mg/5ml oral suspension (Special Order)
 amp,189211000001106,0501090R0BBAAAA,Rifadin 150mg capsules (Sanofi)
 amp,457911000001104,0501090R0BBABAB,Rifadin 300mg capsules (Sanofi)
 amp,217011000001109,0501090R0BBACAF,Rifadin 100mg/5ml syrup (Sanofi)
-amp,662111000001106,0501090R0BCAAAA,Rimactane 150mg capsules (Sandoz Ltd)
 amp,816311000001104,0501090R0BCABAB,Rimactane 300mg capsules (Sandoz Ltd)
-amp,497511000001104,0501090R0BCACAF,Rimactane 100mg/5ml syrup (Movianto UK Ltd)
 amp,783811000001103,0501090S0BBAAAA,Rifinah 150mg/100mg tablets (Sanofi)
 amp,489211000001107,0501090S0BBABAB,Rifinah 300mg/150mg tablets (Sanofi)
-amp,831911000001104,0501090S0BCAAAA,Rimactazid 150 tablets (Movianto UK Ltd)
-amp,432711000001104,0501090S0BCABAB,Rimactazid 300 tablets (Movianto UK Ltd)
 amp,266211000001102,0501090S0BDAAAC,Rifater tablets (Sanofi)
 amp,21719811000001102,0501090S0BEAAA0,Voractiv tablets (Genus Pharmaceuticals Ltd)
-amp,24564311000001102,0501090V0BBAAAA,Sirturo 100mg tablets (Janssen-Cilag Ltd)
-amp,27377011000001105,0501090W0BBAAAA,Deltyba 50mg tablets (Otsuka Novel Products GmbH)
 amp,28301211000001108,0501100C0AAAAAA,Clofazimine 100mg capsules (Special Order)
 amp,29876911000001104,0501100C0AAACAC,Clofazimine 50mg capsules (Special Order)
 amp,3952811000001103,0501100C0BBAAAA,Lamprene 100mg capsules (Alliance Pharmaceuticals Ltd)
-amp,21179611000001100,0501100C0BBACAC,Lamprene 50mg capsules (Imported (United States))
 amp,59511000001109,0501100H0AAAFAF,Dapsone 50mg tablets (A A H Pharmaceuticals Ltd)
 amp,468411000001101,0501100H0AAAFAF,Dapsone 50mg tablets (Alliance Healthcare (Distribution) Ltd)
 amp,631311000001105,0501100H0AAAFAF,Dapsone 50mg tablets (Actavis UK Ltd)
@@ -1674,21 +1484,9 @@ amp,30019711000001100,0501100H0AAAHAH,Dapsone 100mg tablets (Mawdsley-Brooks & C
 amp,33766011000001105,0501100H0AAAHAH,Dapsone 100mg tablets (Dr Reddy's Laboratories (UK) Ltd)
 amp,35631411000001104,0501100H0AAAHAH,Dapsone 100mg tablets (Tillomed Laboratories Ltd)
 amp,35941411000001104,0501100H0AAAHAH,Dapsone 100mg tablets (Morningside Healthcare Ltd)
-amp,11699111000001104,0501100H0AAAKAK,Dapsone 5mg/5ml oral suspension (Special Order)
-amp,11699411000001109,0501100H0AAAKAK,Dapsone 5mg/5ml oral solution (Special Order)
 amp,8419511000001103,0501100H0AAALAL,Dapsone 50mg/5ml oral suspension (Special Order)
-amp,8419111000001107,0501100H0AAAMAM,Dapsone 40mg/5ml oral suspension (Special Order)
-amp,34811611000001109,0501100H0AAANAN,Dapsone 75mg/5ml oral suspension (Special Order)
-amp,36875811000001109,0501100H0AAAPAP,Dapsone 20mg/5ml oral suspension (Special Order)
-amp,10194411000001104,0501100J0AAAAAA,Thalidomide 100mg tablets (Durbin Plc)
-amp,20930211000001103,0501100J0AAAAAA,Thalidomide 100mg tablets (Special Order)
-amp,10192911000001103,0501100J0AAABAB,Thalidomide 50mg capsules (Imported (United States))
-amp,13290811000001109,0501100J0AAAHAH,Thalidomide 50mg/5ml oral suspension (Special Order)
-amp,13291111000001108,0501100J0AAAHAH,Thalidomide 50mg/5ml oral solution (Special Order)
 amp,10193811000001100,0501100J0AAAIAI,Thalidomide 50mg tablets (Durbin Plc)
 amp,20886711000001108,0501100J0AAAIAI,Thalidomide 50mg tablets (Special Order)
-amp,10193311000001109,0501100J0AAAJAJ,Thalidomide 25mg tablets (Durbin Plc)
-amp,20929311000001104,0501100J0AAAJAJ,Thalidomide 25mg tablets (Special Order)
 amp,22652611000001109,0501100J0BCAAAJ,Talidex 25mg tablets (Alan Pharmaceuticals)
 amp,113911000001102,0501110C0AAAEAE,Metronidazole 200mg/5ml oral suspension (Kent Pharmaceuticals Ltd)
 amp,271811000001101,0501110C0AAAEAE,Metronidazole 200mg/5ml oral suspension (A A H Pharmaceuticals Ltd)
@@ -1750,7 +1548,6 @@ amp,36537511000001100,0501110C0AABHBH,Metronidazole 500mg tablets (Zentiva)
 amp,12961911000001102,0501110C0AABLBL,Metronidazole 100mg/5ml oral solution (Special Order)
 amp,12962211000001104,0501110C0AABQBQ,Metronidazole 200mg/5ml oral solution (Special Order)
 amp,12962811000001103,0501110C0AABRBR,Metronidazole 50mg/5ml oral solution (Special Order)
-amp,32646011000001104,0501110C0AABSBS,Metronidazole 500mg/5ml oral suspension (Special Order)
 amp,12960811000001104,0501110C0AABTBT,Metronidazole 100mg/5ml oral suspension (Special Order)
 amp,12962511000001101,0501110C0AABUBU,Metronidazole 50mg/5ml oral suspension (Special Order)
 amp,838811000001103,0501110C0BCAAAI,Flagyl 200mg tablets (Sanofi)
@@ -1793,6 +1590,7 @@ amp,238711000001102,0501120L0AAAFAF,Ciprofloxacin 500mg tablets (Alliance Health
 amp,327011000001108,0501120L0AAAFAF,Ciprofloxacin 500mg tablets (Sandoz Ltd)
 amp,491511000001105,0501120L0AAAFAF,Ciprofloxacin 500mg tablets (IVAX Pharmaceuticals UK Ltd)
 amp,625611000001100,0501120L0AAAFAF,Ciprofloxacin 500mg tablets (A A H Pharmaceuticals Ltd)
+amp,648911000001103,0501120L0AAAFAF,Ciprofloxacin 500mg tablets (C P Pharmaceuticals Ltd)
 amp,735711000001101,0501120L0AAAFAF,Ciprofloxacin 500mg tablets (Ranbaxy (UK) Ltd)
 amp,823711000001102,0501120L0AAAFAF,Ciprofloxacin 500mg tablets (Mylan)
 amp,920811000001106,0501120L0AAAFAF,Ciprofloxacin 500mg tablets (Actavis UK Ltd)
@@ -1858,21 +1656,7 @@ amp,21853311000001103,0501120L0AAAJAJ,Ciprofloxacin 750mg tablets (Waymade Healt
 amp,23483711000001106,0501120L0AAAJAJ,Ciprofloxacin 750mg tablets (Accord Healthcare Ltd)
 amp,36574511000001106,0501120L0AAAJAJ,Ciprofloxacin 750mg tablets (Nexcape Pharmaceuticals Ltd)
 amp,36841911000001102,0501120L0AAAJAJ,Ciprofloxacin 750mg tablets (Torrent Pharma (UK) Ltd)
-amp,11980911000001105,0501120L0AAANAN,Ciprofloxacin 40mg/5ml oral suspension (Special Order)
-amp,11975011000001109,0501120L0AAAPAP,Ciprofloxacin 100mg/5ml oral suspension (Special Order)
 amp,11972111000001103,0501120L0AAAQAQ,Ciprofloxacin 500mg/5ml oral suspension (Special Order)
-amp,11975511000001101,0501120L0AAATAT,Ciprofloxacin 125mg/5ml oral suspension (Special Order)
-amp,11972711000001102,0501120L0AAAUAU,Ciprofloxacin 50mg/5ml oral suspension (Special Order)
-amp,11973911000001107,0501120L0AAAVAV,Ciprofloxacin 75mg/5ml oral suspension (Special Order)
-amp,11973311000001106,0501120L0AAAWAW,Ciprofloxacin 60mg/5ml oral suspension (Special Order)
-amp,11977411000001106,0501120L0AAAXAX,Ciprofloxacin 170mg/5ml oral suspension (Special Order)
-amp,11980311000001109,0501120L0AABBBB,Ciprofloxacin 375mg/5ml oral suspension (Special Order)
-amp,11978711000001104,0501120L0AABCBC,Ciprofloxacin 175mg/5ml oral suspension (Special Order)
-amp,11974611000001103,0501120L0AABDBD,Ciprofloxacin 80mg/5ml oral suspension (Special Order)
-amp,11971311000001105,0501120L0AABHBH,Ciprofloxacin 45mg/5ml oral suspension (Special Order)
-amp,11976011000001100,0501120L0AABIBI,Ciprofloxacin 150mg/5ml oral suspension (Special Order)
-amp,11976411000001109,0501120L0AABJBJ,Ciprofloxacin 165mg/5ml oral suspension (Special Order)
-amp,11979311000001109,0501120L0AABKBK,Ciprofloxacin 20mg/5ml oral suspension (Special Order)
 amp,455911000001109,0501120L0BBAAAA,Ciproxin 250mg tablets (Bayer Plc)
 amp,417611000001101,0501120L0BBABAF,Ciproxin 500mg tablets (Bayer Plc)
 amp,162511000001103,0501120L0BBACAG,Ciproxin 100mg tablets (Bayer Plc)
@@ -1882,8 +1666,6 @@ amp,19172111000001106,0501120N0AAAAAA,Nalidixic acid 300mg/5ml oral suspension (
 amp,19681911000001107,0501120N0AAAAAA,Nalidixic acid 300mg/5ml oral suspension (Alliance Healthcare (Distribution) Ltd)
 amp,26854011000001101,0501120N0AAAAAA,Nalidixic acid 300mg/5ml oral suspension (Ennogen Healthcare Ltd)
 amp,3683611000001101,0501120N0BBAAAB,Negram 500mg tablets (Sanofi)
-amp,4058911000001101,0501120N0BBABAF,Negram 300mg/5ml oral suspension (Sanofi-Synthelabo Ltd)
-amp,4059711000001107,0501120N0BCAAAA,Uriben 300mg/5ml oral suspension (Rosemont Pharmaceuticals Ltd)
 amp,3852811000001105,0501120N0BDAAAC,Mictral granules 7g sachets (Sanofi-Synthelabo Ltd)
 amp,319311000001109,0501120P0AAAAAA,Ofloxacin 200mg tablets (Sandoz Ltd)
 amp,465511000001105,0501120P0AAAAAA,Ofloxacin 200mg tablets (A A H Pharmaceuticals Ltd)
@@ -1908,10 +1690,6 @@ amp,15112411000001104,0501120P0AAABAB,Ofloxacin 400mg tablets (Sigma Pharmaceuti
 amp,16062211000001105,0501120P0AAABAB,Ofloxacin 400mg tablets (Bristol Laboratories Ltd)
 amp,30853111000001107,0501120P0AAABAB,Ofloxacin 400mg tablets (Mawdsley-Brooks & Company Ltd)
 amp,37463811000001109,0501120P0AAABAB,Ofloxacin 400mg tablets (DE Pharmaceuticals)
-amp,12896211000001108,0501120P0AAADAD,Ofloxacin 100mg/5ml oral suspension (Special Order)
-amp,12897211000001105,0501120P0AAADAD,Ofloxacin 100mg/5ml oral solution (Special Order)
-amp,12897811000001106,0501120P0AAAEAE,Ofloxacin 250mg/5ml oral suspension (Special Order)
-amp,12898411000001108,0501120P0AAAEAE,Ofloxacin 250mg/5ml oral solution (Special Order)
 amp,362511000001106,0501120P0BBAAAA,Tarivid 200mg tablets (Sanofi)
 amp,491611000001109,0501120P0BBACAB,Tarivid 400mg tablets (Sanofi)
 amp,254211000001102,0501120Q0AAAAAA,Norfloxacin 400mg tablets (Alliance Healthcare (Distribution) Ltd)
@@ -1921,7 +1699,7 @@ amp,822711000001105,0501120Q0AAAAAA,Norfloxacin 400mg tablets (A A H Pharmaceuti
 amp,17947511000001107,0501120Q0AAAAAA,Norfloxacin 400mg tablets (Phoenix Healthcare Distribution Ltd)
 amp,18745111000001108,0501120Q0AAAAAA,Norfloxacin 400mg tablets (Teva UK Ltd)
 amp,21816311000001102,0501120Q0AAAAAA,Norfloxacin 400mg tablets (Waymade Healthcare Plc)
-amp,35549811000001106,0501120Q0AAABAB,Norfloxacin 400mg tablets (Special Order)
+amp,35549811000001106,0501120Q0AAAAAA,Norfloxacin 400mg tablets (Special Order)
 amp,866311000001103,0501120Q0BBAAAA,Utinor 400mg tablets (Merck Sharp & Dohme Ltd)
 amp,19178911000001107,0501120X0AAAAAA,Levofloxacin 500mg tablets (Teva UK Ltd)
 amp,19298011000001103,0501120X0AAAAAA,Levofloxacin 500mg tablets (Actavis UK Ltd)
@@ -1949,7 +1727,6 @@ amp,29889711000001104,0501120X0AAABAB,Levofloxacin 250mg tablets (Sigma Pharmace
 amp,37098711000001101,0501120X0AAABAB,Levofloxacin 250mg tablets (Mawdsley-Brooks & Company Ltd)
 amp,3078311000001102,0501120X0BBAAAA,Tavanic 500mg tablets (Sanofi)
 amp,3077511000001109,0501120X0BBABAB,Tavanic 250mg tablets (Sanofi)
-amp,19374111000001107,0501120X0BCAAAB,Evoxil 250mg tablets (Beacon Pharmaceuticals Ltd)
 amp,28922411000001103,0501120X0BCACAA,Evoxil 500mg tablets (Kent Pharmaceuticals Ltd)
 amp,24673211000001107,0501120Y0AAAAAA,Moxifloxacin 400mg tablets (Teva UK Ltd)
 amp,24683911000001108,0501120Y0AAAAAA,Moxifloxacin 400mg tablets (Accord Healthcare Ltd)
@@ -1959,7 +1736,6 @@ amp,28697411000001107,0501120Y0AAAAAA,Moxifloxacin 400mg tablets (Rivopharm (UK)
 amp,29927511000001104,0501120Y0AAAAAA,Moxifloxacin 400mg tablets (Sigma Pharmaceuticals Plc)
 amp,30834211000001104,0501120Y0AAAAAA,Moxifloxacin 400mg tablets (Mawdsley-Brooks & Company Ltd)
 amp,37453311000001107,0501120Y0AAAAAA,Moxifloxacin 400mg tablets (DE Pharmaceuticals)
-amp,35992311000001106,0501120Y0AAADAD,Moxifloxacin 400mg/5ml oral solution (Special Order)
 amp,4360711000001109,0501120Y0BBAAAA,Avelox 400mg tablets (Bayer Plc)
 amp,37830711000001109,0501130H0AAAAAA,Methenamine hippurate 1g tablets (Advanz Pharma)
 amp,37947311000001104,0501130H0AAAAAA,Methenamine hippurate 1g tablets (A A H Pharmaceuticals Ltd)
@@ -2011,97 +1787,41 @@ amp,30851411000001101,0501130R0AAAEAE,Nitrofurantoin 100mg tablets (Mawdsley-Bro
 amp,37461111000001103,0501130R0AAAEAE,Nitrofurantoin 100mg tablets (DE Pharmaceuticals)
 amp,12820611000001102,0501130R0AAAJAJ,Nitrofurantoin 100mg/5ml oral suspension (Special Order)
 amp,12820911000001108,0501130R0AAAJAJ,Nitrofurantoin 100mg/5ml oral solution (Special Order)
-amp,12828711000001108,0501130R0AAALAL,Nitrofurantoin 15mg/5ml oral suspension (Special Order)
-amp,12829211000001106,0501130R0AAALAL,Nitrofurantoin 15mg/5ml oral solution (Special Order)
 amp,12902311000001108,0501130R0AAAMAM,Nitrofurantoin 25mg/5ml oral suspension (Special Order)
 amp,12902611000001103,0501130R0AAAMAM,Nitrofurantoin 25mg/5ml oral solution (Special Order)
 amp,12916911000001106,0501130R0AAANAN,Nitrofurantoin 50mg/5ml oral suspension (Special Order)
 amp,12917211000001100,0501130R0AAANAN,Nitrofurantoin 50mg/5ml oral solution (Special Order)
-amp,12914511000001105,0501130R0AAAPAP,Nitrofurantoin 40mg/5ml oral suspension (Special Order)
-amp,12914811000001108,0501130R0AAAPAP,Nitrofurantoin 40mg/5ml oral solution (Special Order)
-amp,12891611000001103,0501130R0AAAQAQ,Nitrofurantoin 18mg/5ml oral suspension (Special Order)
-amp,12892411000001106,0501130R0AAAQAQ,Nitrofurantoin 18mg/5ml oral solution (Special Order)
 amp,12917511000001102,0501130R0AAARAR,Nitrofurantoin 5mg/5ml oral suspension (Special Order)
 amp,12917811000001104,0501130R0AAARAR,Nitrofurantoin 5mg/5ml oral solution (Special Order)
-amp,12824811000001108,0501130R0AAASAS,Nitrofurantoin 13mg/5ml oral suspension (Special Order)
-amp,12825111000001102,0501130R0AAASAS,Nitrofurantoin 13mg/5ml oral solution (Special Order)
 amp,12821211000001105,0501130R0AAATAT,Nitrofurantoin 10mg/5ml oral suspension (Special Order)
 amp,12821511000001108,0501130R0AAATAT,Nitrofurantoin 10mg/5ml oral solution (Special Order)
-amp,12823611000001106,0501130R0AAAUAU,Nitrofurantoin 12mg/5ml oral suspension (Special Order)
-amp,12823911000001100,0501130R0AAAUAU,Nitrofurantoin 12mg/5ml oral solution (Special Order)
-amp,12898811000001105,0501130R0AAAVAV,Nitrofurantoin 20mg/5ml oral suspension (Special Order)
-amp,12899511000001101,0501130R0AAAVAV,Nitrofurantoin 20mg/5ml oral solution (Special Order)
-amp,12918111000001107,0501130R0AAAWAW,Nitrofurantoin 6.5mg/5ml oral suspension (Special Order)
-amp,12918411000001102,0501130R0AAAWAW,Nitrofurantoin 6.5mg/5ml oral solution (Special Order)
-amp,12919311000001103,0501130R0AAAXAX,Nitrofurantoin 7.5mg/5ml oral suspension (Special Order)
-amp,12919611000001108,0501130R0AAAXAX,Nitrofurantoin 7.5mg/5ml oral solution (Special Order)
-amp,12912611000001101,0501130R0AAAZAZ,Nitrofurantoin 30mg/5ml oral suspension (Special Order)
-amp,12912911000001107,0501130R0AAAZAZ,Nitrofurantoin 30mg/5ml oral solution (Special Order)
-amp,12922911000001102,0501130R0AABABA,Nitrofurantoin 9mg/5ml oral suspension (Special Order)
-amp,12923211000001100,0501130R0AABABA,Nitrofurantoin 9mg/5ml oral solution (Special Order)
-amp,12921111000001105,0501130R0AABBBB,Nitrofurantoin 7mg/5ml oral suspension (Special Order)
-amp,12921411000001100,0501130R0AABBBB,Nitrofurantoin 7mg/5ml oral solution (Special Order)
-amp,12902911000001109,0501130R0AABCBC,Nitrofurantoin 2mg/5ml oral suspension (Special Order)
-amp,12903211000001106,0501130R0AABCBC,Nitrofurantoin 2mg/5ml oral solution (Special Order)
 amp,12897011000001100,0501130R0AABDBD,Nitrofurantoin 2.5mg/5ml oral suspension (Special Order)
 amp,12898111000001103,0501130R0AABDBD,Nitrofurantoin 2.5mg/5ml oral solution (Special Order)
 amp,12822411000001104,0501130R0AABEBE,Nitrofurantoin 12.5mg/5ml oral suspension (Special Order)
 amp,12822711000001105,0501130R0AABEBE,Nitrofurantoin 12.5mg/5ml oral solution (Special Order)
-amp,12901111000001101,0501130R0AABGBG,Nitrofurantoin 22mg/5ml oral suspension (Special Order)
-amp,12901411000001106,0501130R0AABGBG,Nitrofurantoin 22mg/5ml oral solution (Special Order)
-amp,12889411000001101,0501130R0AABIBI,Nitrofurantoin 17mg/5ml oral suspension (Special Order)
-amp,12889711000001107,0501130R0AABIBI,Nitrofurantoin 17mg/5ml oral solution (Special Order)
-amp,12829711000001104,0501130R0AABJBJ,Nitrofurantoin 16mg/5ml oral suspension (Special Order)
-amp,12830411000001103,0501130R0AABJBJ,Nitrofurantoin 16mg/5ml oral solution (Special Order)
-amp,12920511000001108,0501130R0AABKBK,Nitrofurantoin 75mg/5ml oral suspension (Special Order)
-amp,12920811000001106,0501130R0AABKBK,Nitrofurantoin 75mg/5ml oral solution (Special Order)
-amp,12921711000001106,0501130R0AABLBL,Nitrofurantoin 8mg/5ml oral suspension (Special Order)
-amp,12922011000001101,0501130R0AABLBL,Nitrofurantoin 8mg/5ml oral solution (Special Order)
 amp,12916311000001105,0501130R0AABNBN,Nitrofurantoin 5.5mg/5ml oral suspension (Special Order)
 amp,12916611000001100,0501130R0AABNBN,Nitrofurantoin 5.5mg/5ml oral solution (Special Order)
-amp,12913911000001100,0501130R0AABPBP,Nitrofurantoin 35mg/5ml oral suspension (Special Order)
-amp,12914211000001107,0501130R0AABPBP,Nitrofurantoin 35mg/5ml oral solution (Special Order)
-amp,12890311000001103,0501130R0AABQBQ,Nitrofurantoin 18.75mg/5ml oral suspension (Special Order)
-amp,12890911000001102,0501130R0AABQBQ,Nitrofurantoin 18.75mg/5ml oral solution (Special Order)
-amp,12918711000001108,0501130R0AABRBR,Nitrofurantoin 6mg/5ml oral suspension (Special Order)
-amp,12919011000001101,0501130R0AABRBR,Nitrofurantoin 6mg/5ml oral solution (Special Order)
 amp,12823011000001104,0501130R0AABSBS,Nitrofurantoin 125mg/5ml oral suspension (Special Order)
 amp,12823311000001101,0501130R0AABSBS,Nitrofurantoin 125mg/5ml oral solution (Special Order)
-amp,12922311000001103,0501130R0AABTBT,Nitrofurantoin 9.5mg/5ml oral suspension (Special Order)
-amp,12922611000001108,0501130R0AABTBT,Nitrofurantoin 9.5mg/5ml oral solution (Special Order)
-amp,12913211000001109,0501130R0AABUBU,Nitrofurantoin 32.5mg/5ml oral suspension (Special Order)
-amp,12913611000001106,0501130R0AABUBU,Nitrofurantoin 32.5mg/5ml oral solution (Special Order)
-amp,12915711000001101,0501130R0AABVBV,Nitrofurantoin 4mg/5ml oral suspension (Special Order)
-amp,12916011000001107,0501130R0AABVBV,Nitrofurantoin 4mg/5ml oral solution (Special Order)
 amp,12827411000001101,0501130R0AABWBW,Nitrofurantoin 14mg/5ml oral suspension (Special Order)
 amp,12828311000001109,0501130R0AABWBW,Nitrofurantoin 14mg/5ml oral solution (Special Order)
 amp,12915111000001102,0501130R0AABXBX,Nitrofurantoin 45mg/5ml oral suspension (Special Order)
 amp,12915411000001107,0501130R0AABXBX,Nitrofurantoin 45mg/5ml oral solution (Special Order)
-amp,12901711000001100,0501130R0AABYBY,Nitrofurantoin 24mg/5ml oral suspension (Special Order)
-amp,12902011000001105,0501130R0AABYBY,Nitrofurantoin 24mg/5ml oral solution (Special Order)
-amp,12893411000001102,0501130R0AACDCD,Nitrofurantoin 1mg/5ml oral suspension (Special Order)
-amp,12894911000001107,0501130R0AACDCD,Nitrofurantoin 1mg/5ml oral solution (Special Order)
-amp,12824211000001107,0501130R0AACECE,Nitrofurantoin 13.5mg/5ml oral suspension (Special Order)
-amp,12824511000001105,0501130R0AACECE,Nitrofurantoin 13.5mg/5ml oral solution (Special Order)
 amp,12821811000001106,0501130R0AACGCG,Nitrofurantoin 11mg/5ml oral suspension (Special Order)
 amp,12822111000001109,0501130R0AACGCG,Nitrofurantoin 11mg/5ml oral solution (Special Order)
-amp,12888811000001106,0501130R0AACICI,Nitrofurantoin 17.5mg/5ml oral suspension (Special Order)
-amp,12889111000001106,0501130R0AACICI,Nitrofurantoin 17.5mg/5ml oral solution (Special Order)
-amp,12919911000001102,0501130R0AACJCJ,Nitrofurantoin 7.8mg/5ml oral suspension (Special Order)
-amp,12920211000001105,0501130R0AACJCJ,Nitrofurantoin 7.8mg/5ml oral solution (Special Order)
 amp,58211000001101,0501130R0BBAAAD,Furadantin 50mg tablets (Advanz Pharma)
 amp,758411000001103,0501130R0BBABAE,Furadantin 100mg tablets (Advanz Pharma)
 amp,3606911000001102,0501130R0BBACAC,Furadantin 25mg/5ml oral suspension (Mercury Pharma Group Ltd)
 amp,623211000001101,0501130R0BCAAAA,Macrodantin 50mg capsules (Advanz Pharma)
 amp,707311000001101,0501130R0BCABAB,Macrodantin 100mg capsules (Advanz Pharma)
-amp,461311000001101,0501130R0BDAAAD,Urantoin 50mg tablets (Dr Reddy's Laboratories (UK) Ltd)
-amp,32711000001109,0501130R0BDABAE,Urantoin 100mg tablets (Dr Reddy's Laboratories (UK) Ltd)
 amp,517311000001102,0501130R0BGAAAG,Macrobid 100mg modified-release capsules (Advanz Pharma)
 amp,32747111000001108,0501130R0BHAAAE,Genfura 100mg tablets (Genesis Pharmaceuticals Ltd)
 amp,32746911000001108,0501130R0BHABAD,Genfura 50mg tablets (Genesis Pharmaceuticals Ltd)
 amp,28691111000001109,0501130S0AAAAAA,Fosfomycin 500mg capsules (Special Order)
 amp,21259011000001106,0501130S0BBAAAA,Fosfocina 500mg capsules (Imported (Spain))
 amp,37905311000001102,0502010A0AAAAAA,Posaconazole 40mg/ml oral suspension (Thornton & Ross Ltd)
+amp,38007111000001107,0502010A0AAABAB,Posaconazole 100mg gastro-resistant tablets (Sandoz Ltd)
+amp,38017211000001104,0502010A0AAABAB,Posaconazole 100mg gastro-resistant tablets (Zentiva)
 amp,10053611000001102,0502010A0BBAAAA,Noxafil 40mg/ml oral suspension (Merck Sharp & Dohme Ltd)
 amp,24556411000001109,0502010A0BBABAB,Noxafil 100mg gastro-resistant tablets (Merck Sharp & Dohme Ltd)
 amp,4114311000001108,0502010B0AAAAAA,Fluconazole 50mg capsules (Actavis UK Ltd)
@@ -2189,12 +1909,7 @@ amp,787611000001105,0502010B0BBACAC,Diflucan 200mg capsules (Pfizer Ltd)
 amp,705211000001101,0502010B0BBAGAG,Diflucan 50mg/5ml oral suspension (Pfizer Ltd)
 amp,542711000001108,0502010B0BBAHAH,Diflucan 200mg/5ml oral suspension (Pfizer Ltd)
 amp,230911000001102,0502010B0BBAIAB,Diflucan One 150mg capsules (McNeil Products Ltd)
-amp,4783311000001102,0502010B0BCAAAB,Galpharm Single Dose Thrush Treatment 150mg capsules (Galpharm International Ltd)
 amp,4880011000001107,0502010B0BDAAAB,Canesten Thrush Oral 150mg capsules (Bayer Plc)
-amp,7987111000001107,0502010B0BEAAAB,Lloydspharmacy Thrush Oral 150mg capsules (Lloyds Pharmacy Ltd)
-amp,37147411000001108,0502010B0BFAAAB,Azocan 150mg capsules (FDC International Ltd)
-amp,37147811000001105,0502010B0BFABAC,Azocan 200mg capsules (FDC International Ltd)
-amp,37148211000001108,0502010B0BFACAA,Azocan 50mg capsules (FDC International Ltd)
 amp,8098711000001109,0502010C0AAAAAA,Itraconazole 100mg capsules (Sandoz Ltd)
 amp,8166611000001107,0502010C0AAAAAA,Itraconazole 100mg capsules (A A H Pharmaceuticals Ltd)
 amp,9453811000001105,0502010C0AAAAAA,Itraconazole 100mg capsules (Alliance Healthcare (Distribution) Ltd)
@@ -2249,17 +1964,11 @@ amp,36860211000001108,0502010D0AAAHAH,Voriconazole 100mg tablets (Aristo Pharma 
 amp,4334711000001108,0502010D0BBAAAA,VFEND 200mg tablets (Pfizer Ltd)
 amp,4334111000001107,0502010D0BBABAB,VFEND 50mg tablets (Pfizer Ltd)
 amp,7961211000001109,0502010D0BBADAD,VFEND 40mg/ml oral suspension (Pfizer Ltd)
-amp,31010811000001107,0502010E0BBAAAA,Cresemba 100mg capsules (Pfizer Ltd)
 amp,29007711000001107,0502020A0AAACAC,Ketoconazole 200mg tablets (HRA Pharma UK Ltd)
 amp,29227011000001108,0502020A0AAACAC,Ketoconazole 200mg tablets (A A H Pharmaceuticals Ltd)
 amp,35110511000001104,0502020A0AAACAC,Ketoconazole 200mg tablets (Alliance Healthcare (Distribution) Ltd)
-amp,8556311000001100,0502020A0AAADAD,Ketoconazole 100mg/5ml oral suspension (Special Order)
-amp,8557511000001108,0502020A0AAAEAE,Ketoconazole 60mg/5ml oral suspension (Special Order)
-amp,12648911000001103,0502020A0AAAFAF,Ketoconazole 75mg/5ml oral suspension (Special Order)
 amp,3771211000001103,0502020A0BBAAAC,Nizoral 200mg tablets (Janssen-Cilag Ltd)
 amp,27845711000001104,0502030A0AAANAN,Amphotericin B 100mg/ml oral solution (Special Order)
-amp,3942511000001104,0502030A0BBAAAC,Fungilin 100mg tablets (Bristol-Myers Squibb Pharmaceuticals Ltd)
-amp,3804611000001108,0502030A0BBABAB,Fungilin 100mg/ml oral suspension (Bristol-Myers Squibb Pharmaceuticals Ltd)
 amp,10836111000001100,0502030B0AAABAB,"Nystatin 100,000units/ml oral suspension (Alliance Healthcare (Distribution) Ltd)"
 amp,12533711000001101,0502030B0AAABAB,"Nystatin 100,000units/ml oral suspension (Sandoz Ltd)"
 amp,15609211000001107,0502030B0AAABAB,"Nystatin 100,000units/ml oral suspension (A A H Pharmaceuticals Ltd)"
@@ -2282,76 +1991,39 @@ amp,486111000001109,0502030B0BGAAAX,"Nystamont 100,000units/ml oral suspension (
 amp,9533411000001101,0502050B0AAABAB,Griseofulvin 125mg tablets (Essential Generics Ltd)
 amp,9761011000001103,0502050B0AAABAB,Griseofulvin 125mg tablets (Alliance Healthcare (Distribution) Ltd)
 amp,10130811000001101,0502050B0AAABAB,Griseofulvin 125mg tablets (A A H Pharmaceuticals Ltd)
+amp,15092011000001104,0502050B0AAABAB,Griseofulvin 125mg tablets (Sigma Pharmaceuticals Plc)
 amp,9533711000001107,0502050B0AAACAC,Griseofulvin 500mg tablets (Essential Generics Ltd)
 amp,9761411000001107,0502050B0AAACAC,Griseofulvin 500mg tablets (Alliance Healthcare (Distribution) Ltd)
 amp,10131111000001102,0502050B0AAACAC,Griseofulvin 500mg tablets (A A H Pharmaceuticals Ltd)
 amp,8506511000001101,0502050B0AAAEAE,Griseofulvin 200mg/5ml oral suspension (Special Order)
-amp,12657211000001106,0502050B0AAAHAH,Griseofulvin 625mg/5ml oral suspension (Special Order)
-amp,8507811000001101,0502050B0AAAIAI,Griseofulvin 50mg/5ml oral suspension (Special Order)
 amp,8507011000001107,0502050B0AAAJAJ,Griseofulvin 300mg/5ml oral suspension (Special Order)
 amp,8510411000001100,0502050B0AAAKAK,Griseofulvin 500mg/5ml oral suspension (Special Order)
 amp,8504911000001100,0502050B0AAALAL,Griseofulvin 100mg/5ml oral suspension (Special Order)
-amp,12655811000001102,0502050B0AAAMAM,Griseofulvin 450mg/5ml oral suspension (Special Order)
-amp,12113611000001108,0502050B0AAANAN,Griseofulvin 112.5mg/5ml oral suspension (Special Order)
 amp,8506711000001106,0502050B0AAAPAP,Griseofulvin 150mg/5ml oral suspension (Special Order)
 amp,12652511000001106,0502050B0AAAQAQ,Griseofulvin 320mg/5ml oral suspension (Special Order)
 amp,8505711000001103,0502050B0AAARAR,Griseofulvin 250mg/5ml oral suspension (Special Order)
-amp,12115111000001104,0502050B0AAASAS,Griseofulvin 140mg/5ml oral suspension (Special Order)
 amp,12223511000001101,0502050B0AAATAT,Griseofulvin 190mg/5ml oral suspension (Special Order)
 amp,12650711000001100,0502050B0AAAUAU,Griseofulvin 280mg/5ml oral suspension (Special Order)
 amp,12221011000001108,0502050B0AAAVAV,Griseofulvin 170mg/5ml oral suspension (Special Order)
-amp,8507511000001104,0502050B0AAAWAW,Griseofulvin 350mg/5ml oral suspension (Special Order)
 amp,12224911000001105,0502050B0AAAXAX,Griseofulvin 230mg/5ml oral suspension (Special Order)
-amp,12659011000001105,0502050B0AAAYAY,Griseofulvin 90mg/5ml oral suspension (Special Order)
 amp,12221311000001106,0502050B0AAAZAZ,Griseofulvin 180mg/5ml oral suspension (Special Order)
 amp,12220111000001103,0502050B0AABABA,Griseofulvin 160mg/5ml oral suspension (Special Order)
 amp,12224611000001104,0502050B0AABBBB,Griseofulvin 220mg/5ml oral suspension (Special Order)
 amp,8508311000001106,0502050B0AABCBC,Griseofulvin 400mg/5ml oral suspension (Special Order)
-amp,12655511000001100,0502050B0AABDBD,Griseofulvin 40mg/5ml oral suspension (Special Order)
-amp,12653111000001108,0502050B0AABEBE,Griseofulvin 35mg/5ml oral suspension (Special Order)
 amp,8505211000001105,0502050B0AABFBF,Griseofulvin 225mg/5ml oral suspension (Special Order)
 amp,12113911000001102,0502050B0AABGBG,Griseofulvin 12.5mg/5ml oral suspension (Special Order)
 amp,12225811000001104,0502050B0AABHBH,Griseofulvin 240mg/5ml oral suspension (Special Order)
-amp,12658411000001109,0502050B0AABIBI,Griseofulvin 80mg/5ml oral suspension (Special Order)
 amp,12114211000001109,0502050B0AABJBJ,Griseofulvin 120mg/5ml oral suspension (Special Order)
 amp,12655211000001103,0502050B0AABLBL,Griseofulvin 390mg/5ml oral suspension (Special Order)
-amp,12656911000001100,0502050B0AABMBM,Griseofulvin 62.5mg/5ml oral suspension (Special Order)
-amp,12224011000001106,0502050B0AABNBN,Griseofulvin 20mg/5ml oral suspension (Special Order)
-amp,12224311000001109,0502050B0AABPBP,Griseofulvin 210mg/5ml oral suspension (Special Order)
 amp,12227311000001100,0502050B0AABQBQ,Griseofulvin 25mg/5ml oral suspension (Special Order)
-amp,12220711000001102,0502050B0AABRBR,Griseofulvin 167mg/5ml oral suspension (Special Order)
-amp,12225211000001100,0502050B0AABSBS,Griseofulvin 235mg/5ml oral suspension (Special Order)
-amp,12652111000001102,0502050B0AABTBT,Griseofulvin 318mg/5ml oral suspension (Special Order)
-amp,12654411000001100,0502050B0AABUBU,Griseofulvin 370mg/5ml oral suspension (Special Order)
-amp,8510111000001105,0502050B0AABVBV,Griseofulvin 75mg/5ml oral suspension (Special Order)
-amp,12112411000001101,0502050B0AABWBW,Griseofulvin 105mg/5ml oral suspension (Special Order)
-amp,12658111000001104,0502050B0AABXBX,Griseofulvin 70mg/5ml oral suspension (Special Order)
-amp,12657811000001107,0502050B0AABYBY,Griseofulvin 700mg/5ml oral suspension (Special Order)
 amp,12654911000001108,0502050B0AABZBZ,Griseofulvin 375mg/5ml oral suspension (Special Order)
-amp,12656111000001103,0502050B0AACACA,Griseofulvin 55mg/5ml oral suspension (Special Order)
 amp,12113011000001101,0502050B0AACBCB,Griseofulvin 10mg/5ml oral suspension (Special Order)
-amp,12657511000001109,0502050B0AACCCC,Griseofulvin 65mg/5ml oral suspension (Special Order)
 amp,8504311000001101,0502050B0AACDCD,Griseofulvin 1.25g/5ml oral suspension (Special Order)
-amp,12658711000001103,0502050B0AACECE,Griseofulvin 85mg/5ml oral suspension (Special Order)
-amp,12113311000001103,0502050B0AACFCF,Griseofulvin 110mg/5ml oral suspension (Special Order)
 amp,12656411000001108,0502050B0AACGCG,Griseofulvin 60mg/5ml oral suspension (Special Order)
-amp,12221611000001101,0502050B0AACHCH,Griseofulvin 187.5mg/5ml oral suspension (Special Order)
-amp,12654011000001109,0502050B0AACICI,Griseofulvin 360mg/5ml oral suspension (Special Order)
-amp,12114811000001105,0502050B0AACJCJ,Griseofulvin 135mg/5ml oral suspension (Special Order)
-amp,12652811000001109,0502050B0AACKCK,Griseofulvin 340mg/5ml oral suspension (Special Order)
-amp,12114511000001107,0502050B0AACLCL,Griseofulvin 130mg/5ml oral suspension (Special Order)
-amp,12651311000001109,0502050B0AACMCM,Griseofulvin 30mg/5ml oral suspension (Special Order)
-amp,12651611000001104,0502050B0AACNCN,Griseofulvin 312.5mg/5ml oral suspension (Special Order)
-amp,12651011000001106,0502050B0AACPCP,Griseofulvin 290mg/5ml oral suspension (Special Order)
-amp,12220411000001108,0502050B0AACQCQ,Griseofulvin 165mg/5ml oral suspension (Special Order)
 amp,12650411000001106,0502050B0AACRCR,Griseofulvin 270mg/5ml oral suspension (Special Order)
 amp,13434411000001107,0502050B0AACSCS,Griseofulvin 560mg/5ml oral suspension (Special Order)
 amp,8505611000001107,0502050B0AACUCU,Griseofulvin 125mg/5ml oral suspension (Drug Tariff Special Order)
 amp,8506111000001105,0502050B0AACVCV,Griseofulvin 175mg/5ml oral suspension (Drug Tariff Special Order)
-amp,32858511000001100,0502050B0AACWCW,Griseofulvin 387mg/5ml oral solution (Special Order)
-amp,36964011000001102,0502050B0AACXCX,Griseofulvin 440mg/5ml oral suspension (Special Order)
-amp,352611000001103,0502050B0BCAAAB,Grisovin 125mg tablets (GlaxoSmithKline UK Ltd)
-amp,496011000001109,0502050B0BCABAC,Grisovin 500mg tablets (GlaxoSmithKline UK Ltd)
 amp,9481611000001100,0502050C0AAAAAA,Terbinafine 250mg tablets (Accord Healthcare Ltd)
 amp,9482111000001103,0502050C0AAAAAA,Terbinafine 250mg tablets (Teva UK Ltd)
 amp,9502311000001106,0502050C0AAAAAA,Terbinafine 250mg tablets (Wockhardt UK Ltd)
@@ -2410,9 +2082,6 @@ amp,34930711000001106,0503010AAAAAAAA,Emtricitabine 200mg / Tenofovir 245mg tabl
 amp,35303711000001109,0503010AAAAAAAA,Emtricitabine 200mg / Tenofovir 245mg tablets (Aristo Pharma Ltd)
 amp,36810711000001102,0503010AAAAAAAA,Emtricitabine 200mg / Tenofovir 245mg tablets (Mylan)
 amp,9098011000001105,0503010AABBAAAA,Truvada 200mg/245mg tablets (Gilead Sciences International Ltd)
-amp,35831411000001108,0503010AABCAAAA,Ictastan 200mg/245mg tablets (Actavis UK Ltd)
-amp,9747111000001103,0503010ABBBAAAA,Aptivus 250mg capsules (Boehringer Ingelheim Ltd)
-amp,16423811000001103,0503010ABBBABAB,Aptivus 100mg/ml oral solution (Boehringer Ingelheim Ltd)
 amp,36616611000001100,0503010ACAAABAB,Darunavir 400mg tablets (Dr Reddy's Laboratories (UK) Ltd)
 amp,37243511000001104,0503010ACAAABAB,Darunavir 400mg tablets (Zentiva)
 amp,36779511000001106,0503010ACAAACAC,Darunavir 600mg tablets (Mylan)
@@ -2425,7 +2094,6 @@ amp,36780511000001106,0503010ACAAAGAG,Darunavir 800mg tablets (Mylan)
 amp,37243911000001106,0503010ACAAAGAG,Darunavir 800mg tablets (Zentiva)
 amp,37562711000001104,0503010ACAAAGAG,Darunavir 800mg tablets (Accord Healthcare Ltd)
 amp,37563111000001106,0503010ACAAAGAG,Darunavir 800mg tablets (A A H Pharmaceuticals Ltd)
-amp,11236211000001107,0503010ACBBAAAA,Prezista 300mg tablets (Janssen-Cilag Ltd)
 amp,15164311000001100,0503010ACBBABAB,Prezista 400mg tablets (Janssen-Cilag Ltd)
 amp,15164611000001105,0503010ACBBACAC,Prezista 600mg tablets (Janssen-Cilag Ltd)
 amp,16222711000001104,0503010ACBBADAD,Prezista 75mg tablets (Janssen-Cilag Ltd)
@@ -2434,24 +2102,12 @@ amp,21536711000001106,0503010ACBBAFAF,Prezista 100mg/ml oral suspension (Janssen
 amp,21834111000001102,0503010ACBBAGAG,Prezista 800mg tablets (Janssen-Cilag Ltd)
 amp,12660911000001105,0503010ADBBAAAA,Celsentri 150mg tablets (ViiV Healthcare UK Ltd)
 amp,12661211000001107,0503010ADBBABAB,Celsentri 300mg tablets (ViiV Healthcare UK Ltd)
-amp,34883311000001101,0503010ADBBACAC,Celsentri 20mg/ml oral solution (ViiV Healthcare UK Ltd)
 amp,34884811000001108,0503010ADBBADAD,Celsentri 75mg tablets (ViiV Healthcare UK Ltd)
-amp,34885111000001102,0503010ADBBAEAE,Celsentri 25mg tablets (ViiV Healthcare UK Ltd)
 amp,13109411000001101,0503010AEBBAAAA,Isentress 400mg tablets (Merck Sharp & Dohme Ltd)
-amp,22222811000001105,0503010AEBBABAB,Isentress 100mg chewable tablets (Merck Sharp & Dohme Ltd)
-amp,22223111000001109,0503010AEBBACAC,Isentress 25mg chewable tablets (Merck Sharp & Dohme Ltd)
-amp,29696811000001105,0503010AEBBADAD,Isentress 100mg granules sachets (Merck Sharp & Dohme Ltd)
 amp,34733111000001108,0503010AEBBAEAE,Isentress 600mg tablets (Merck Sharp & Dohme Ltd)
-amp,14205311000001107,0503010AFBBAAAA,Intelence 100mg tablets (Janssen-Cilag Ltd)
-amp,19856611000001108,0503010AFBBABAB,Intelence 200mg tablets (Janssen-Cilag Ltd)
-amp,22487011000001105,0503010AFBBACAC,Intelence 25mg tablets (Janssen-Cilag Ltd)
 amp,19842611000001109,0503010AGBBAAAA,Edurant 25mg tablets (Janssen-Cilag Ltd)
 amp,23906311000001102,0503010AHBBAAAA,Tivicay 50mg tablets (ViiV Healthcare UK Ltd)
-amp,34178711000001109,0503010AHBBABAB,Tivicay 10mg tablets (ViiV Healthcare UK Ltd)
-amp,34179011000001102,0503010AHBBACAC,Tivicay 25mg tablets (ViiV Healthcare UK Ltd)
 amp,23973111000001104,0503010AIBBAAAA,Tybost 150mg tablets (Gilead Sciences International Ltd)
-amp,23975111000001103,0503010AJBBAAAA,Vitekta 85mg tablets (Gilead Sciences International Ltd)
-amp,23976111000001109,0503010AJBBABAB,Vitekta 150mg tablets (Gilead Sciences International Ltd)
 amp,28394411000001106,0503010AKBBAAAA,Rezolsta 800mg/150mg tablets (Janssen-Cilag Ltd)
 amp,30225811000001105,0503010ALBBAAAA,Evotaz 300mg/150mg tablets (Bristol-Myers Squibb Pharmaceuticals Ltd)
 amp,32761811000001102,0503010AMBBAAAA,Descovy 200mg/10mg tablets (Gilead Sciences International Ltd)
@@ -2461,13 +2117,7 @@ amp,35361211000001102,0503010ANAAAAAA,Efavirenz 600mg / Emtricitabine 200mg / Te
 amp,35556011000001108,0503010ANAAAAAA,Efavirenz 600mg / Emtricitabine 200mg / Tenofovir disoproxil 245mg tablets (Mylan)
 amp,37235211000001102,0503010ANAAAAAA,Efavirenz 600mg / Emtricitabine 200mg / Tenofovir disoproxil 245mg tablets (Zentiva)
 amp,12948911000001102,0503010ANBBAAAA,Atripla 600mg/200mg/245mg tablets (Gilead Sciences International Ltd)
-amp,35530911000001108,0503010APBBAAAA,Juluca 50mg/25mg tablets (ViiV Healthcare UK Ltd)
 amp,35639911000001106,0503010AQBBAAAA,Biktarvy 50mg/200mg/25mg tablets (Gilead Sciences International Ltd)
-amp,36579711000001100,0503010ARBBAAAA,Prevymis 240mg tablets (Merck Sharp & Dohme Ltd)
-amp,36877711000001107,0503010ASBBAAAA,Delstrigo 100mg/300mg/245mg tablets (Merck Sharp & Dohme Ltd)
-amp,36878811000001100,0503010ATBBAAAA,Pifeltro 100mg tablets (Merck Sharp & Dohme Ltd)
-amp,37481811000001107,0503010AUBBAAAA,Dovato 50mg/300mg tablets (ViiV Healthcare UK Ltd)
-amp,37833911000001103,0503010AVAAAAAA,Lamivudine 300mg / Tenofovir disoproxil 245mg tablets (Cipla EU Ltd)
 amp,22827511000001101,0503010B0AAAAAA,Nevirapine 200mg tablets (A A H Pharmaceuticals Ltd)
 amp,23422811000001104,0503010B0AAAAAA,Nevirapine 200mg tablets (Wockhardt UK Ltd)
 amp,23615111000001106,0503010B0AAAAAA,Nevirapine 200mg tablets (Creo Pharma Ltd)
@@ -2481,33 +2131,23 @@ amp,33039811000001104,0503010B0AAAEAE,Nevirapine 400mg modified-release tablets 
 amp,33747511000001107,0503010B0AAAEAE,Nevirapine 400mg modified-release tablets (Mylan)
 amp,35102611000001101,0503010B0AAAEAE,Nevirapine 400mg modified-release tablets (Accord Healthcare Ltd)
 amp,35477211000001107,0503010B0AAAEAE,Nevirapine 400mg modified-release tablets (Dr Reddy's Laboratories (UK) Ltd)
-amp,4451011000001101,0503010B0BBAAAA,Viramune 200mg tablets (Boehringer Ingelheim Ltd)
-amp,4450711000001107,0503010B0BBABAB,Viramune 50mg/5ml oral suspension (Boehringer Ingelheim Ltd)
 amp,19586911000001106,0503010B0BBACAC,Viramune 50mg modified-release tablets (Boehringer Ingelheim Ltd)
 amp,19587211000001100,0503010B0BBADAD,Viramune 100mg modified-release tablets (Boehringer Ingelheim Ltd)
 amp,19587511000001102,0503010B0BBAEAE,Viramune 400mg modified-release tablets (Boehringer Ingelheim Ltd)
-amp,583311000001106,0503010C0BBAAAA,Viracept 250mg tablets (Roche Products Ltd)
 amp,23679211000001106,0503010D0AAADAD,Efavirenz 600mg tablets (A A H Pharmaceuticals Ltd)
 amp,31322811000001102,0503010D0AAADAD,Efavirenz 600mg tablets (Creo Pharma Ltd)
 amp,32485611000001109,0503010D0AAADAD,Efavirenz 600mg tablets (Dr Reddy's Laboratories (UK) Ltd)
 amp,33586111000001109,0503010D0AAADAD,Efavirenz 600mg tablets (Mylan)
 amp,35102411000001104,0503010D0AAADAD,Efavirenz 600mg tablets (Accord Healthcare Ltd)
 amp,35245011000001109,0503010D0AAADAD,Efavirenz 600mg tablets (Milpharm Ltd)
-amp,4525211000001100,0503010D0BBAAAA,Sustiva 200mg capsules (Bristol-Myers Squibb Pharmaceuticals Ltd)
-amp,4520911000001100,0503010D0BBABAB,Sustiva 100mg capsules (Bristol-Myers Squibb Pharmaceuticals Ltd)
-amp,4522511000001108,0503010D0BBACAC,Sustiva 50mg capsules (Bristol-Myers Squibb Pharmaceuticals Ltd)
 amp,4996211000001108,0503010D0BBADAD,Sustiva 600mg tablets (Bristol-Myers Squibb Pharmaceuticals Ltd)
-amp,4755911000001109,0503010D0BBAEAE,Sustiva 30mg/ml oral solution (Bristol-Myers Squibb Pharmaceuticals Ltd)
 amp,36807311000001103,0503010E0AAAAAA,Abacavir 300mg tablets (Mylan)
 amp,37540011000001107,0503010E0AAAAAA,Abacavir 300mg tablets (Dr Reddy's Laboratories (UK) Ltd)
 amp,4442611000001100,0503010E0BBAAAA,Ziagen 300mg tablets (ViiV Healthcare UK Ltd)
-amp,4442911000001106,0503010E0BBABAB,Ziagen 20mg/ml oral solution (ViiV Healthcare UK Ltd)
 amp,4419111000001106,0503010F0BBAAAA,Trizivir tablets (ViiV Healthcare UK Ltd)
 amp,37117411000001103,0503010G0AAACAC,Lopinavir 200mg / Ritonavir 50mg tablets (Mylan)
 amp,37557811000001104,0503010G0AAACAC,Lopinavir 200mg / Ritonavir 50mg tablets (Accord Healthcare Ltd)
 amp,37561811000001103,0503010G0AAACAC,Lopinavir 200mg / Ritonavir 50mg tablets (A A H Pharmaceuticals Ltd)
-amp,4668711000001104,0503010G0BBAAAA,Kaletra 133.3mg/33.3mg capsules (Abbott Laboratories Ltd)
-amp,4690111000001104,0503010G0BBABAB,Kaletra 80mg/20mg/1ml oral solution (AbbVie Ltd)
 amp,10625411000001108,0503010G0BBACAC,Kaletra 200mg/50mg tablets (AbbVie Ltd)
 amp,13631411000001107,0503010G0BBADAD,Kaletra 100mg/25mg tablets (AbbVie Ltd)
 amp,34674311000001101,0503010H0AAAAAA,Tenofovir 245mg tablets (Aristo Pharma Ltd)
@@ -2521,18 +2161,10 @@ amp,35204611000001106,0503010H0AAAAAA,Tenofovir 245mg tablets (Teva UK Ltd)
 amp,35488911000001107,0503010H0AAAAAA,Tenofovir 245mg tablets (Alliance Healthcare (Distribution) Ltd)
 amp,36797911000001102,0503010H0AAAAAA,Tenofovir 245mg tablets (Sandoz Ltd)
 amp,37675311000001109,0503010H0AAAAAA,Tenofovir 245mg tablets (Genus Pharmaceuticals Ltd)
+amp,38072311000001101,0503010H0AAAAAA,Tenofovir 245mg tablets (Macleods Pharma UK Ltd)
 amp,3386111000001105,0503010H0BBAAAA,Viread 245mg tablets (Gilead Sciences International Ltd)
 amp,22016211000001105,0503010H0BBABAB,Viread 33mg/g granules (Gilead Sciences International Ltd)
-amp,22016511000001108,0503010H0BBACAC,Viread 123mg tablets (Gilead Sciences International Ltd)
-amp,22016911000001101,0503010H0BBADAD,Viread 163mg tablets (Gilead Sciences International Ltd)
-amp,22017511000001105,0503010H0BBAEAE,Viread 204mg tablets (Gilead Sciences International Ltd)
-amp,4822611000001108,0503010I0BBAAAA,Agenerase 150mg capsules (GlaxoSmithKline UK Ltd)
-amp,4823711000001107,0503010I0BBABAB,Agenerase 50mg capsules (GlaxoSmithKline UK Ltd)
-amp,4823211000001100,0503010I0BBACAC,Agenerase 15mg/ml oral solution (GlaxoSmithKline UK Ltd)
 amp,5379311000001101,0503010K0BBAAAA,Emtriva 200mg capsules (Gilead Sciences International Ltd)
-amp,9181811000001102,0503010K0BBABAB,Emtriva 10mg/ml oral solution (Gilead Sciences International Ltd)
-amp,37267111000001106,0503010L0AAAAAA,Atazanavir 150mg capsules (Zentiva)
-amp,37558711000001108,0503010L0AAAAAA,Atazanavir 150mg capsules (Sandoz Ltd)
 amp,37252711000001104,0503010L0AAABAB,Atazanavir 200mg capsules (Zentiva)
 amp,37558911000001105,0503010L0AAABAB,Atazanavir 200mg capsules (Sandoz Ltd)
 amp,37647111000001102,0503010L0AAABAB,Atazanavir 200mg capsules (Accord Healthcare Ltd)
@@ -2544,19 +2176,7 @@ amp,37654611000001102,0503010L0AAADAD,Atazanavir 300mg capsules (Accord Healthca
 amp,37685711000001100,0503010L0AAADAD,Atazanavir 300mg capsules (Mylan)
 amp,37728511000001100,0503010L0AAADAD,Atazanavir 300mg capsules (Dr Reddy's Laboratories (UK) Ltd)
 amp,37766711000001101,0503010L0AAADAD,Atazanavir 300mg capsules (A A H Pharmaceuticals Ltd)
-amp,7337311000001107,0503010L0BBAAAA,Reyataz 150mg capsules (Bristol-Myers Squibb Pharmaceuticals Ltd)
-amp,7337611000001102,0503010L0BBABAB,Reyataz 200mg capsules (Bristol-Myers Squibb Pharmaceuticals Ltd)
-amp,8159311000001101,0503010L0BBACAC,Reyataz 100mg capsules (Bristol-Myers Squibb Pharmaceuticals Ltd)
-amp,13641611000001109,0503010L0BBADAD,Reyataz 300mg capsules (Bristol-Myers Squibb Pharmaceuticals Ltd)
 amp,7963511000001106,0503010M0BBAAAA,Telzir 700mg tablets (ViiV Healthcare UK Ltd)
-amp,8653511000001106,0503010M0BBABAB,Telzir 50mg/ml oral suspension (ViiV Healthcare UK Ltd)
-amp,4456511000001100,0503010N0BBACAC,Videx 25mg chewable dispersible tablets (Bristol-Myers Squibb Pharmaceuticals Ltd)
-amp,5002611000001109,0503010N0BBADAD,Videx 150mg chewable dispersible tablets (Bristol-Myers Squibb Pharmaceuticals Ltd)
-amp,4456811000001102,0503010N0BBAEAE,Videx 200mg chewable dispersible tablets (Bristol-Myers Squibb Pharmaceuticals Ltd)
-amp,4433711000001102,0503010N0BBAFAF,Videx EC 125mg capsules (Bristol-Myers Squibb Pharmaceuticals Ltd)
-amp,4434011000001102,0503010N0BBAGAG,Videx EC 200mg capsules (Bristol-Myers Squibb Pharmaceuticals Ltd)
-amp,4434311000001104,0503010N0BBAHAH,Videx EC 250mg capsules (Bristol-Myers Squibb Pharmaceuticals Ltd)
-amp,4434611000001109,0503010N0BBAIAI,Videx EC 400mg capsules (Bristol-Myers Squibb Pharmaceuticals Ltd)
 amp,21198811000001104,0503010Q0AAAAAA,Lamivudine 150mg tablets (Teva UK Ltd)
 amp,21231911000001107,0503010Q0AAAAAA,Lamivudine 150mg tablets (A A H Pharmaceuticals Ltd)
 amp,33601311000001108,0503010Q0AAAAAA,Lamivudine 150mg tablets (Mylan)
@@ -2578,31 +2198,12 @@ amp,35245911000001108,0503010Q0AAAEAE,Lamivudine 300mg tablets (Milpharm Ltd)
 amp,376611000001104,0503010Q0BBAAAA,Epivir 150mg tablets (ViiV Healthcare UK Ltd)
 amp,651611000001104,0503010Q0BBABAB,Epivir 50mg/5ml oral solution (ViiV Healthcare UK Ltd)
 amp,153911000001107,0503010Q0BBACAE,Epivir 300mg tablets (ViiV Healthcare UK Ltd)
-amp,4450211000001100,0503010Q0BCAAAC,Zeffix 5mg/ml oral solution (GlaxoSmithKline UK Ltd)
 amp,3871011000001105,0503010Q0BCABAD,Zeffix 100mg tablets (GlaxoSmithKline UK Ltd)
-amp,4356611000001107,0503010R0BBAAAA,Invirase 200mg capsules (Roche Products Ltd)
 amp,9326211000001108,0503010R0BBABAB,Invirase 500mg tablets (Roche Products Ltd)
-amp,4355911000001108,0503010R0BCAAAA,Fortovase 200mg capsules (Roche Products Ltd)
-amp,4447011000001109,0503010S0BBAAAA,Zerit 15mg capsules (Bristol-Myers Squibb Pharmaceuticals Ltd)
-amp,4446111000001107,0503010S0BBABAB,Zerit 20mg capsules (Bristol-Myers Squibb Pharmaceuticals Ltd)
-amp,4446411000001102,0503010S0BBACAC,Zerit 30mg capsules (Bristol-Myers Squibb Pharmaceuticals Ltd)
-amp,4446711000001108,0503010S0BBADAD,Zerit 40mg capsules (Bristol-Myers Squibb Pharmaceuticals Ltd)
-amp,4447311000001107,0503010S0BBAEAE,Zerit 1mg/ml oral solution (Bristol-Myers Squibb Pharmaceuticals Ltd)
-amp,4346711000001100,0503010T0BBAAAA,Crixivan 400mg capsules (Merck Sharp & Dohme Ltd)
-amp,4347211000001109,0503010T0BBABAB,Crixivan 200mg capsules (Merck Sharp & Dohme Ltd)
-amp,4347511000001107,0503010T0BBACAC,Crixivan 333mg capsules (Merck Sharp & Dohme Ltd)
-amp,5378111000001105,0503010T0BBADAD,Crixivan 100mg capsules (Merck Sharp & Dohme Ltd)
 amp,35613711000001104,0503010U0AAACAC,Ritonavir 100mg tablets (Mylan)
 amp,35632411000001109,0503010U0AAACAC,Ritonavir 100mg tablets (A A H Pharmaceuticals Ltd)
 amp,35634411000001102,0503010U0AAACAC,Ritonavir 100mg tablets (Accord Healthcare Ltd)
-amp,4384711000001100,0503010U0BBABAB,Norvir 80mg/ml oral solution (AbbVie Ltd)
-amp,4386011000001107,0503010U0BBACAA,Norvir 100mg capsules (Abbott Laboratories Ltd)
 amp,17173311000001106,0503010U0BBADAC,Norvir 100mg tablets (AbbVie Ltd)
-amp,32905811000001109,0503010U0BBAEAD,Norvir 100mg oral powder sachets (AbbVie Ltd)
-amp,4373111000001107,0503010X0BBAAAA,Hivid 750microgram tablets (Roche Products Ltd)
-amp,4373611000001104,0503010X0BBABAB,Hivid 375microgram tablets (Roche Products Ltd)
-amp,19198611000001107,0503010Y0AAAAAA,Zidovudine 100mg capsules (Aurobindo Pharma Ltd)
-amp,28042311000001101,0503010Y0AAAAAA,Zidovudine 100mg capsules (A A H Pharmaceuticals Ltd)
 amp,19199011000001105,0503010Y0AAABAB,Zidovudine 250mg capsules (Aurobindo Pharma Ltd)
 amp,23681411000001101,0503010Y0AAABAB,Zidovudine 250mg capsules (A A H Pharmaceuticals Ltd)
 amp,4393711000001103,0503010Y0BBAAAA,Retrovir 100mg capsules (ViiV Healthcare UK Ltd)
@@ -2631,10 +2232,8 @@ amp,22338611000001104,0503021A0AAAAAA,Valaciclovir 500mg tablets (Aptil Pharma L
 amp,30107111000001104,0503021A0AAAAAA,Valaciclovir 500mg tablets (DE Pharmaceuticals)
 amp,30942711000001107,0503021A0AAAAAA,Valaciclovir 500mg tablets (Mawdsley-Brooks & Company Ltd)
 amp,35187711000001108,0503021A0AAAAAA,Valaciclovir 500mg tablets (Aurobindo Pharma Ltd)
-amp,20349011000001109,0503021A0AAADAD,Valaciclovir 25mg/1ml oral suspension (Special Order)
 amp,20436211000001103,0503021A0AAAEAE,Valaciclovir 100mg/5ml oral suspension (Special Order)
 amp,22042511000001100,0503021A0AAAFAF,Valaciclovir 250mg/5ml oral suspension (Special Order)
-amp,27780811000001106,0503021A0AAAGAG,Valaciclovir 200mg/5ml oral suspension (Special Order)
 amp,892111000001101,0503021A0BBAAAA,Valtrex 500mg tablets (GlaxoSmithKline UK Ltd)
 amp,10685811000001103,0503021A0BBABAC,Valtrex 250mg tablets (GlaxoSmithKline UK Ltd)
 amp,8916611000001105,0503021C0AAAAAA,Aciclovir 200mg/5ml oral suspension sugar free (Rosemont Pharmaceuticals Ltd)
@@ -2735,11 +2334,7 @@ amp,551911000001101,0503021C0BBAEAE,Zovirax 800mg dispersible tablets (GlaxoSmit
 amp,3605811000001104,0503021C0BBAFAF,Zovirax Double Strength 400mg/5ml oral suspension (GlaxoSmithKline UK Ltd)
 amp,865211000001100,0503021C0BBAGAG,Zovirax 200mg dispersible tablets (GlaxoSmithKline UK Ltd)
 amp,3071611000001104,0503021C0BBAHAH,Zovirax 400mg dispersible tablets (GlaxoSmithKline UK Ltd)
-amp,94611000001102,0503021C0BCAAAB,Virovir 200mg tablets (Opus Pharmaceuticals Ltd)
-amp,264211000001107,0503021C0BCABAC,Virovir 400mg tablets (Opus Pharmaceuticals Ltd)
-amp,132111000001104,0503021C0BCACAD,Virovir 800mg tablets (Opus Pharmaceuticals Ltd)
 amp,846911000001108,0503021C0BDAAAE,Duvimex 800mg dispersible tablets (Actavis UK Ltd)
-amp,586211000001105,0503021C0BEAAAB,Ranovir 200mg tablets (Ranbaxy (UK) Ltd)
 amp,420111000001102,0503021C0BEABAC,Ranovir 400mg tablets (Ranbaxy (UK) Ltd)
 amp,130311000001101,0503021C0BEACAD,Ranovir 800mg tablets (Ranbaxy (UK) Ltd)
 amp,4001711000001101,0503021D0BBAAAA,Imunovir 500mg tablets (KoRa Healthcare)
@@ -2803,12 +2398,8 @@ amp,34942411000001103,0503022B0AAAAAA,Valganciclovir 450mg tablets (Accord Healt
 amp,35249011000001106,0503022B0AAAAAA,Valganciclovir 450mg tablets (Milpharm Ltd)
 amp,37270711000001101,0503022B0AAAAAA,Valganciclovir 450mg tablets (Mawdsley-Brooks & Company Ltd)
 amp,37988811000001103,0503022B0AAAAAA,Valganciclovir 450mg tablets (Torrent Pharma (UK) Ltd)
-amp,15443711000001106,0503022B0AAAEAE,Valganciclovir 570mg/5ml oral solution (Special Order)
-amp,15444011000001106,0503022B0AAAEAE,Valganciclovir 570mg/5ml oral suspension (Special Order)
 amp,4339111000001108,0503022B0BBAAAA,Valcyte 450mg tablets (Roche Products Ltd)
 amp,15354911000001103,0503022B0BBABAD,Valcyte 50mg/ml oral solution (Roche Products Ltd)
-amp,3977011000001108,0503022D0BBABAC,Cymevene 250mg capsules (Roche Products Ltd)
-amp,3977311000001106,0503022D0BBACAD,Cymevene 500mg capsules (Roche Products Ltd)
 amp,7842411000001104,0503031A0BBAAAA,Hepsera 10mg tablets (Gilead Sciences International Ltd)
 amp,34350111000001104,0503031B0AAAAAA,Entecavir 500microgram tablets (Teva UK Ltd)
 amp,34467611000001109,0503031B0AAAAAA,Entecavir 500microgram tablets (A A H Pharmaceuticals Ltd)
@@ -2828,29 +2419,20 @@ amp,37235811000001101,0503031B0AAABAB,Entecavir 1mg tablets (Zentiva)
 amp,10740111000001102,0503031B0BBAAAA,Baraclude 0.5mg tablets (Bristol-Myers Squibb Pharmaceuticals Ltd)
 amp,10740411000001107,0503031B0BBABAB,Baraclude 1mg tablets (Bristol-Myers Squibb Pharmaceuticals Ltd)
 amp,14605511000001104,0503031B0BBACAC,Baraclude 0.05mg/ml oral solution (Bristol-Myers Squibb Pharmaceuticals Ltd)
-amp,11648111000001100,0503031C0BBAAAA,Sebivo 600mg tablets (Novartis Pharmaceuticals UK Ltd)
-amp,34967111000001104,0503031D0BBAAAA,Vemlidy 25mg tablets (Gilead Sciences International Ltd)
-amp,19436711000001107,0503032A0BBAAAA,Victrelis 200mg capsules (Merck Sharp & Dohme Ltd)
-amp,19528611000001107,0503032B0BBAAAA,Incivo 375mg tablets (Janssen-Cilag Ltd)
 amp,24569411000001108,0503032C0BBAAAA,Sovaldi 400mg tablets (Gilead Sciences International Ltd)
-amp,24575811000001101,0503032D0BBAAAA,Olysio 150mg capsules (Janssen-Cilag Ltd)
-amp,26867111000001102,0503032E0BBAAAA,Daklinza 60mg tablets (Bristol-Myers Squibb Pharmaceuticals Ltd)
 amp,26865411000001101,0503032E0BBABAB,Daklinza 30mg tablets (Bristol-Myers Squibb Pharmaceuticals Ltd)
-amp,32897911000001104,0503032E0BBACAC,Daklinza 90mg tablets (Bristol-Myers Squibb Pharmaceuticals Ltd)
 amp,28320411000001105,0503032F0BBAAAA,Harvoni 90mg/400mg tablets (Gilead Sciences International Ltd)
 amp,28688011000001103,0503032G0BBAAAA,Viekirax 12.5mg/75mg/50mg tablets (AbbVie Ltd)
 amp,28783811000001105,0503032H0BBAAAA,Exviera 250mg tablets (AbbVie Ltd)
 amp,33408311000001104,0503032I0BBAAAA,Zepatier 50mg/100mg tablets (Merck Sharp & Dohme Ltd)
 amp,33616311000001102,0503032J0BBAAAA,Epclusa 400mg/100mg tablets (Gilead Sciences International Ltd)
 amp,34692311000001100,0503032K0BBAAAA,Maviret 100mg/40mg tablets (AbbVie Ltd)
-amp,34821411000001102,0503032L0BBAAA0,Vosevi 400mg/100mg/100mg tablets (Gilead Sciences International Ltd)
 amp,15647111000001100,0503040B0AAAEAE,Oseltamivir 15mg/ml oral solution (Special Order)
 amp,15647411000001105,0503040B0AAAEAE,Oseltamivir 15mg/ml oral suspension (Special Order)
 amp,18373811000001100,0503040B0AAAFAF,Oseltamivir 15mg/ml oral solution sugar free (A A H Pharmaceuticals Ltd)
 amp,18374011000001108,0503040B0AAAFAF,Oseltamivir 15mg/ml oral solution sugar free (Alliance Healthcare (Distribution) Ltd)
 amp,18374211000001103,0503040B0AAAFAF,Oseltamivir 15mg/ml oral solution sugar free (Phoenix Healthcare Distribution Ltd)
 amp,4249411000001108,0503040B0BBAAAA,Tamiflu 75mg capsules (Roche Products Ltd)
-amp,4252711000001105,0503040B0BBABAB,Tamiflu 12mg/ml oral suspension (Roche Products Ltd)
 amp,13095411000001108,0503040B0BBACAC,Tamiflu 30mg capsules (Roche Products Ltd)
 amp,13095911000001100,0503040B0BBADAD,Tamiflu 45mg capsules (Roche Products Ltd)
 amp,21525111000001101,0503040B0BBAEAG,Tamiflu 6mg/ml oral suspension (Roche Products Ltd)
@@ -2867,28 +2449,16 @@ amp,14753311000001106,0503050B0BEABAH,Rebetol 40mg/ml oral solution (Merck Sharp
 amp,5435611000001103,0503050B0BFAAAE,Copegus 200mg tablets (Roche Products Ltd)
 amp,11157111000001100,0503050B0BFABAG,Copegus 400mg tablets (Roche Products Ltd)
 amp,821611000001107,0504010AABBAAAA,Riamet tablets (Novartis Pharmaceuticals UK Ltd)
-amp,20932411000001103,0504010ABBBAAAA,Eurartesim 320mg/40mg tablets (Logixx Pharma Solutions Ltd)
 amp,3728211000001108,0504010F0AAABAB,Chloroquine phosphate 250mg tablets (Alliance Healthcare (Distribution) Ltd)
 amp,3727711000001102,0504010F0BBABAB,Avloclor 250mg tablets (Alliance Pharmaceuticals Ltd)
 amp,4555611000001104,0504010F0BCAAAA,Malarivon 80mg/5ml syrup (Wallace Manufacturing Chemists Ltd)
 amp,32708211000001106,0504010G0AAAFAF,Chloroquine sulfate 68mg/5ml oral solution (Special Order)
 amp,3736311000001101,0504010G0BBAAAC,Nivaquine 200mg tablets (Sanofi)
-amp,3827511000001109,0504010G0BBABAB,Nivaquine 68mg/5ml syrup (Sanofi)
 amp,10145911000001101,0504010K0AAAAAA,Primaquine 7.5mg tablets (Durbin Plc)
 amp,715911000001107,0504010L0BBAAAA,Lariam 250mg tablets (Cheplapharm Arzneimittel GmbH)
-amp,13136411000001100,0504010M0AAACAC,Proguanil 100mg/5ml oral suspension (Special Order)
-amp,13136711000001106,0504010M0AAACAC,Proguanil 100mg/5ml oral solution (Special Order)
-amp,13138211000001103,0504010M0AAADAD,Proguanil 50mg/5ml oral suspension (Special Order)
-amp,13138511000001100,0504010M0AAADAD,Proguanil 50mg/5ml oral solution (Special Order)
 amp,13137611000001100,0504010M0AAAEAE,Proguanil 150mg/5ml oral suspension (Special Order)
 amp,13137911000001106,0504010M0AAAEAE,Proguanil 150mg/5ml oral solution (Special Order)
-amp,13137011000001107,0504010M0AAAFAF,Proguanil 125mg/5ml oral suspension (Special Order)
-amp,13137311000001105,0504010M0AAAFAF,Proguanil 125mg/5ml oral solution (Special Order)
 amp,3639411000001109,0504010M0BBAAAA,Paludrine 100mg tablets (Alliance Pharmaceuticals Ltd)
-amp,13280811000001105,0504010N0AAAEAE,Pyrimethamine 5mg/5ml oral suspension (Special Order)
-amp,13280211000001109,0504010N0AAAFAF,Pyrimethamine 25mg/5ml oral suspension (Special Order)
-amp,13281411000001104,0504010N0AAAGAG,Pyrimethamine 7.5mg/5ml oral suspension (Special Order)
-amp,13281711000001105,0504010N0AAAHAH,Pyrimethamine 9mg/5ml oral suspension (Special Order)
 amp,13279611000001106,0504010N0AAAIAI,Pyrimethamine 10mg/5ml oral suspension (Special Order)
 amp,4098211000001101,0504010N0BBAAAA,Daraprim 25mg tablets (GlaxoSmithKline UK Ltd)
 amp,4098711000001108,0504010P0BBAAAA,Fansidar tablets (Roche Products Ltd)
@@ -2910,9 +2480,6 @@ amp,21876711000001108,0504010T0AAAEAE,Quinine bisulfate 300mg tablets (Waymade H
 amp,30085011000001102,0504010T0AAAEAE,Quinine bisulfate 300mg tablets (DE Pharmaceuticals)
 amp,37136811000001107,0504010T0AAAEAE,Quinine bisulfate 300mg tablets (Mawdsley-Brooks & Company Ltd)
 amp,8691811000001104,0504010T0AAAFAF,Quinine bisulfate 300mg/5ml oral suspension (Special Order)
-amp,12992611000001100,0504010T0AAAGAG,Quinine bisulfate 150mg/5ml oral solution (Special Order)
-amp,12992311000001105,0504010T0AAAHAH,Quinine bisulfate 100mg/5ml oral solution (Special Order)
-amp,12993211000001108,0504010T0AAAIAI,Quinine bisulfate 200mg/5ml oral solution (Special Order)
 amp,22129711000001106,0504010U0AAAAAA,Proguanil 100mg / Atovaquone 250mg tablets (A A H Pharmaceuticals Ltd)
 amp,22613711000001102,0504010U0AAAAAA,Proguanil 100mg / Atovaquone 250mg tablets (DE Pharmaceuticals)
 amp,23289711000001108,0504010U0AAAAAA,Proguanil 100mg / Atovaquone 250mg tablets (Glenmark Pharmaceuticals Europe Ltd)
@@ -2927,30 +2494,10 @@ amp,23444411000001105,0504010U0BCABAA,Reprapog 250mg/100mg tablets (Sandoz Ltd)
 amp,23612711000001103,0504010U0BDAAAB,Mafamoz 62.5mg/25mg tablets (Teva UK Ltd)
 amp,23612911000001101,0504010U0BDABAA,Mafamoz 250mg/100mg tablets (Teva UK Ltd)
 amp,34694811000001103,0504010U0BEAAAA,Maloff Protect 250mg/100mg tablets (Glenmark Pharmaceuticals Europe Ltd)
-amp,8692811000001108,0504010V0AAAHAH,Quinine dihydrochloride 300mg/5ml oral solution (Special Order)
-amp,12998011000001105,0504010V0AAAIAI,Quinine dihydrochloride 200mg/5ml oral solution (Special Order)
-amp,12995111000001101,0504010V0AAAJAJ,Quinine dihydrochloride 100mg/5ml oral solution (Special Order)
-amp,12997111000001105,0504010V0AAAKAK,Quinine dihydrochloride 150mg/5ml oral solution (Special Order)
-amp,12999511000001108,0504010V0AAAMAM,Quinine dihydrochloride 87.5mg/5ml oral solution (Special Order)
-amp,12995811000001108,0504010V0AAANAN,Quinine dihydrochloride 125mg/5ml oral solution (Special Order)
-amp,12998611000001103,0504010V0AAAQAQ,Quinine dihydrochloride 30mg/5ml oral solution (Special Order)
 amp,13019611000001105,0504010X0AAADAD,Quinine hydrochloride 200mg/5ml oral suspension (Special Order)
 amp,13019911000001104,0504010X0AAADAD,Quinine hydrochloride 200mg/5ml oral solution (Special Order)
 amp,13020211000001107,0504010X0AAAEAE,Quinine hydrochloride 300mg/5ml oral suspension (Special Order)
 amp,13020511000001105,0504010X0AAAEAE,Quinine hydrochloride 300mg/5ml oral solution (Special Order)
-amp,13019011000001103,0504010X0AAAFAF,Quinine hydrochloride 150mg/5ml oral suspension (Special Order)
-amp,13019311000001100,0504010X0AAAFAF,Quinine hydrochloride 150mg/5ml oral solution (Special Order)
-amp,13018411000001104,0504010X0AAAGAG,Quinine hydrochloride 125mg/5ml oral suspension (Special Order)
-amp,13018711000001105,0504010X0AAAGAG,Quinine hydrochloride 125mg/5ml oral solution (Special Order)
-amp,13022111000001102,0504010Y0AAA2A2,Quinine sulfate 100mg/5ml oral suspension (Special Order)
-amp,13022411000001107,0504010Y0AAA2A2,Quinine sulfate 100mg/5ml oral solution (Special Order)
-amp,13028311000001102,0504010Y0AAA3A3,Quinine sulfate 75mg/5ml oral suspension (Special Order)
-amp,13028611000001107,0504010Y0AAA3A3,Quinine sulfate 75mg/5ml oral solution (Special Order)
-amp,13026711000001102,0504010Y0AAA4A4,Quinine sulfate 50mg/5ml oral suspension (Special Order)
-amp,13027511000001109,0504010Y0AAA4A4,Quinine sulfate 50mg/5ml oral solution (Special Order)
-amp,8691711000001107,0504010Y0AAA5A5,Quinine sulfate 150mg/5ml oral suspension (Special Order)
-amp,13022711000001101,0504010Y0AAA6A6,Quinine sulfate 10mg/5ml oral suspension (Special Order)
-amp,13023011000001107,0504010Y0AAA6A6,Quinine sulfate 10mg/5ml oral solution (Special Order)
 amp,13023911000001106,0504010Y0AAA7A7,Quinine sulfate 250mg/5ml oral suspension (Special Order)
 amp,13024511000001101,0504010Y0AAA7A7,Quinine sulfate 250mg/5ml oral solution (Special Order)
 amp,76611000001102,0504010Y0AAAFAF,Quinine sulfate 200mg tablets (Kent Pharmaceuticals Ltd)
@@ -2979,31 +2526,14 @@ amp,18559311000001106,0504010Y0AAAHAH,Quinine sulfate 300mg tablets (Bristol Lab
 amp,21877111000001105,0504010Y0AAAHAH,Quinine sulfate 300mg tablets (Waymade Healthcare Plc)
 amp,30086111000001107,0504010Y0AAAHAH,Quinine sulfate 300mg tablets (DE Pharmaceuticals)
 amp,37137211000001108,0504010Y0AAAHAH,Quinine sulfate 300mg tablets (Mawdsley-Brooks & Company Ltd)
-amp,13023311000001105,0504010Y0AABABA,Quinine sulfate 125mg/5ml oral suspension (Special Order)
-amp,13023611000001100,0504010Y0AABABA,Quinine sulfate 125mg/5ml oral solution (Special Order)
-amp,13025111000001109,0504010Y0AABBBB,Quinine sulfate 25mg/5ml oral suspension (Special Order)
-amp,13026211000001109,0504010Y0AABBBB,Quinine sulfate 25mg/5ml oral solution (Special Order)
 amp,8692511000001105,0504010Y0AABCBC,Quinine sulfate 300mg/5ml oral suspension (Drug Tariff Special Order)
 amp,8692211000001107,0504010Y0AABDBD,Quinine sulfate 200mg/5ml oral suspension (Drug Tariff Special Order)
 amp,3984211000001101,0504020G0AAAAAA,Diloxanide 500mg tablets (A A H Pharmaceuticals Ltd)
 amp,3984711000001108,0504020G0AAAAAA,Diloxanide 500mg tablets (Advanz Pharma)
 amp,3985011000001105,0504020G0AAAAAA,Diloxanide 500mg tablets (Alliance Healthcare (Distribution) Ltd)
-amp,11997611000001101,0504020G0AAAFAF,Diloxanide 10mg/5ml oral suspension (Special Order)
-amp,11998311000001107,0504020G0AAAFAF,Diloxanide 10mg/5ml oral solution (Special Order)
-amp,11999411000001108,0504020G0AAAGAG,Diloxanide 50mg/5ml oral suspension (Special Order)
-amp,11999811000001105,0504020G0AAAGAG,Diloxanide 50mg/5ml oral solution (Special Order)
-amp,12000611000001109,0504020G0AAAHAH,Diloxanide 90mg/5ml oral suspension (Special Order)
-amp,12000911000001103,0504020G0AAAHAH,Diloxanide 90mg/5ml oral solution (Special Order)
-amp,11998811000001103,0504020G0AAAIAI,Diloxanide 40mg/5ml oral suspension (Special Order)
-amp,11999111000001103,0504020G0AAAIAI,Diloxanide 40mg/5ml oral solution (Special Order)
 amp,9054511000001100,0504040M0AAAAAA,Mepacrine 100mg tablets (Special Order)
 amp,32864611000001102,0504040M0AAAGAG,Mepacrine 50mg capsules (Special Order)
-amp,18510511000001100,0504050T0AAACAC,Paromomycin 125mg/5ml oral solution (Special Order)
 amp,32729311000001103,0504050T0AAAEAE,Paromomycin 250mg tablets (Special Order)
-amp,20067811000001102,0504050T0BBACAC,Humatin 125mg/5ml oral solution (Imported (Spain))
-amp,17636811000001108,0504050T0BCAAAD,Gabbroral 250mg tablets (Imported (Italy))
-amp,29859611000001104,0504060A0AAAAAA,Nifurtimox 120mg tablets (Special Order)
-amp,29859911000001105,0504060B0AAAAAA,Benznidazole 50mg tablets (Special Order)
 amp,37877411000001102,0504080A0AAABAB,Atovaquone 750mg/5ml oral suspension sugar free (Glenmark Pharmaceuticals Europe Ltd)
 amp,4445811000001108,0504080A0BBABAB,Wellvone 750mg/5ml oral suspension (GlaxoSmithKline UK Ltd)
 amp,634811000001104,0505010D0BBAAAD,Vermox 100mg chewable tablets (Janssen-Cilag Ltd)
@@ -3011,28 +2541,22 @@ amp,241311000001109,0505010D0BBABAA,Vermox 100mg/5ml oral suspension (Janssen-Ci
 amp,727911000001106,0505010D0BCAAAD,Ovex 100mg chewable tablets (Johnson & Johnson Ltd)
 amp,9099711000001103,0505010D0BCABAA,Ovex 100mg/5ml oral suspension (Johnson & Johnson Ltd)
 amp,326611000001103,0505010D0BDAAAD,Pripsen Mebendazole 100mg chewable tablets (Thornton & Ross Ltd)
-amp,8507211000001102,0505010D0BEAAAD,Boots Threadworm Treatment 100mg chewable tablets (The Boots Company Plc)
 amp,3487811000001106,0505010H0BHAAAE,Pripsen powder (Thornton & Ross Ltd)
 amp,15873511000001106,0505020L0AAABAB,Levamisole 50mg tablets (Special Order)
-amp,28278811000001101,0505020L0AAAFAF,Levamisole 25mg tablets (Special Order)
 amp,36770411000001102,0505020L0AAAGAG,Levamisole 50mg/5ml oral suspension (Special Order)
 amp,7395811000001102,0505020L0BCAAAB,Ergamisol 50mg tablets (Imported (Belgium))
 amp,15863411000001103,0505030A0AAABAB,Albendazole 400mg chewable tablets (Special Order)
 amp,30998711000001102,0505030A0AAACAC,Albendazole 200mg/5ml oral suspension (Special Order)
 amp,20513911000001100,0505030A0AAADAD,Albendazole 400mg tablets (Special Order)
-amp,20513711000001102,0505030A0BBABAB,Eskazole 400mg tablets (Imported (France))
 amp,7712811000001107,0505030A0BCAAAB,Zentel 400mg chewable tablets (Imported (United States))
 amp,23609111000001106,0505050P0AAAAAA,Praziquantel 600mg tablets (Special Order)
 amp,22218011000001109,0505050P0AAABAB,Praziquantel 500mg tablets (Special Order)
 amp,24508411000001101,0505050P0AAADAD,Praziquantel 150mg tablets (Special Order)
 amp,11499611000001109,0505050P0BBAAAA,Biltricide 600mg tablets (Imported (Germany))
-amp,11499311000001104,0505050P0BCAAAD,Cesol 150mg tablets (Imported (Germany))
 amp,11498911000001106,0505050P0BEAAAB,Cysticide 500mg tablets (Imported (Germany))
 amp,24582911000001107,0505060I0AAACAC,Ivermectin 3mg tablets (Special Order)
-amp,36770711000001108,0505060I0AAADAD,Ivermectin 15mg tablets (Special Order)
 amp,36771011000001102,0505060I0AAAEAE,Ivermectin 6mg tablets (Special Order)
 amp,10163611000001102,0505060I0BBAAAC,Stromectol 3mg tablets (Imported (France))
-amp,13296211000001105,0505080F0AAAGAG,Tiabendazole 500mg/5ml oral suspension (Special Order)
 vmp,323418000,0501011P0AAADAD,Phenoxymethylpenicillin 125mg/5ml oral solution
 vmp,323420002,0501011P0AAAFAF,Phenoxymethylpenicillin 250mg/5ml oral solution
 vmp,323416001,0501011P0AAAJAJ,Phenoxymethylpenicillin 250mg tablets
@@ -3071,9 +2595,6 @@ vmp,323624001,0501013L0AAAAAA,Co-fluampicil 250mg/250mg capsules
 vmp,36090611000001106,0501013L0AAADAD,Co-fluampicil 125mg/125mg/5ml oral suspension
 vmp,323786005,0501015P0AAABAB,Pivmecillinam 200mg tablets
 vmp,32750311000001106,0501015P0AAACAC,Pivmecillinam 200mg/5ml oral suspension
-vmp,324003001,0501020AAAAAAAA,Cefprozil 250mg tablets
-vmp,324004007,0501020AAAAABAB,Cefprozil 500mg tablets
-vmp,324005008,0501020AAAAACAC,Cefprozil 250mg/5ml oral suspension
 vmp,323791006,0501021A0AAAAAA,Cefaclor 250mg capsules
 vmp,323792004,0501021A0AAABAB,Cefaclor 125mg/5ml oral suspension
 vmp,323793009,0501021A0AAACAC,Cefaclor 250mg/5ml oral suspension
@@ -3082,14 +2603,11 @@ vmp,36134211000001100,0501021A0AAAGAG,Cefaclor 375mg modified-release tablets
 vmp,36134011000001105,0501021A0AAAJAJ,Cefaclor 125mg/5ml oral suspension sugar free
 vmp,36134111000001106,0501021A0AAAKAK,Cefaclor 250mg/5ml oral suspension sugar free
 vmp,323813001,0501021B0AAAAAA,Cefadroxil 500mg capsules
-vmp,323811004,0501021B0AAABAB,Cefadroxil 125mg/5ml oral suspension
-vmp,323812006,0501021B0AAACAC,Cefadroxil 250mg/5ml oral suspension
 vmp,323816009,0501021B0AAADAD,Cefadroxil 500mg/5ml oral suspension
 vmp,323973007,0501021C0AAAAAA,Cefixime 200mg tablets
 vmp,36134411000001101,0501021C0AAABAB,Cefixime 100mg/5ml oral suspension
 vmp,370375008,0501021C0AAACAC,Cefixime 400mg tablets
 vmp,323982001,0501021F0AAAAAA,Cefpodoxime 100mg tablets
-vmp,35369711000001108,0501021F0AAABAB,Cefpodoxime 40mg/5ml oral suspension
 vmp,323868002,0501021K0AAAAAA,Cefuroxime 125mg tablets
 vmp,323869005,0501021K0AAABAB,Cefuroxime 250mg tablets
 vmp,323872003,0501021K0AAACAC,Cefuroxime 125mg/5ml oral suspension
@@ -3107,12 +2625,8 @@ vmp,323944009,0501021M0AAAAAA,Cefradine 250mg capsules
 vmp,323945005,0501021M0AAABAB,Cefradine 500mg capsules
 vmp,36134511000001102,0501021M0AAAFAF,Cefradine 250mg/5ml oral solution
 vmp,324049005,0501030F0AAAAAA,Demeclocycline 150mg capsules
-vmp,11713511000001103,0501030F0AAAFAF,Demeclocycline 300mg/5ml oral solution
-vmp,11713611000001104,0501030F0AAAFAF,Demeclocycline 300mg/5ml oral suspension
 vmp,11713311000001109,0501030F0AAAGAG,Demeclocycline 150mg/5ml oral solution
 vmp,11713411000001102,0501030F0AAAGAG,Demeclocycline 150mg/5ml oral suspension
-vmp,11713711000001108,0501030F0AAAHAH,Demeclocycline 75mg/5ml oral solution
-vmp,11713811000001100,0501030F0AAAHAH,Demeclocycline 75mg/5ml oral suspension
 vmp,371595007,0501030F0AAAIAI,Demeclocycline 150mg tablets
 vmp,324070004,0501030I0AAAAAA,Doxycycline 50mg capsules
 vmp,324059006,0501030I0AAABAB,Doxycycline 100mg capsules
@@ -3126,26 +2640,18 @@ vmp,324093005,0501030P0AAABAB,Minocycline 100mg tablets
 vmp,36565111000001106,0501030P0AAACAC,Minocycline 100mg modified-release capsules
 vmp,324090008,0501030P0AAADAD,Minocycline 50mg capsules
 vmp,324091007,0501030P0AAAEAE,Minocycline 100mg capsules
-vmp,13010711000001108,0501030P0AAAFAF,Minocycline 50mg/5ml oral solution
-vmp,13010811000001100,0501030P0AAAFAF,Minocycline 50mg/5ml oral suspension
 vmp,324095003,0501030T0AAAJAJ,Oxytetracycline 250mg tablets
 vmp,13003811000001109,0501030T0AAAPAP,Oxytetracycline 125mg/5ml oral suspension
 vmp,13003911000001104,0501030T0AAAQAQ,Oxytetracycline 250mg/5ml oral suspension
 vmp,13004011000001101,0501030T0AAARAR,Oxytetracycline 500mg/5ml oral suspension
-vmp,13003711000001101,0501030T0AAATAT,Oxytetracycline 100mg/5ml oral suspension
 vmp,324011006,0501030V0AAAAAA,Tetracycline 250mg capsules
 vmp,324012004,0501030V0AAAFAF,Tetracycline 250mg tablets
 vmp,21407411000001104,0501030V0AAARAR,Tetracycline 125mg/5ml oral solution
-vmp,34819711000001101,0501030X0AAAAAA,Generic Deteclo 300mg tablets
 vmp,36564611000001104,0501030Z0AAAAAA,Doxycycline 40mg modified-release capsules
 vmp,8523611000001103,0501040H0AAAWAW,Gentamicin 50mg/5ml oral solution
-vmp,12089911000001108,0501040H0AAAXAX,Gentamicin 62.5mg/5ml oral solution
 vmp,12090011000001100,0501040H0AAAYAY,Gentamicin 75mg/5ml oral solution
-vmp,27800411000001108,0501040H0AAAZAZ,Gentamicin 30mg/5ml oral suspension
-vmp,29827911000001102,0501040H0AABABA,Gentamicin 35mg/5ml oral suspension
 vmp,32749211000001108,0501040H0AABFBF,Gentamicin 45mg/5ml oral solution
 vmp,324158001,0501040N0AAADAD,Neomycin 500mg tablets
-vmp,12302011000001102,0501040N0AAAIAI,Neomycin 500mg/5ml oral solution
 vmp,12301911000001109,0501040N0AAAJAJ,Neomycin 100mg/5ml oral solution
 vmp,32656811000001108,0501040U0AAAHAH,Tobramycin 40mg/5ml oral solution
 vmp,23676411000001103,0501040U0AAAMAM,Tobramycin 20mg/5ml oral solution
@@ -3159,11 +2665,8 @@ vmp,35368711000001104,0501050B0AAABAB,Clarithromycin 125mg/5ml oral suspension
 vmp,324244008,0501050B0AAADAD,Clarithromycin 500mg tablets
 vmp,36142611000001107,0501050B0AAAEAE,Clarithromycin 500mg modified-release tablets
 vmp,324248006,0501050B0AAAFAF,Clarithromycin 250mg granules sachets
-vmp,4977911000001105,0501050B0AAAGAG,Clarithromycin 125mg granules sachets
 vmp,37083211000001101,0501050B0AAAHAH,Clarithromycin 250mg/5ml oral suspension
 vmp,9742311000001103,0501050B0AAAKAK,Clarithromycin 125mg granules straws
-vmp,9742411000001105,0501050B0AAALAL,Clarithromycin 187.5mg granules straws
-vmp,9742511000001109,0501050B0AAAMAM,Clarithromycin 250mg granules straws
 vmp,324178009,0501050C0AAABAB,Erythromycin 250mg gastro-resistant tablets
 vmp,36064711000001106,0501050C0AAAKAK,Erythromycin 250mg gastro-resistant capsules
 vmp,324232005,0501050H0AAAAAA,Erythromycin ethyl succinate 125mg/5ml oral suspension
@@ -3179,12 +2682,9 @@ vmp,407790000,0501050T0AAAAAA,Telithromycin 400mg tablets
 vmp,324276003,0501060D0AAAAAA,Clindamycin 75mg capsules
 vmp,324277007,0501060D0AAABAB,Clindamycin 150mg capsules
 vmp,27864611000001100,0501060D0AAAEAE,Clindamycin 75mg/5ml oral solution
-vmp,12021611000001106,0501060D0AAAFAF,Clindamycin 20mg/5ml oral solution
 vmp,12021711000001102,0501060D0AAAGAG,Clindamycin 300mg/5ml oral solution
 vmp,12021411000001108,0501060D0AAAHAH,Clindamycin 150mg/5ml oral solution
-vmp,12021811000001105,0501060D0AAAIAI,Clindamycin 400mg/5ml oral solution
 vmp,12021311000001101,0501060D0AAAJAJ,Clindamycin 120mg/5ml oral solution
-vmp,18519211000001105,0501060D0AAALAL,Clindamycin 60mg/5ml oral solution
 vmp,21711211000001104,0501060D0AAAMAM,Clindamycin 300mg capsules
 vmp,8360611000001101,0501060D0AAANAN,Clindamycin 75mg/5ml oral suspension
 vmp,32748011000001108,0501060D0AAAPAP,Clindamycin 450mg/5ml oral solution
@@ -3198,7 +2698,6 @@ vmp,703666002,0501070ACAAAAAA,Fidaxomicin 200mg tablets
 vmp,703915009,0501070ADAAABAB,Tedizolid 200mg tablets
 vmp,18162111000001102,0501070AEAAADAD,Fosfomycin 3g granules sachets
 vmp,324298007,0501070F0AAAAAA,Chloramphenicol 250mg capsules
-vmp,36091411000001104,0501070H0AAADAD,"Colistin 250,000units/5ml oral solution"
 vmp,324308000,0501070H0AAAEAE,Colistin 1.5million unit tablets
 vmp,324317000,0501070M0AAAAAA,Fusidic acid 250mg/5ml oral suspension
 vmp,324316009,0501070N0AAADAD,Sodium fusidate 250mg tablets
@@ -3225,8 +2724,6 @@ vmp,324362001,0501080D0AAAEAE,Co-trimoxazole 80mg/400mg/5ml oral suspension
 vmp,324357002,0501080D0AAAHAH,Co-trimoxazole 80mg/400mg tablets
 vmp,324359004,0501080D0AAAJAJ,Co-trimoxazole 160mg/800mg tablets
 vmp,324411000,0501080J0AAABAB,Sulfadiazine 500mg tablets
-vmp,13454711000001102,0501080J0AAAFAF,Sulfadiazine 150mg/5ml oral suspension
-vmp,13454911000001100,0501080J0AAAGAG,Sulfadiazine 500mg/5ml oral suspension
 vmp,13454811000001105,0501080J0AAAHAH,Sulfadiazine 250mg/5ml oral suspension
 vmp,5241611000001103,0501080T0AAAAAA,Sulfamethoxypyridazine 500mg tablets
 vmp,15474111000001108,0501080V0AAADAD,Sulfapyridine 250mg capsules
@@ -3237,10 +2734,6 @@ vmp,13374511000001101,0501080W0AAAMAM,Trimethoprim 200mg/5ml oral solution
 vmp,13374611000001102,0501080W0AAAMAM,Trimethoprim 200mg/5ml oral suspension
 vmp,13374711000001106,0501080W0AAANAN,Trimethoprim 20mg/5ml oral solution
 vmp,13374811000001103,0501080W0AAANAN,Trimethoprim 20mg/5ml oral suspension
-vmp,13374911000001108,0501080W0AAAPAP,Trimethoprim 240mg/5ml oral solution
-vmp,13375011000001108,0501080W0AAAPAP,Trimethoprim 240mg/5ml oral suspension
-vmp,13375111000001109,0501080W0AAAQAQ,Trimethoprim 7mg/5ml oral solution
-vmp,13375211000001103,0501080W0AAAQAQ,Trimethoprim 7mg/5ml oral suspension
 vmp,16603411000001107,0501090A0AAAAAA,Aminosalicylic acid gastro-resistant granules 4g sachets sugar free
 vmp,324457003,0501090E0AAABAB,Cycloserine 250mg capsules
 vmp,324466004,0501090H0AAABAB,Ethambutol 100mg tablets
@@ -3249,144 +2742,37 @@ vmp,8509511000001106,0501090H0AAARAR,Ethambutol 500mg/5ml oral solution
 vmp,8509611000001105,0501090H0AAARAR,Ethambutol 500mg/5ml oral suspension
 vmp,8509211000001108,0501090H0AAASAS,Ethambutol 400mg/5ml oral solution
 vmp,8509411000001107,0501090H0AAASAS,Ethambutol 400mg/5ml oral suspension
-vmp,12298011000001109,0501090H0AAATAT,Ethambutol 375mg/5ml oral solution
-vmp,8508611000001101,0501090H0AAAVAV,Ethambutol 200mg/5ml oral solution
-vmp,8508711000001105,0501090H0AAAVAV,Ethambutol 200mg/5ml oral suspension
-vmp,12297811000001102,0501090H0AAAWAW,Ethambutol 25mg/5ml oral solution
-vmp,8509711000001101,0501090H0AAAXAX,Ethambutol 600mg/5ml oral solution
-vmp,8509911000001104,0501090H0AAAXAX,Ethambutol 600mg/5ml oral suspension
-vmp,12297911000001107,0501090H0AAAYAY,Ethambutol 350mg/5ml oral solution
 vmp,8509011000001103,0501090H0AAAZAZ,Ethambutol 300mg/5ml oral solution
 vmp,8509111000001102,0501090H0AAAZAZ,Ethambutol 300mg/5ml oral suspension
-vmp,8508811000001102,0501090H0AABABA,Ethambutol 250mg/5ml oral solution
-vmp,8508911000001107,0501090H0AABABA,Ethambutol 250mg/5ml oral suspension
-vmp,12298111000001105,0501090H0AABBBB,Ethambutol 450mg/5ml oral solution
 vmp,12297711000001105,0501090H0AABCBC,Ethambutol 150mg/5ml oral solution
 vmp,12297511000001100,0501090H0AABDBD,Ethambutol 100mg/5ml oral solution
-vmp,12298311000001107,0501090H0AABEBE,Ethambutol 700mg/5ml oral solution
-vmp,12297611000001101,0501090H0AABFBF,Ethambutol 125mg/5ml oral solution
-vmp,12298211000001104,0501090H0AABGBG,Ethambutol 50mg/5ml oral solution
 vmp,22456811000001106,0501090H0AABHBH,Ethambutol 150mg/5ml oral suspension
-vmp,35574511000001108,0501090H0AABIBI,Ethambutol 700mg/5ml oral suspension
-vmp,373967008,0501090I0AAAAAA,Ethionamide 250mg tablets
 vmp,324471006,0501090K0AAAHAH,Isoniazid 50mg tablets
 vmp,324472004,0501090K0AAAIAI,Isoniazid 100mg tablets
 vmp,8562711000001106,0501090K0AABIBI,Isoniazid 50mg/5ml oral suspension
 vmp,8562211000001104,0501090K0AABJBJ,Isoniazid 100mg/5ml oral solution
 vmp,8562311000001107,0501090K0AABJBJ,Isoniazid 100mg/5ml oral suspension
-vmp,12640111000001103,0501090K0AABKBK,Isoniazid 130mg/5ml oral solution
 vmp,8562411000001100,0501090K0AABLBL,Isoniazid 150mg/5ml oral solution
 vmp,8562511000001101,0501090K0AABLBL,Isoniazid 150mg/5ml oral suspension
 vmp,8580311000001105,0501090K0AABMBM,Isoniazid 200mg/5ml oral solution
 vmp,8580411000001103,0501090K0AABMBM,Isoniazid 200mg/5ml oral suspension
-vmp,12640411000001108,0501090K0AABNBN,Isoniazid 17.5mg/5ml oral solution
-vmp,12640211000001109,0501090K0AABPBP,Isoniazid 135mg/5ml oral solution
-vmp,12639711000001108,0501090K0AABQBQ,Isoniazid 110mg/5ml oral solution
-vmp,12642411000001109,0501090K0AABRBR,Isoniazid 87.5mg/5ml oral solution
-vmp,12640811000001105,0501090K0AABSBS,Isoniazid 220mg/5ml oral solution
 vmp,12641511000001100,0501090K0AABTBT,Isoniazid 300mg/5ml oral solution
-vmp,12640711000001102,0501090K0AABUBU,Isoniazid 180mg/5ml oral solution
-vmp,8580511000001104,0501090K0AABVBV,Isoniazid 75mg/5ml oral solution
-vmp,8580611000001100,0501090K0AABVBV,Isoniazid 75mg/5ml oral suspension
-vmp,12640911000001100,0501090K0AABWBW,Isoniazid 250mg/5ml oral solution
-vmp,12642111000001104,0501090K0AABXBX,Isoniazid 60mg/5ml oral solution
-vmp,12642011000001100,0501090K0AABYBY,Isoniazid 500mg/5ml oral solution
-vmp,12639911000001105,0501090K0AABZBZ,Isoniazid 120mg/5ml oral solution
-vmp,12641211000001103,0501090K0AACACA,Isoniazid 270mg/5ml oral solution
-vmp,12640311000001101,0501090K0AACBCB,Isoniazid 140mg/5ml oral solution
-vmp,12642211000001105,0501090K0AACCCC,Isoniazid 80mg/5ml oral solution
-vmp,12641011000001108,0501090K0AACDCD,Isoniazid 25mg/5ml oral solution
-vmp,12640011000001104,0501090K0AACECE,Isoniazid 125mg/5ml oral solution
-vmp,12641111000001109,0501090K0AACFCF,Isoniazid 260mg/5ml oral solution
-vmp,12640611000001106,0501090K0AACGCG,Isoniazid 175mg/5ml oral solution
 vmp,12641811000001102,0501090K0AACJCJ,Isoniazid 400mg/5ml oral solution
-vmp,12640511000001107,0501090K0AACKCK,Isoniazid 170mg/5ml oral solution
-vmp,12641311000001106,0501090K0AACLCL,Isoniazid 27mg/5ml oral solution
-vmp,12641711000001105,0501090K0AACMCM,Isoniazid 375mg/5ml oral solution
-vmp,12641911000001107,0501090K0AACPCP,Isoniazid 40mg/5ml oral solution
-vmp,12641611000001101,0501090K0AACQCQ,Isoniazid 30mg/5ml oral solution
-vmp,12641411000001104,0501090K0AACRCR,Isoniazid 30.5mg/5ml oral solution
-vmp,12639811000001100,0501090K0AACSCS,Isoniazid 119mg/5ml oral solution
-vmp,12642311000001102,0501090K0AACTCT,Isoniazid 85mg/5ml oral solution
 vmp,8562611000001102,0501090K0AACUCU,Isoniazid 50mg/5ml oral solution
-vmp,13268611000001106,0501090N0AAA7A7,Pyrazinamide 175mg/5ml oral solution
-vmp,13268711000001102,0501090N0AAA7A7,Pyrazinamide 175mg/5ml oral suspension
-vmp,13272811000001100,0501090N0AAA8A8,Pyrazinamide 750mg/5ml oral solution
-vmp,13272911000001105,0501090N0AAA8A8,Pyrazinamide 750mg/5ml oral suspension
 vmp,13271611000001105,0501090N0AAA9A9,Pyrazinamide 50mg/5ml oral solution
 vmp,13271711000001101,0501090N0AAA9A9,Pyrazinamide 50mg/5ml oral suspension
-vmp,13268411000001108,0501090N0AABABA,Pyrazinamide 150mg/5ml oral solution
-vmp,13268511000001107,0501090N0AABABA,Pyrazinamide 150mg/5ml oral suspension
 vmp,8673211000001105,0501090N0AABBBB,Pyrazinamide 500mg/5ml oral solution
 vmp,8673311000001102,0501090N0AABBBB,Pyrazinamide 500mg/5ml oral suspension
-vmp,13268811000001105,0501090N0AABCBC,Pyrazinamide 1g/5ml oral solution
-vmp,13268911000001100,0501090N0AABCBC,Pyrazinamide 1g/5ml oral suspension
-vmp,13270211000001102,0501090N0AABDBD,Pyrazinamide 375mg/5ml oral solution
-vmp,13270311000001105,0501090N0AABDBD,Pyrazinamide 375mg/5ml oral suspension
-vmp,13270011000001107,0501090N0AABEBE,Pyrazinamide 350mg/5ml oral solution
-vmp,13270111000001108,0501090N0AABEBE,Pyrazinamide 350mg/5ml oral suspension
 vmp,13269011000001109,0501090N0AABFBF,Pyrazinamide 200mg/5ml oral solution
 vmp,13269111000001105,0501090N0AABFBF,Pyrazinamide 200mg/5ml oral suspension
-vmp,13271211000001108,0501090N0AABGBG,Pyrazinamide 450mg/5ml oral solution
-vmp,13271311000001100,0501090N0AABGBG,Pyrazinamide 450mg/5ml oral suspension
-vmp,13268211000001109,0501090N0AABHBH,Pyrazinamide 125mg/5ml oral solution
-vmp,13268311000001101,0501090N0AABHBH,Pyrazinamide 125mg/5ml oral suspension
 vmp,13201711000001106,0501090N0AABIBI,Pyrazinamide 100mg/5ml oral solution
 vmp,13201811000001103,0501090N0AABIBI,Pyrazinamide 100mg/5ml oral suspension
 vmp,13269611000001102,0501090N0AABJBJ,Pyrazinamide 300mg/5ml oral solution
 vmp,13269711000001106,0501090N0AABJBJ,Pyrazinamide 300mg/5ml oral suspension
 vmp,13269211000001104,0501090N0AABKBK,Pyrazinamide 250mg/5ml oral solution
 vmp,13269311000001107,0501090N0AABKBK,Pyrazinamide 250mg/5ml oral suspension
-vmp,13273011000001102,0501090N0AABLBL,Pyrazinamide 75mg/5ml oral solution
-vmp,13273111000001101,0501090N0AABLBL,Pyrazinamide 75mg/5ml oral suspension
-vmp,13201511000001101,0501090N0AABMBM,Pyrazinamide 1.5g/5ml oral solution
-vmp,13201611000001102,0501090N0AABMBM,Pyrazinamide 1.5g/5ml oral suspension
-vmp,13271811000001109,0501090N0AABPBP,Pyrazinamide 600mg/5ml oral solution
-vmp,13271911000001104,0501090N0AABPBP,Pyrazinamide 600mg/5ml oral suspension
-vmp,13272411000001102,0501090N0AABQBQ,Pyrazinamide 675mg/5ml oral solution
-vmp,13272511000001103,0501090N0AABQBQ,Pyrazinamide 675mg/5ml oral suspension
-vmp,13270811000001101,0501090N0AABRBR,Pyrazinamide 425mg/5ml oral solution
-vmp,13270911000001106,0501090N0AABRBR,Pyrazinamide 425mg/5ml oral suspension
-vmp,13272011000001106,0501090N0AABSBS,Pyrazinamide 625mg/5ml oral solution
-vmp,13272111000001107,0501090N0AABSBS,Pyrazinamide 625mg/5ml oral suspension
-vmp,13270411000001103,0501090N0AABTBT,Pyrazinamide 400mg/5ml oral solution
-vmp,13270511000001104,0501090N0AABTBT,Pyrazinamide 400mg/5ml oral suspension
-vmp,13269411000001100,0501090N0AABUBU,Pyrazinamide 275mg/5ml oral solution
-vmp,13269511000001101,0501090N0AABUBU,Pyrazinamide 275mg/5ml oral suspension
-vmp,13271411000001107,0501090N0AABVBV,Pyrazinamide 490mg/5ml oral solution
-vmp,13271511000001106,0501090N0AABVBV,Pyrazinamide 490mg/5ml oral suspension
-vmp,13273211000001107,0501090N0AABWBW,Pyrazinamide 850mg/5ml oral solution
-vmp,13273311000001104,0501090N0AABWBW,Pyrazinamide 850mg/5ml oral suspension
-vmp,13270611000001100,0501090N0AABZBZ,Pyrazinamide 420mg/5ml oral solution
-vmp,13270711000001109,0501090N0AABZBZ,Pyrazinamide 420mg/5ml oral suspension
-vmp,13272211000001101,0501090N0AACACA,Pyrazinamide 650mg/5ml oral solution
-vmp,13272311000001109,0501090N0AACACA,Pyrazinamide 650mg/5ml oral suspension
-vmp,13271011000001103,0501090N0AACBCB,Pyrazinamide 430mg/5ml oral solution
-vmp,13271111000001102,0501090N0AACBCB,Pyrazinamide 430mg/5ml oral suspension
-vmp,13272611000001104,0501090N0AACCCC,Pyrazinamide 700mg/5ml oral solution
-vmp,13272711000001108,0501090N0AACCCC,Pyrazinamide 700mg/5ml oral suspension
-vmp,13269811000001103,0501090N0AACDCD,Pyrazinamide 312.5mg/5ml oral solution
-vmp,13269911000001108,0501090N0AACDCD,Pyrazinamide 312.5mg/5ml oral suspension
-vmp,13201311000001107,0501090N0AACECE,Pyrazinamide 1.4g/5ml oral solution
-vmp,13201411000001100,0501090N0AACECE,Pyrazinamide 1.4g/5ml oral suspension
-vmp,13268011000001104,0501090N0AACFCF,Pyrazinamide 105mg/5ml oral solution
-vmp,13268111000001103,0501090N0AACFCF,Pyrazinamide 105mg/5ml oral suspension
-vmp,13273411000001106,0501090N0AACGCG,Pyrazinamide 91mg/5ml oral solution
-vmp,13273511000001105,0501090N0AACGCG,Pyrazinamide 91mg/5ml oral suspension
-vmp,13201111000001105,0501090N0AACHCH,Pyrazinamide 1.25g/5ml oral solution
-vmp,13201211000001104,0501090N0AACHCH,Pyrazinamide 1.25g/5ml oral suspension
 vmp,324477005,0501090N0AACJCJ,Pyrazinamide 500mg tablets
 vmp,324504002,0501090Q0AAABAB,Rifabutin 150mg capsules
-vmp,13353211000001104,0501090Q0AAAGAG,Rifabutin 60mg/5ml oral suspension
-vmp,13372411000001107,0501090Q0AAAGAG,Rifabutin 60mg/5ml oral solution
-vmp,13353111000001105,0501090Q0AAAJAJ,Rifabutin 50mg/5ml oral suspension
-vmp,13372311000001100,0501090Q0AAAJAJ,Rifabutin 50mg/5ml oral solution
-vmp,13353311000001107,0501090Q0AAALAL,Rifabutin 75mg/5ml oral suspension
-vmp,13372511000001106,0501090Q0AAALAL,Rifabutin 75mg/5ml oral solution
-vmp,13353011000001109,0501090Q0AAAUAU,Rifabutin 150mg/5ml oral suspension
-vmp,13372211000001108,0501090Q0AAAUAU,Rifabutin 150mg/5ml oral solution
-vmp,13353411000001100,0501090Q0AAAVAV,Rifabutin 90mg/5ml oral suspension
-vmp,13372611000001105,0501090Q0AAAVAV,Rifabutin 90mg/5ml oral solution
 vmp,13352711000001103,0501090Q0AAAZAZ,Rifabutin 100mg/5ml oral solution
 vmp,13352811000001106,0501090Q0AAAZAZ,Rifabutin 100mg/5ml oral suspension
 vmp,324479008,0501090R0AAAAAA,Rifampicin 150mg capsules
@@ -3394,39 +2780,16 @@ vmp,324480006,0501090R0AAABAB,Rifampicin 300mg capsules
 vmp,35934411000001101,0501090R0AAAFAF,Rifampicin 100mg/5ml oral suspension
 vmp,13372911000001104,0501090R0AAAKAK,Rifampicin 150mg/5ml oral solution
 vmp,13373011000001107,0501090R0AAAKAK,Rifampicin 150mg/5ml oral suspension
-vmp,13372711000001101,0501090R0AAAMAM,Rifampicin 120mg/5ml oral solution
-vmp,13372811000001109,0501090R0AAAMAM,Rifampicin 120mg/5ml oral suspension
-vmp,13373111000001108,0501090R0AAANAN,Rifampicin 200mg/5ml oral solution
-vmp,13373211000001102,0501090R0AAANAN,Rifampicin 200mg/5ml oral suspension
-vmp,13373511000001104,0501090R0AAAPAP,Rifampicin 300mg/5ml oral solution
-vmp,13373611000001100,0501090R0AAAPAP,Rifampicin 300mg/5ml oral suspension
-vmp,13373311000001105,0501090R0AAAQAQ,Rifampicin 30.5mg/5ml oral solution
-vmp,13373411000001103,0501090R0AAAQAQ,Rifampicin 30.5mg/5ml oral suspension
-vmp,13373711000001109,0501090R0AAARAR,Rifampicin 480mg/5ml oral solution
-vmp,13373811000001101,0501090R0AAARAR,Rifampicin 480mg/5ml oral suspension
-vmp,13532611000001105,0501090R0AAAUAU,Rifampicin 210mg/5ml oral solution
-vmp,13532711000001101,0501090R0AAAUAU,Rifampicin 210mg/5ml oral suspension
 vmp,324500006,0501090S0AAAAAA,Rifampicin 150mg / Isoniazid 100mg tablets
 vmp,324501005,0501090S0AAABAB,Rifampicin 300mg / Isoniazid 150mg tablets
 vmp,346672000,0501090S0AAACAC,Generic Rifater tablets
 vmp,21733111000001101,0501090S0BEAAA0,Generic Voractiv tablets
-vmp,24565811000001107,0501090V0AAAAAA,Bedaquiline 100mg tablets
-vmp,27800311000001101,0501090W0AAAAAA,Delamanid 50mg tablets
 vmp,324509007,0501100C0AAAAAA,Clofazimine 100mg capsules
 vmp,376085005,0501100C0AAACAC,Clofazimine 50mg capsules
 vmp,324506000,0501100H0AAAFAF,Dapsone 50mg tablets
 vmp,324507009,0501100H0AAAHAH,Dapsone 100mg tablets
-vmp,11712911000001103,0501100H0AAAKAK,Dapsone 5mg/5ml oral solution
-vmp,11713011000001106,0501100H0AAAKAK,Dapsone 5mg/5ml oral suspension
 vmp,8430011000001105,0501100H0AAALAL,Dapsone 50mg/5ml oral suspension
-vmp,8430111000001106,0501100H0AAAMAM,Dapsone 40mg/5ml oral suspension
-vmp,34818711000001105,0501100H0AAANAN,Dapsone 75mg/5ml oral suspension
-vmp,36903611000001107,0501100H0AAAPAP,Dapsone 20mg/5ml oral suspension
-vmp,10194111000001109,0501100J0AAAAAA,Thalidomide 100mg tablets
-vmp,13303011000001104,0501100J0AAAHAH,Thalidomide 50mg/5ml oral solution
-vmp,13303111000001103,0501100J0AAAHAH,Thalidomide 50mg/5ml oral suspension
 vmp,10193511000001103,0501100J0AAAIAI,Thalidomide 50mg tablets
-vmp,10193111000001107,0501100J0AAAJAJ,Thalidomide 25mg tablets
 vmp,324520007,0501110C0AAAEAE,Metronidazole 200mg/5ml oral suspension
 vmp,324511003,0501110C0AAAIAI,Metronidazole 200mg tablets
 vmp,324512005,0501110C0AAAJAJ,Metronidazole 400mg tablets
@@ -3434,7 +2797,6 @@ vmp,324523009,0501110C0AABHBH,Metronidazole 500mg tablets
 vmp,13007811000001103,0501110C0AABLBL,Metronidazole 100mg/5ml oral solution
 vmp,13008011000001105,0501110C0AABQBQ,Metronidazole 200mg/5ml oral solution
 vmp,13008111000001106,0501110C0AABRBR,Metronidazole 50mg/5ml oral solution
-vmp,32655011000001106,0501110C0AABSBS,Metronidazole 500mg/5ml oral suspension
 vmp,13007911000001108,0501110C0AABTBT,Metronidazole 100mg/5ml oral suspension
 vmp,13008211000001100,0501110C0AABUBU,Metronidazole 50mg/5ml oral suspension
 vmp,324554008,0501110G0AAABAB,Tinidazole 500mg tablets
@@ -3442,37 +2804,15 @@ vmp,324607004,0501120L0AAAAAA,Ciprofloxacin 250mg tablets
 vmp,324606008,0501120L0AAAFAF,Ciprofloxacin 500mg tablets
 vmp,324600002,0501120L0AAAGAG,Ciprofloxacin 100mg tablets
 vmp,324605007,0501120L0AAAJAJ,Ciprofloxacin 750mg tablets
-vmp,12020311000001106,0501120L0AAANAN,Ciprofloxacin 40mg/5ml oral suspension
-vmp,12019511000001104,0501120L0AAAPAP,Ciprofloxacin 100mg/5ml oral suspension
 vmp,12020511000001100,0501120L0AAAQAQ,Ciprofloxacin 500mg/5ml oral suspension
-vmp,12019611000001100,0501120L0AAATAT,Ciprofloxacin 125mg/5ml oral suspension
-vmp,12020611000001101,0501120L0AAAUAU,Ciprofloxacin 50mg/5ml oral suspension
-vmp,12020811000001102,0501120L0AAAVAV,Ciprofloxacin 75mg/5ml oral suspension
-vmp,12020711000001105,0501120L0AAAWAW,Ciprofloxacin 60mg/5ml oral suspension
-vmp,12019911000001106,0501120L0AAAXAX,Ciprofloxacin 170mg/5ml oral suspension
-vmp,12020211000001103,0501120L0AABBBB,Ciprofloxacin 375mg/5ml oral suspension
-vmp,12020011000001108,0501120L0AABCBC,Ciprofloxacin 175mg/5ml oral suspension
-vmp,12020911000001107,0501120L0AABDBD,Ciprofloxacin 80mg/5ml oral suspension
 vmp,324602005,0501120L0AABGBG,Ciprofloxacin 250mg/5ml oral suspension
-vmp,12020411000001104,0501120L0AABHBH,Ciprofloxacin 45mg/5ml oral suspension
-vmp,12019711000001109,0501120L0AABIBI,Ciprofloxacin 150mg/5ml oral suspension
-vmp,12019811000001101,0501120L0AABJBJ,Ciprofloxacin 165mg/5ml oral suspension
-vmp,12020111000001109,0501120L0AABKBK,Ciprofloxacin 20mg/5ml oral suspension
 vmp,324579006,0501120N0AAAAAA,Nalidixic acid 300mg/5ml oral suspension
-vmp,324578003,0501120N0AAABAB,Nalidixic acid 500mg tablets
-vmp,35445511000001100,0501120N0AAACAC,Generic Mictral granules 7g sachets
-vmp,36028911000001108,0501120N0AAAFAF,Nalidixic acid 300mg/5ml oral suspension sugar free
 vmp,324612003,0501120P0AAAAAA,Ofloxacin 200mg tablets
 vmp,324620001,0501120P0AAABAB,Ofloxacin 400mg tablets
-vmp,12895811000001101,0501120P0AAADAD,Ofloxacin 100mg/5ml oral suspension
-vmp,12905211000001105,0501120P0AAADAD,Ofloxacin 100mg/5ml oral solution
-vmp,12905311000001102,0501120P0AAAEAE,Ofloxacin 250mg/5ml oral solution
-vmp,12905411000001109,0501120P0AAAEAE,Ofloxacin 250mg/5ml oral suspension
 vmp,324621002,0501120Q0AAAAAA,Norfloxacin 400mg tablets
 vmp,324634001,0501120X0AAAAAA,Levofloxacin 500mg tablets
 vmp,324633007,0501120X0AAABAB,Levofloxacin 250mg tablets
 vmp,408015000,0501120Y0AAAAAA,Moxifloxacin 400mg tablets
-vmp,36003311000001109,0501120Y0AAADAD,Moxifloxacin 400mg/5ml oral solution
 vmp,371616001,0501130H0AAAAAA,Methenamine hippurate 1g tablets
 vmp,324570005,0501130R0AAAAAA,Nitrofurantoin 50mg capsules
 vmp,324572002,0501130R0AAABAB,Nitrofurantoin 100mg capsules
@@ -3482,84 +2822,28 @@ vmp,324559003,0501130R0AAAEAE,Nitrofurantoin 100mg tablets
 vmp,324568001,0501130R0AAAGAG,Nitrofurantoin 100mg modified-release capsules
 vmp,12862811000001106,0501130R0AAAJAJ,Nitrofurantoin 100mg/5ml oral solution
 vmp,12862911000001101,0501130R0AAAJAJ,Nitrofurantoin 100mg/5ml oral suspension
-vmp,12864611000001104,0501130R0AAALAL,Nitrofurantoin 15mg/5ml oral solution
-vmp,12864711000001108,0501130R0AAALAL,Nitrofurantoin 15mg/5ml oral suspension
 vmp,375489004,0501130R0AAAMAM,Nitrofurantoin 25mg/5ml oral suspension
 vmp,12904911000001100,0501130R0AAAMAM,Nitrofurantoin 25mg/5ml oral solution
 vmp,12935311000001106,0501130R0AAANAN,Nitrofurantoin 50mg/5ml oral solution
 vmp,12935411000001104,0501130R0AAANAN,Nitrofurantoin 50mg/5ml oral suspension
-vmp,12934511000001101,0501130R0AAAPAP,Nitrofurantoin 40mg/5ml oral solution
-vmp,12934611000001102,0501130R0AAAPAP,Nitrofurantoin 40mg/5ml oral suspension
-vmp,12894611000001101,0501130R0AAAQAQ,Nitrofurantoin 18mg/5ml oral solution
-vmp,12894711000001105,0501130R0AAAQAQ,Nitrofurantoin 18mg/5ml oral suspension
 vmp,12935511000001100,0501130R0AAARAR,Nitrofurantoin 5mg/5ml oral solution
 vmp,12935611000001101,0501130R0AAARAR,Nitrofurantoin 5mg/5ml oral suspension
-vmp,12864211000001101,0501130R0AAASAS,Nitrofurantoin 13mg/5ml oral solution
-vmp,12864311000001109,0501130R0AAASAS,Nitrofurantoin 13mg/5ml oral suspension
 vmp,12863011000001109,0501130R0AAATAT,Nitrofurantoin 10mg/5ml oral solution
 vmp,12863111000001105,0501130R0AAATAT,Nitrofurantoin 10mg/5ml oral suspension
-vmp,12863811000001103,0501130R0AAAUAU,Nitrofurantoin 12mg/5ml oral solution
-vmp,12863911000001108,0501130R0AAAUAU,Nitrofurantoin 12mg/5ml oral suspension
-vmp,12904211000001109,0501130R0AAAVAV,Nitrofurantoin 20mg/5ml oral solution
-vmp,12904311000001101,0501130R0AAAVAV,Nitrofurantoin 20mg/5ml oral suspension
-vmp,12935711000001105,0501130R0AAAWAW,Nitrofurantoin 6.5mg/5ml oral solution
-vmp,12935811000001102,0501130R0AAAWAW,Nitrofurantoin 6.5mg/5ml oral suspension
-vmp,12936111000001103,0501130R0AAAXAX,Nitrofurantoin 7.5mg/5ml oral solution
-vmp,12936211000001109,0501130R0AAAXAX,Nitrofurantoin 7.5mg/5ml oral suspension
-vmp,12933911000001106,0501130R0AAAZAZ,Nitrofurantoin 30mg/5ml oral solution
-vmp,12934011000001109,0501130R0AAAZAZ,Nitrofurantoin 30mg/5ml oral suspension
-vmp,12937311000001103,0501130R0AABABA,Nitrofurantoin 9mg/5ml oral solution
-vmp,12937411000001105,0501130R0AABABA,Nitrofurantoin 9mg/5ml oral suspension
-vmp,12936711000001102,0501130R0AABBBB,Nitrofurantoin 7mg/5ml oral solution
-vmp,12936811000001105,0501130R0AABBBB,Nitrofurantoin 7mg/5ml oral suspension
-vmp,12905011000001100,0501130R0AABCBC,Nitrofurantoin 2mg/5ml oral solution
-vmp,12905111000001104,0501130R0AABCBC,Nitrofurantoin 2mg/5ml oral suspension
 vmp,12904111000001103,0501130R0AABDBD,Nitrofurantoin 2.5mg/5ml oral suspension
 vmp,12904811000001105,0501130R0AABDBD,Nitrofurantoin 2.5mg/5ml oral solution
 vmp,12863411000001100,0501130R0AABEBE,Nitrofurantoin 12.5mg/5ml oral solution
 vmp,12863511000001101,0501130R0AABEBE,Nitrofurantoin 12.5mg/5ml oral suspension
-vmp,12904411000001108,0501130R0AABGBG,Nitrofurantoin 22mg/5ml oral solution
-vmp,12904511000001107,0501130R0AABGBG,Nitrofurantoin 22mg/5ml oral suspension
-vmp,12894111000001109,0501130R0AABIBI,Nitrofurantoin 17mg/5ml oral solution
-vmp,12894211000001103,0501130R0AABIBI,Nitrofurantoin 17mg/5ml oral suspension
-vmp,12864811000001100,0501130R0AABJBJ,Nitrofurantoin 16mg/5ml oral solution
-vmp,12864911000001105,0501130R0AABJBJ,Nitrofurantoin 16mg/5ml oral suspension
-vmp,12936511000001107,0501130R0AABKBK,Nitrofurantoin 75mg/5ml oral solution
-vmp,12936611000001106,0501130R0AABKBK,Nitrofurantoin 75mg/5ml oral suspension
-vmp,12936911000001100,0501130R0AABLBL,Nitrofurantoin 8mg/5ml oral solution
-vmp,12937011000001101,0501130R0AABLBL,Nitrofurantoin 8mg/5ml oral suspension
 vmp,12935111000001109,0501130R0AABNBN,Nitrofurantoin 5.5mg/5ml oral solution
 vmp,12935211000001103,0501130R0AABNBN,Nitrofurantoin 5.5mg/5ml oral suspension
-vmp,12934311000001107,0501130R0AABPBP,Nitrofurantoin 35mg/5ml oral solution
-vmp,12934411000001100,0501130R0AABPBP,Nitrofurantoin 35mg/5ml oral suspension
-vmp,12894311000001106,0501130R0AABQBQ,Nitrofurantoin 18.75mg/5ml oral solution
-vmp,12894511000001100,0501130R0AABQBQ,Nitrofurantoin 18.75mg/5ml oral suspension
-vmp,12935911000001107,0501130R0AABRBR,Nitrofurantoin 6mg/5ml oral solution
-vmp,12936011000001104,0501130R0AABRBR,Nitrofurantoin 6mg/5ml oral suspension
 vmp,12863611000001102,0501130R0AABSBS,Nitrofurantoin 125mg/5ml oral solution
 vmp,12863711000001106,0501130R0AABSBS,Nitrofurantoin 125mg/5ml oral suspension
-vmp,12937111000001100,0501130R0AABTBT,Nitrofurantoin 9.5mg/5ml oral solution
-vmp,12937211000001106,0501130R0AABTBT,Nitrofurantoin 9.5mg/5ml oral suspension
-vmp,12934111000001105,0501130R0AABUBU,Nitrofurantoin 32.5mg/5ml oral solution
-vmp,12934211000001104,0501130R0AABUBU,Nitrofurantoin 32.5mg/5ml oral suspension
-vmp,12934911000001108,0501130R0AABVBV,Nitrofurantoin 4mg/5ml oral solution
-vmp,12935011000001108,0501130R0AABVBV,Nitrofurantoin 4mg/5ml oral suspension
 vmp,12864411000001102,0501130R0AABWBW,Nitrofurantoin 14mg/5ml oral solution
 vmp,12864511000001103,0501130R0AABWBW,Nitrofurantoin 14mg/5ml oral suspension
 vmp,12934711000001106,0501130R0AABXBX,Nitrofurantoin 45mg/5ml oral solution
 vmp,12934811000001103,0501130R0AABXBX,Nitrofurantoin 45mg/5ml oral suspension
-vmp,12904611000001106,0501130R0AABYBY,Nitrofurantoin 24mg/5ml oral solution
-vmp,12904711000001102,0501130R0AABYBY,Nitrofurantoin 24mg/5ml oral suspension
-vmp,12894811000001102,0501130R0AACDCD,Nitrofurantoin 1mg/5ml oral suspension
-vmp,12895111000001108,0501130R0AACDCD,Nitrofurantoin 1mg/5ml oral solution
-vmp,12864011000001106,0501130R0AACECE,Nitrofurantoin 13.5mg/5ml oral solution
-vmp,12864111000001107,0501130R0AACECE,Nitrofurantoin 13.5mg/5ml oral suspension
 vmp,12863211000001104,0501130R0AACGCG,Nitrofurantoin 11mg/5ml oral solution
 vmp,12863311000001107,0501130R0AACGCG,Nitrofurantoin 11mg/5ml oral suspension
-vmp,12893811000001100,0501130R0AACICI,Nitrofurantoin 17.5mg/5ml oral solution
-vmp,12894011000001108,0501130R0AACICI,Nitrofurantoin 17.5mg/5ml oral suspension
-vmp,12936311000001101,0501130R0AACJCJ,Nitrofurantoin 7.8mg/5ml oral solution
-vmp,12936411000001108,0501130R0AACJCJ,Nitrofurantoin 7.8mg/5ml oral suspension
 vmp,21258811000001107,0501130S0AAAAAA,Fosfomycin 500mg capsules
 vmp,424692003,0502010A0AAAAAA,Posaconazole 40mg/ml oral suspension
 vmp,24580911000001108,0502010A0AAABAB,Posaconazole 100mg gastro-resistant tablets
@@ -3578,11 +2862,6 @@ vmp,409224007,0502010D0AAADAD,Voriconazole 200mg/5ml oral suspension
 vmp,36866311000001102,0502010D0AAAHAH,Voriconazole 100mg tablets
 vmp,31060911000001101,0502010E0AAAAAA,Isavuconazole 100mg capsules
 vmp,324676009,0502020A0AAACAC,Ketoconazole 200mg tablets
-vmp,8581711000001101,0502020A0AAADAD,Ketoconazole 100mg/5ml oral suspension
-vmp,8581811000001109,0502020A0AAAEAE,Ketoconazole 60mg/5ml oral suspension
-vmp,12664011000001104,0502020A0AAAFAF,Ketoconazole 75mg/5ml oral suspension
-vmp,35902211000001101,0502030A0AAABAB,Amphotericin B 100mg/ml oral suspension sugar free
-vmp,324656003,0502030A0AAACAC,Amphotericin B 100mg tablets
 vmp,27888011000001101,0502030A0AAANAN,Amphotericin B 100mg/ml oral solution
 vmp,324689003,0502030B0AAABAB,"Nystatin 100,000units/ml oral suspension"
 vmp,324694003,0502030B0AAAIAI,"Nystatin 500,000unit tablets"
@@ -3591,70 +2870,34 @@ vmp,400576003,0502030B0AAAXAX,"Nystatin 100,000units/ml oral suspension sugar fr
 vmp,324665005,0502050B0AAABAB,Griseofulvin 125mg tablets
 vmp,324666006,0502050B0AAACAC,Griseofulvin 500mg tablets
 vmp,8527011000001104,0502050B0AAAEAE,Griseofulvin 200mg/5ml oral suspension
-vmp,12663311000001103,0502050B0AAAHAH,Griseofulvin 625mg/5ml oral suspension
-vmp,8527711000001102,0502050B0AAAIAI,Griseofulvin 50mg/5ml oral suspension
 vmp,8527311000001101,0502050B0AAAJAJ,Griseofulvin 300mg/5ml oral suspension
 vmp,8527611000001106,0502050B0AAAKAK,Griseofulvin 500mg/5ml oral suspension
 vmp,8526611000001109,0502050B0AAALAL,Griseofulvin 100mg/5ml oral suspension
-vmp,12662911000001109,0502050B0AAAMAM,Griseofulvin 450mg/5ml oral suspension
-vmp,12137611000001105,0502050B0AAANAN,Griseofulvin 112.5mg/5ml oral suspension
 vmp,8526811000001108,0502050B0AAAPAP,Griseofulvin 150mg/5ml oral suspension
 vmp,12662111000001106,0502050B0AAAQAQ,Griseofulvin 320mg/5ml oral suspension
 vmp,8527211000001109,0502050B0AAARAR,Griseofulvin 250mg/5ml oral suspension
-vmp,12138111000001101,0502050B0AAASAS,Griseofulvin 140mg/5ml oral suspension
 vmp,12223711000001106,0502050B0AAATAT,Griseofulvin 190mg/5ml oral suspension
 vmp,12661611000001109,0502050B0AAAUAU,Griseofulvin 280mg/5ml oral suspension
 vmp,12223311000001107,0502050B0AAAVAV,Griseofulvin 170mg/5ml oral suspension
-vmp,8527411000001108,0502050B0AAAWAW,Griseofulvin 350mg/5ml oral suspension
 vmp,12226811000001107,0502050B0AAAXAX,Griseofulvin 230mg/5ml oral suspension
-vmp,12663911000001102,0502050B0AAAYAY,Griseofulvin 90mg/5ml oral suspension
 vmp,12223411000001100,0502050B0AAAZAZ,Griseofulvin 180mg/5ml oral suspension
 vmp,12222911000001101,0502050B0AABABA,Griseofulvin 160mg/5ml oral suspension
 vmp,12226711000001104,0502050B0AABBBB,Griseofulvin 220mg/5ml oral suspension
 vmp,8527511000001107,0502050B0AABCBC,Griseofulvin 400mg/5ml oral suspension
-vmp,12662811000001104,0502050B0AABDBD,Griseofulvin 40mg/5ml oral suspension
-vmp,12662311000001108,0502050B0AABEBE,Griseofulvin 35mg/5ml oral suspension
 vmp,8527111000001103,0502050B0AABFBF,Griseofulvin 225mg/5ml oral suspension
 vmp,12137711000001101,0502050B0AABGBG,Griseofulvin 12.5mg/5ml oral suspension
 vmp,12227011000001103,0502050B0AABHBH,Griseofulvin 240mg/5ml oral suspension
-vmp,12663711000001104,0502050B0AABIBI,Griseofulvin 80mg/5ml oral suspension
 vmp,12137811000001109,0502050B0AABJBJ,Griseofulvin 120mg/5ml oral suspension
 vmp,12662711000001107,0502050B0AABLBL,Griseofulvin 390mg/5ml oral suspension
-vmp,12663211000001106,0502050B0AABMBM,Griseofulvin 62.5mg/5ml oral suspension
-vmp,12226511000001109,0502050B0AABNBN,Griseofulvin 20mg/5ml oral suspension
-vmp,12226611000001108,0502050B0AABPBP,Griseofulvin 210mg/5ml oral suspension
 vmp,12227111000001102,0502050B0AABQBQ,Griseofulvin 25mg/5ml oral suspension
-vmp,12223211000001104,0502050B0AABRBR,Griseofulvin 167mg/5ml oral suspension
-vmp,12226911000001102,0502050B0AABSBS,Griseofulvin 235mg/5ml oral suspension
-vmp,12662011000001105,0502050B0AABTBT,Griseofulvin 318mg/5ml oral suspension
-vmp,12662511000001102,0502050B0AABUBU,Griseofulvin 370mg/5ml oral suspension
-vmp,8527811000001105,0502050B0AABVBV,Griseofulvin 75mg/5ml oral suspension
-vmp,12137311000001100,0502050B0AABWBW,Griseofulvin 105mg/5ml oral suspension
-vmp,12663611000001108,0502050B0AABXBX,Griseofulvin 70mg/5ml oral suspension
-vmp,12663511000001109,0502050B0AABYBY,Griseofulvin 700mg/5ml oral suspension
 vmp,12662611000001103,0502050B0AABZBZ,Griseofulvin 375mg/5ml oral suspension
-vmp,12663011000001101,0502050B0AACACA,Griseofulvin 55mg/5ml oral suspension
 vmp,12137411000001107,0502050B0AACBCB,Griseofulvin 10mg/5ml oral suspension
-vmp,12663411000001105,0502050B0AACCCC,Griseofulvin 65mg/5ml oral suspension
 vmp,8526511000001105,0502050B0AACDCD,Griseofulvin 1.25g/5ml oral suspension
-vmp,12663811000001107,0502050B0AACECE,Griseofulvin 85mg/5ml oral suspension
-vmp,12137511000001106,0502050B0AACFCF,Griseofulvin 110mg/5ml oral suspension
 vmp,12663111000001100,0502050B0AACGCG,Griseofulvin 60mg/5ml oral suspension
-vmp,12223611000001102,0502050B0AACHCH,Griseofulvin 187.5mg/5ml oral suspension
-vmp,12662411000001101,0502050B0AACICI,Griseofulvin 360mg/5ml oral suspension
-vmp,12138011000001102,0502050B0AACJCJ,Griseofulvin 135mg/5ml oral suspension
-vmp,12662211000001100,0502050B0AACKCK,Griseofulvin 340mg/5ml oral suspension
-vmp,12137911000001104,0502050B0AACLCL,Griseofulvin 130mg/5ml oral suspension
-vmp,12661811000001108,0502050B0AACMCM,Griseofulvin 30mg/5ml oral suspension
-vmp,12661911000001103,0502050B0AACNCN,Griseofulvin 312.5mg/5ml oral suspension
-vmp,12661711000001100,0502050B0AACPCP,Griseofulvin 290mg/5ml oral suspension
-vmp,12223111000001105,0502050B0AACQCQ,Griseofulvin 165mg/5ml oral suspension
 vmp,12661511000001105,0502050B0AACRCR,Griseofulvin 270mg/5ml oral suspension
 vmp,13439911000001103,0502050B0AACSCS,Griseofulvin 560mg/5ml oral suspension
 vmp,8526711000001100,0502050B0AACUCU,Griseofulvin 125mg/5ml oral suspension
 vmp,8526911000001103,0502050B0AACVCV,Griseofulvin 175mg/5ml oral suspension
-vmp,32877311000001107,0502050B0AACWCW,Griseofulvin 387mg/5ml oral solution
-vmp,36978711000001104,0502050B0AACXCX,Griseofulvin 440mg/5ml oral suspension
 vmp,324718007,0502050C0AAAAAA,Terbinafine 250mg tablets
 vmp,15650411000001109,0502050C0AAABAB,Terbinafine 125mg/5ml oral solution
 vmp,15650511000001108,0502050C0AAABAB,Terbinafine 125mg/5ml oral suspension
@@ -3671,8 +2914,6 @@ vmp,34878311000001101,050301000BBAGA0,Generic Symtuza 800mg/150mg/200mg/10mg tab
 vmp,324860002,0503010A0AAAAAA,Zidovudine 300mg / Lamivudine 150mg tablets
 vmp,9103611000001103,0503010AAAAAAAA,Emtricitabine 200mg / Tenofovir 245mg tablets
 vmp,419994001,0503010ABAAAAAA,Tipranavir 250mg capsules
-vmp,16436611000001105,0503010ABAAABAB,Tipranavir 100mg/ml oral solution sugar free
-vmp,422802007,0503010ACAAAAAA,Darunavir 300mg tablets
 vmp,442242000,0503010ACAAABAB,Darunavir 400mg tablets
 vmp,442384006,0503010ACAAACAC,Darunavir 600mg tablets
 vmp,16246211000001105,0503010ACAAADAD,Darunavir 75mg tablets
@@ -3681,110 +2922,64 @@ vmp,21635611000001100,0503010ACAAAFAF,Darunavir 100mg/ml oral suspension sugar f
 vmp,21890111000001103,0503010ACAAAGAG,Darunavir 800mg tablets
 vmp,428594002,0503010ADAAAAAA,Maraviroc 150mg tablets
 vmp,429701009,0503010ADAAABAB,Maraviroc 300mg tablets
-vmp,34908111000001102,0503010ADAAACAC,Maraviroc 20mg/ml oral solution sugar free
-vmp,34908311000001100,0503010ADAAADAD,Maraviroc 75mg tablets
 vmp,34908211000001108,0503010ADAAAEAE,Maraviroc 25mg tablets
 vmp,429704001,0503010AEAAAAAA,Raltegravir 400mg tablets
 vmp,22343111000001102,0503010AEAAABAB,Raltegravir 100mg chewable tablets
 vmp,22343211000001108,0503010AEAAACAC,Raltegravir 25mg chewable tablets
-vmp,29768911000001106,0503010AEAAADAD,Raltegravir 100mg granules sachets
 vmp,34769911000001103,0503010AEAAAEAE,Raltegravir 600mg tablets
 vmp,433917006,0503010AFAAAAAA,Etravirine 100mg tablets
 vmp,19946911000001106,0503010AFAAABAB,Etravirine 200mg tablets
-vmp,22555811000001108,0503010AFAAACAC,Etravirine 25mg tablets
 vmp,19842911000001103,0503010AGAAAAAA,Rilpivirine 25mg tablets
 vmp,23946111000001105,0503010AHAAAAAA,Dolutegravir 50mg tablets
 vmp,34185911000001107,0503010AHAAABAB,Dolutegravir 10mg tablets
-vmp,34186111000001103,0503010AHAAACAC,Dolutegravir 25mg tablets
 vmp,23984211000001104,0503010AIAAAAAA,Cobicistat 150mg tablets
-vmp,23984411000001100,0503010AJAAAAAA,Elvitegravir 85mg tablets
 vmp,23984311000001107,0503010AJAAABAB,Elvitegravir 150mg tablets
 vmp,28394811000001108,0503010AKAAAAAA,Darunavir 800mg / Cobicistat 150mg tablets
 vmp,30251911000001101,0503010ALAAAAAA,Atazanavir 300mg / Cobicistat 150mg tablets
 vmp,32766911000001102,0503010AMAAAAAA,Emtricitabine 200mg / Tenofovir alafenamide 10mg tablets
 vmp,32767011000001103,0503010AMAAABAB,Emtricitabine 200mg / Tenofovir alafenamide 25mg tablets
 vmp,13005311000001104,0503010ANAAAAAA,Efavirenz 600mg / Emtricitabine 200mg / Tenofovir disoproxil 245mg tablets
-vmp,35574411000001109,0503010APAAAAAA,Dolutegravir 50mg / Rilpivirine 25mg tablets
-vmp,35642611000001108,0503010AQAAAAAA,Bictegravir 50mg / Emtricitabine 200mg / Tenofovir alafenamide 25mg tablets
-vmp,36608711000001105,0503010ARAAAAAA,Letermovir 240mg tablets
-vmp,36903911000001101,0503010ASAAAAAA,Lamivudine 300mg / Tenofovir disoproxil 245mg / Doravirine 100mg tablets
-vmp,36903711000001103,0503010ATAAAAAA,Doravirine 100mg tablets
-vmp,37531111000001103,0503010AUAAAAAA,Dolutegravir 50mg / Lamivudine 300mg tablets
-vmp,37845311000001102,0503010AVAAAAAA,Lamivudine 300mg / Tenofovir disoproxil 245mg tablets
 vmp,324862005,0503010B0AAAAAA,Nevirapine 200mg tablets
-vmp,324865007,0503010B0AAABAB,Nevirapine 50mg/5ml oral suspension
 vmp,19608511000001106,0503010B0AAACAC,Nevirapine 50mg modified-release tablets
 vmp,19608411000001107,0503010B0AAADAD,Nevirapine 100mg modified-release tablets
 vmp,449001007,0503010B0AAAEAE,Nevirapine 400mg modified-release tablets
-vmp,324866008,0503010C0AAAAAA,Nelfinavir 250mg tablets
 vmp,324877002,0503010D0AAAAAA,Efavirenz 200mg capsules
-vmp,324876006,0503010D0AAABAB,Efavirenz 100mg capsules
 vmp,324875005,0503010D0AAACAC,Efavirenz 50mg capsules
 vmp,395518008,0503010D0AAADAD,Efavirenz 600mg tablets
-vmp,4756211000001106,0503010D0AAAEAE,Efavirenz 30mg/ml oral solution sugar free
 vmp,324880001,0503010E0AAAAAA,Abacavir 300mg tablets
 vmp,324881002,0503010E0AAABAB,Abacavir 20mg/ml oral solution sugar free
-vmp,4435711000001101,0503010F0AAAAAA,Generic Trizivir tablets
-vmp,134577000,0503010G0AAAAAA,Lopinavir 133.3mg / Ritonavir 33.3mg capsules
 vmp,134576009,0503010G0AAABAB,Lopinavir 400mg/5ml / Ritonavir 100mg/5ml oral solution
 vmp,419600002,0503010G0AAACAC,Lopinavir 200mg / Ritonavir 50mg tablets
 vmp,433142003,0503010G0AAADAD,Lopinavir 100mg / Ritonavir 25mg tablets
 vmp,407808007,0503010H0AAAAAA,Tenofovir 245mg tablets
-vmp,22099411000001103,0503010H0AAABAB,Tenofovir 33mg/g granules
 vmp,22099111000001108,0503010H0AAACAC,Tenofovir 123mg tablets
 vmp,22099211000001102,0503010H0AAADAD,Tenofovir 163mg tablets
 vmp,22099311000001105,0503010H0AAAEAE,Tenofovir 204mg tablets
-vmp,134568007,0503010I0AAAAAA,Amprenavir 150mg capsules
-vmp,134570003,0503010I0AAABAB,Amprenavir 50mg capsules
-vmp,134567002,0503010I0AAACAC,Amprenavir 15mg/ml oral solution sugar free
 vmp,409211007,0503010K0AAAAAA,Emtricitabine 200mg capsules
 vmp,9186711000001104,0503010K0AAABAB,Emtricitabine 10mg/ml oral solution sugar free
-vmp,413594004,0503010L0AAAAAA,Atazanavir 150mg capsules
 vmp,413595003,0503010L0AAABAB,Atazanavir 200mg capsules
-vmp,413593005,0503010L0AAACAC,Atazanavir 100mg capsules
 vmp,424264002,0503010L0AAADAD,Atazanavir 300mg capsules
 vmp,407020003,0503010M0AAAAAA,Fosamprenavir 700mg tablets
-vmp,416206000,0503010M0AAABAB,Fosamprenavir 50mg/ml oral suspension
-vmp,4457311000001109,0503010N0AAACAC,Didanosine 25mg dispersible chewable tablets sugar free
-vmp,5005011000001107,0503010N0AAADAD,Didanosine 150mg dispersible chewable tablets sugar free
-vmp,4457211000001101,0503010N0AAAEAE,Didanosine 200mg dispersible chewable tablets sugar free
 vmp,324814004,0503010N0AAAFAF,Didanosine 125mg gastro-resistant capsules
-vmp,324813005,0503010N0AAAGAG,Didanosine 200mg gastro-resistant capsules
-vmp,324812000,0503010N0AAAHAH,Didanosine 250mg gastro-resistant capsules
-vmp,324811007,0503010N0AAAIAI,Didanosine 400mg gastro-resistant capsules
 vmp,324823001,0503010Q0AAAAAA,Lamivudine 150mg tablets
 vmp,324825008,0503010Q0AAABAB,Lamivudine 50mg/5ml oral solution
 vmp,324827000,0503010Q0AAACAC,Lamivudine 25mg/5ml oral solution
 vmp,324829002,0503010Q0AAADAD,Lamivudine 100mg tablets
 vmp,407791001,0503010Q0AAAEAE,Lamivudine 300mg tablets
-vmp,324847008,0503010R0AAAAAA,Saquinavir 200mg capsules
-vmp,422836001,0503010R0AAAAAA,Saquinavir mesilate 200mg capsules
 vmp,423046007,0503010R0AAABAB,Saquinavir mesilate 500mg tablets
-vmp,324831006,0503010S0AAAAAA,Stavudine 15mg capsules
-vmp,324833009,0503010S0AAABAB,Stavudine 20mg capsules
 vmp,324835002,0503010S0AAACAC,Stavudine 30mg capsules
-vmp,324837005,0503010S0AAADAD,Stavudine 40mg capsules
 vmp,324839008,0503010S0AAAEAE,Stavudine 1mg/ml oral solution
-vmp,324852003,0503010T0AAAAAA,Indinavir 400mg capsules
-vmp,324850006,0503010T0AAABAB,Indinavir 200mg capsules
-vmp,324856000,0503010T0AAACAC,Indinavir 333mg capsules
-vmp,407810009,0503010T0AAADAD,Indinavir 100mg capsules
 vmp,324841009,0503010U0AAAAAA,Ritonavir 100mg capsules
 vmp,324842002,0503010U0AAABAB,Ritonavir 80mg/1ml oral solution sugar free
 vmp,17175011000001109,0503010U0AAACAC,Ritonavir 100mg tablets
 vmp,32930811000001106,0503010U0AAADAD,Ritonavir 100mg oral powder sachets sugar free
-vmp,324818001,0503010X0AAAAAA,Zalcitabine 750microgram tablets
-vmp,324819009,0503010X0AAABAB,Zalcitabine 375microgram tablets
-vmp,324765001,0503010Y0AAAAAA,Zidovudine 100mg capsules
 vmp,324767009,0503010Y0AAABAB,Zidovudine 250mg capsules
 vmp,36151411000001102,0503010Y0AAADAD,Zidovudine 10mg/1ml oral solution sugar free
 vmp,413382007,0503010Z0AAAAAA,Abacavir 600mg / Lamivudine 300mg tablets
 vmp,324821004,0503021A0AAAAAA,Valaciclovir 500mg tablets
 vmp,10688211000001106,0503021A0AAACAC,Valaciclovir 250mg tablets
-vmp,20353311000001107,0503021A0AAADAD,Valaciclovir 25mg/1ml oral suspension
 vmp,20456211000001104,0503021A0AAAEAE,Valaciclovir 100mg/5ml oral suspension
 vmp,22042311000001106,0503021A0AAAFAF,Valaciclovir 250mg/5ml oral suspension
-vmp,27811211000001100,0503021A0AAAGAG,Valaciclovir 200mg/5ml oral suspension
 vmp,35892311000001100,0503021C0AAAAAA,Aciclovir 200mg/5ml oral suspension sugar free
 vmp,324726004,0503021C0AAABAB,Aciclovir 200mg tablets
 vmp,324729006,0503021C0AAACAC,Aciclovir 400mg tablets
@@ -3800,10 +2995,6 @@ vmp,324795009,0503021E0AAACAC,Famciclovir 750mg tablets
 vmp,324797001,0503021E0AAADAD,Famciclovir 500mg tablets
 vmp,407917008,0503022B0AAAAAA,Valganciclovir 450mg tablets
 vmp,15362311000001103,0503022B0AAADAD,Valganciclovir 50mg/ml oral solution sugar free
-vmp,15451311000001109,0503022B0AAAEAE,Valganciclovir 570mg/5ml oral solution
-vmp,15451411000001102,0503022B0AAAEAE,Valganciclovir 570mg/5ml oral suspension
-vmp,324783009,0503022D0AAACAC,Ganciclovir 250mg capsules
-vmp,324786001,0503022D0AAADAD,Ganciclovir 500mg capsules
 vmp,408085008,0503031A0AAAAAA,Adefovir 10mg tablets
 vmp,417515001,0503031B0AAAAAA,Entecavir 500microgram tablets
 vmp,417232003,0503031B0AAABAB,Entecavir 1mg tablets
@@ -3816,14 +3007,8 @@ vmp,24581011000001100,0503032C0AAAAAA,Sofosbuvir 400mg tablets
 vmp,24611011000001106,0503032D0AAAAAA,Simeprevir 150mg capsules
 vmp,26941211000001102,0503032E0AAAAAA,Daclatasvir 60mg tablets
 vmp,26941111000001108,0503032E0AAABAB,Daclatasvir 30mg tablets
-vmp,32899011000001107,0503032E0AAACAC,Daclatasvir 90mg tablets
 vmp,28395311000001100,0503032F0AAAAAA,Sofosbuvir 400mg / Ledipasvir 90mg tablets
-vmp,28772711000001100,0503032G0AAAAAA,Generic Viekirax 12.5mg/75mg/50mg tablets
-vmp,28789411000001105,0503032H0AAAAAA,Dasabuvir 250mg tablets
-vmp,33422311000001107,0503032I0AAAAAA,Elbasvir 50mg / Grazoprevir 100mg tablets
-vmp,33620011000001107,0503032J0AAAAAA,Sofosbuvir 400mg / Velpatasvir 100mg tablets
 vmp,34734811000001103,0503032K0AAAAAA,Glecaprevir 100mg / Pibrentasvir 40mg tablets
-vmp,34821611000001104,0503032L0BBAAA0,Generic Vosevi 400mg/100mg/100mg tablets
 vmp,407824008,0503040B0AAAAAA,Oseltamivir 75mg capsules
 vmp,4253111000001103,0503040B0AAABAB,Oseltamivir 60mg/5ml oral suspension sugar free
 vmp,13113211000001104,0503040B0AAACAC,Oseltamivir 30mg capsules
@@ -3846,84 +3031,33 @@ vmp,36137511000001105,0504010G0AAAFAF,Chloroquine sulfate 68mg/5ml oral solution
 vmp,324905005,0504010K0AAAAAA,Primaquine 7.5mg tablets
 vmp,324923002,0504010L0AAAAAA,Mefloquine 250mg tablets
 vmp,324908007,0504010M0AAAAAA,Proguanil 100mg tablets
-vmp,13147211000001101,0504010M0AAACAC,Proguanil 100mg/5ml oral solution
-vmp,13147311000001109,0504010M0AAACAC,Proguanil 100mg/5ml oral suspension
-vmp,13147911000001105,0504010M0AAADAD,Proguanil 50mg/5ml oral solution
-vmp,13148011000001107,0504010M0AAADAD,Proguanil 50mg/5ml oral suspension
 vmp,13147711000001108,0504010M0AAAEAE,Proguanil 150mg/5ml oral solution
 vmp,13147811000001100,0504010M0AAAEAE,Proguanil 150mg/5ml oral suspension
-vmp,13147411000001102,0504010M0AAAFAF,Proguanil 125mg/5ml oral solution
-vmp,13147611000001104,0504010M0AAAFAF,Proguanil 125mg/5ml oral suspension
 vmp,324913006,0504010N0AAAAAA,Pyrimethamine 25mg tablets
-vmp,13298111000001100,0504010N0AAAEAE,Pyrimethamine 5mg/5ml oral suspension
-vmp,13298011000001101,0504010N0AAAFAF,Pyrimethamine 25mg/5ml oral suspension
-vmp,13298211000001106,0504010N0AAAGAG,Pyrimethamine 7.5mg/5ml oral suspension
-vmp,13298311000001103,0504010N0AAAHAH,Pyrimethamine 9mg/5ml oral suspension
 vmp,13297911000001103,0504010N0AAAIAI,Pyrimethamine 10mg/5ml oral suspension
-vmp,324912001,0504010P0AAAAAA,Pyrimethamine 25mg / Sulfadoxine 500mg tablets
-vmp,324911008,0504010Q0AAAAAA,Dapsone 100mg / Pyrimethamine 12.5mg tablets
 vmp,324915004,0504010T0AAAEAE,Quinine bisulfate 300mg tablets
 vmp,8719711000001103,0504010T0AAAFAF,Quinine bisulfate 300mg/5ml oral suspension
-vmp,13012511000001102,0504010T0AAAGAG,Quinine bisulfate 150mg/5ml oral solution
-vmp,13012411000001101,0504010T0AAAHAH,Quinine bisulfate 100mg/5ml oral solution
-vmp,13012611000001103,0504010T0AAAIAI,Quinine bisulfate 200mg/5ml oral solution
 vmp,324931007,0504010U0AAAAAA,Proguanil 100mg / Atovaquone 250mg tablets
 vmp,377213008,0504010U0AAABAB,Proguanil 25mg / Atovaquone 62.5mg tablets
-vmp,8719811000001106,0504010V0AAAHAH,Quinine dihydrochloride 300mg/5ml oral solution
-vmp,13013011000001101,0504010V0AAAIAI,Quinine dihydrochloride 200mg/5ml oral solution
-vmp,13012711000001107,0504010V0AAAJAJ,Quinine dihydrochloride 100mg/5ml oral solution
-vmp,13012911000001109,0504010V0AAAKAK,Quinine dihydrochloride 150mg/5ml oral solution
-vmp,13013211000001106,0504010V0AAAMAM,Quinine dihydrochloride 87.5mg/5ml oral solution
-vmp,13012811000001104,0504010V0AAANAN,Quinine dihydrochloride 125mg/5ml oral solution
-vmp,13013111000001100,0504010V0AAAQAQ,Quinine dihydrochloride 30mg/5ml oral solution
 vmp,13043611000001103,0504010X0AAADAD,Quinine hydrochloride 200mg/5ml oral solution
 vmp,13043711000001107,0504010X0AAADAD,Quinine hydrochloride 200mg/5ml oral suspension
 vmp,13043811000001104,0504010X0AAAEAE,Quinine hydrochloride 300mg/5ml oral solution
 vmp,13043911000001109,0504010X0AAAEAE,Quinine hydrochloride 300mg/5ml oral suspension
-vmp,13043411000001101,0504010X0AAAFAF,Quinine hydrochloride 150mg/5ml oral solution
-vmp,13043511000001102,0504010X0AAAFAF,Quinine hydrochloride 150mg/5ml oral suspension
-vmp,13043211000001100,0504010X0AAAGAG,Quinine hydrochloride 125mg/5ml oral solution
-vmp,13043311000001108,0504010X0AAAGAG,Quinine hydrochloride 125mg/5ml oral suspension
-vmp,13044011000001107,0504010Y0AAA2A2,Quinine sulfate 100mg/5ml oral solution
-vmp,13044111000001108,0504010Y0AAA2A2,Quinine sulfate 100mg/5ml oral suspension
-vmp,13045211000001101,0504010Y0AAA3A3,Quinine sulfate 75mg/5ml oral solution
-vmp,13045311000001109,0504010Y0AAA3A3,Quinine sulfate 75mg/5ml oral suspension
-vmp,13045011000001106,0504010Y0AAA4A4,Quinine sulfate 50mg/5ml oral solution
-vmp,13045111000001107,0504010Y0AAA4A4,Quinine sulfate 50mg/5ml oral suspension
-vmp,8719911000001101,0504010Y0AAA5A5,Quinine sulfate 150mg/5ml oral suspension
-vmp,13044211000001102,0504010Y0AAA6A6,Quinine sulfate 10mg/5ml oral solution
-vmp,13044311000001105,0504010Y0AAA6A6,Quinine sulfate 10mg/5ml oral suspension
 vmp,13044611000001100,0504010Y0AAA7A7,Quinine sulfate 250mg/5ml oral solution
 vmp,13044711000001109,0504010Y0AAA7A7,Quinine sulfate 250mg/5ml oral suspension
 vmp,324919005,0504010Y0AAAFAF,Quinine sulfate 200mg tablets
 vmp,324920004,0504010Y0AAAHAH,Quinine sulfate 300mg tablets
-vmp,13044411000001103,0504010Y0AABABA,Quinine sulfate 125mg/5ml oral solution
-vmp,13044511000001104,0504010Y0AABABA,Quinine sulfate 125mg/5ml oral suspension
-vmp,13044811000001101,0504010Y0AABBBB,Quinine sulfate 25mg/5ml oral solution
-vmp,13044911000001106,0504010Y0AABBBB,Quinine sulfate 25mg/5ml oral suspension
 vmp,8720111000001103,0504010Y0AABCBC,Quinine sulfate 300mg/5ml oral suspension
 vmp,8720011000001104,0504010Y0AABDBD,Quinine sulfate 200mg/5ml oral suspension
 vmp,324942003,0504020G0AAAAAA,Diloxanide 500mg tablets
-vmp,12025911000001103,0504020G0AAAFAF,Diloxanide 10mg/5ml oral solution
-vmp,12026011000001106,0504020G0AAAFAF,Diloxanide 10mg/5ml oral suspension
-vmp,12026311000001109,0504020G0AAAGAG,Diloxanide 50mg/5ml oral solution
-vmp,12026411000001102,0504020G0AAAGAG,Diloxanide 50mg/5ml oral suspension
-vmp,12026511000001103,0504020G0AAAHAH,Diloxanide 90mg/5ml oral solution
-vmp,12026611000001104,0504020G0AAAHAH,Diloxanide 90mg/5ml oral suspension
-vmp,12026111000001107,0504020G0AAAIAI,Diloxanide 40mg/5ml oral solution
-vmp,12026211000001101,0504020G0AAAIAI,Diloxanide 40mg/5ml oral suspension
 vmp,324929003,0504040M0AAAAAA,Mepacrine 100mg tablets
 vmp,32878311000001108,0504040M0AAAGAG,Mepacrine 50mg capsules
-vmp,18520311000001101,0504050T0AAACAC,Paromomycin 125mg/5ml oral solution
 vmp,17646511000001106,0504050T0AAAEAE,Paromomycin 250mg tablets
-vmp,29863211000001107,0504060A0AAAAAA,Nifurtimox 120mg tablets
-vmp,29862211000001101,0504060B0AAAAAA,Benznidazole 50mg tablets
 vmp,35904211000001105,0504080A0AAABAB,Atovaquone 750mg/5ml oral suspension sugar free
 vmp,324962006,0505010D0AAAAAA,Mebendazole 100mg/5ml oral suspension
 vmp,324961004,0505010D0AAADAD,Mebendazole 100mg chewable tablets sugar free
 vmp,324978008,0505010H0AAAEAE,Piperazine 4g / Senna 15.3mg oral powder sachets sugar free
 vmp,327122002,0505020L0AAABAB,Levamisole 50mg tablets
-vmp,28366211000001104,0505020L0AAAFAF,Levamisole 25mg tablets
 vmp,36775011000001100,0505020L0AAAGAG,Levamisole 50mg/5ml oral suspension
 vmp,7719011000001108,0505030A0AAABAB,Albendazole 400mg chewable tablets
 vmp,31001711000001105,0505030A0AAACAC,Albendazole 200mg/5ml oral suspension
@@ -3932,6 +3066,4 @@ vmp,374594007,0505050P0AAAAAA,Praziquantel 600mg tablets
 vmp,11498711000001109,0505050P0AAABAB,Praziquantel 500mg tablets
 vmp,11499111000001101,0505050P0AAADAD,Praziquantel 150mg tablets
 vmp,376585004,0505060I0AAACAC,Ivermectin 3mg tablets
-vmp,36774911000001100,0505060I0AAADAD,Ivermectin 15mg tablets
 vmp,376738008,0505060I0AAAEAE,Ivermectin 6mg tablets
-vmp,13304111000001101,0505080F0AAAGAG,Tiabendazole 500mg/5ml oral suspension

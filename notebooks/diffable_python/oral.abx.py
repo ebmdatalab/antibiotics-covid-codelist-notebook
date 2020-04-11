@@ -24,7 +24,7 @@ import pandas as pd
   sql = '''WITH bnf_codes AS (
   SELECT DISTINCT(bnf_code),
   FROM measures.dmd_objs_with_form_route
-  WHERE (bnf_code LIKE "05%" AND form_route LIKE '%oral%')
+  WHERE (bnf_code LIKE "05%" AND form_route LIKE '%.oral%')
   )
 
 SELECT "vmp" AS type, id, bnf_code, nm
@@ -42,6 +42,6 @@ ORDER BY type, bnf_code, id'''
 oral_antibiotics_codelist = bq.cached_read(sql, csv_path=os.path.join('..','data','orale_antibiotics_codelist.csv'))
 pd.set_option('display.max_rows', None)
 oral_antibiotics_codelist
-# -
+# +
 
 
