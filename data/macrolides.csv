@@ -1,0 +1,290 @@
+obj_type,vpid,snomed_id,bnf_code,dmd_name,bnf_name,form_route
+amp,324252006,14789411000001105,0501050A0AAAAAA,Azithromycin 250mg capsules (Teva UK Ltd),Azithromycin 250mg capsules,capsule.oral
+amp,324252006,14968311000001103,0501050A0AAAAAA,Azithromycin 250mg capsules (A A H Pharmaceuticals Ltd),Azithromycin 250mg capsules,capsule.oral
+amp,324252006,15017711000001104,0501050A0AAAAAA,Azithromycin 250mg capsules (Alliance Healthcare (Distribution) Ltd),Azithromycin 250mg capsules,capsule.oral
+amp,324252006,15071111000001102,0501050A0AAAAAA,Azithromycin 250mg capsules (Sigma Pharmaceuticals Plc),Azithromycin 250mg capsules,capsule.oral
+amp,324252006,17791111000001105,0501050A0AAAAAA,Azithromycin 250mg capsules (Phoenix Healthcare Distribution Ltd),Azithromycin 250mg capsules,capsule.oral
+amp,324252006,19706711000001107,0501050A0AAAAAA,Azithromycin 250mg capsules (DE Pharmaceuticals),Azithromycin 250mg capsules,capsule.oral
+amp,324252006,32395411000001104,0501050A0AAAAAA,Azithromycin 250mg capsules (Kent Pharmaceuticals Ltd),Azithromycin 250mg capsules,capsule.oral
+amp,324252006,33932211000001100,0501050A0AAAAAA,Azithromycin 250mg capsules (Somex Pharma),Azithromycin 250mg capsules,capsule.oral
+amp,324252006,34554511000001101,0501050A0AAAAAA,Azithromycin 250mg capsules (Zentiva),Azithromycin 250mg capsules,capsule.oral
+amp,324252006,35727711000001105,0501050A0AAAAAA,Azithromycin 250mg capsules (Mylan),Azithromycin 250mg capsules,capsule.oral
+amp,324252006,36465711000001104,0501050A0AAAAAA,Azithromycin 250mg capsules (Crescent Pharma Ltd),Azithromycin 250mg capsules,capsule.oral
+amp,324252006,37041111000001100,0501050A0AAAAAA,Azithromycin 250mg capsules (Mawdsley-Brooks & Company Ltd),Azithromycin 250mg capsules,capsule.oral
+amp,324252006,37893411000001102,0501050A0AAAAAA,Azithromycin 250mg capsules (Dawa Ltd),Azithromycin 250mg capsules,capsule.oral
+amp,324253001,13652511000001104,0501050A0AAABAB,Azithromycin 200mg/5ml oral suspension (A A H Pharmaceuticals Ltd),Azithromycin 200mg/5ml oral suspension,suspension.oral
+amp,324253001,14166911000001104,0501050A0AAABAB,Azithromycin 200mg/5ml oral suspension (Teva UK Ltd),Azithromycin 200mg/5ml oral suspension,suspension.oral
+amp,324253001,15070811000001101,0501050A0AAABAB,Azithromycin 200mg/5ml oral suspension (Sigma Pharmaceuticals Plc),Azithromycin 200mg/5ml oral suspension,suspension.oral
+amp,324253001,17283411000001107,0501050A0AAABAB,Azithromycin 200mg/5ml oral suspension (Alliance Healthcare (Distribution) Ltd),Azithromycin 200mg/5ml oral suspension,suspension.oral
+amp,324253001,20281711000001105,0501050A0AAABAB,Azithromycin 200mg/5ml oral suspension (Sandoz Ltd),Azithromycin 200mg/5ml oral suspension,suspension.oral
+amp,324253001,21781011000001106,0501050A0AAABAB,Azithromycin 200mg/5ml oral suspension (Waymade Healthcare Plc),Azithromycin 200mg/5ml oral suspension,suspension.oral
+amp,324253001,22615611000001105,0501050A0AAABAB,Azithromycin 200mg/5ml oral suspension (DE Pharmaceuticals),Azithromycin 200mg/5ml oral suspension,suspension.oral
+amp,324253001,37041811000001107,0501050A0AAABAB,Azithromycin 200mg/5ml oral suspension (Mawdsley-Brooks & Company Ltd),Azithromycin 200mg/5ml oral suspension,suspension.oral
+amp,324258005,11028111000001105,0501050A0AAADAD,Azithromycin 500mg tablets (Teva UK Ltd),Azithromycin 500mg tablets,tablet.oral
+amp,324258005,11252311000001102,0501050A0AAADAD,Azithromycin 500mg tablets (A A H Pharmaceuticals Ltd),Azithromycin 500mg tablets,tablet.oral
+amp,324258005,11579411000001106,0501050A0AAADAD,Azithromycin 500mg tablets (Sandoz Ltd),Azithromycin 500mg tablets,tablet.oral
+amp,324258005,15051411000001105,0501050A0AAADAD,Azithromycin 500mg tablets (Sigma Pharmaceuticals Plc),Azithromycin 500mg tablets,tablet.oral
+amp,324258005,15472811000001107,0501050A0AAADAD,Azithromycin 500mg tablets (Alliance Healthcare (Distribution) Ltd),Azithromycin 500mg tablets,tablet.oral
+amp,324258005,17791411000001100,0501050A0AAADAD,Azithromycin 500mg tablets (Phoenix Healthcare Distribution Ltd),Azithromycin 500mg tablets,tablet.oral
+amp,324258005,19474211000001108,0501050A0AAADAD,Azithromycin 500mg tablets (Mylan),Azithromycin 500mg tablets,tablet.oral
+amp,324258005,19543911000001109,0501050A0AAADAD,Azithromycin 500mg tablets (Aspire Pharma Ltd),Azithromycin 500mg tablets,tablet.oral
+amp,324258005,19707211000001103,0501050A0AAADAD,Azithromycin 500mg tablets (DE Pharmaceuticals),Azithromycin 500mg tablets,tablet.oral
+amp,324258005,20943011000001102,0501050A0AAADAD,Azithromycin 500mg tablets (Actavis UK Ltd),Azithromycin 500mg tablets,tablet.oral
+amp,324258005,32395911000001107,0501050A0AAADAD,Azithromycin 500mg tablets (Kent Pharmaceuticals Ltd),Azithromycin 500mg tablets,tablet.oral
+amp,324258005,34642911000001105,0501050A0AAADAD,Azithromycin 500mg tablets (Almus Pharmaceuticals Ltd),Azithromycin 500mg tablets,tablet.oral
+amp,324258005,36420111000001101,0501050A0AAADAD,Azithromycin 500mg tablets (Crescent Pharma Ltd),Azithromycin 500mg tablets,tablet.oral
+amp,324258005,37042711000001106,0501050A0AAADAD,Azithromycin 500mg tablets (Mawdsley-Brooks & Company Ltd),Azithromycin 500mg tablets,tablet.oral
+amp,324258005,37857911000001108,0501050A0AAADAD,Azithromycin 500mg tablets (Somex Pharma),Azithromycin 500mg tablets,tablet.oral
+amp,324258005,38006911000001107,0501050A0AAADAD,Azithromycin 500mg tablets (Accord Healthcare Ltd),Azithromycin 500mg tablets,tablet.oral
+amp,11034311000001100,11028411000001100,0501050A0AAAGAG,Azithromycin 250mg tablets (Teva UK Ltd),Azithromycin 250mg tablets,tablet.oral
+amp,11034311000001100,11252111000001104,0501050A0AAAGAG,Azithromycin 250mg tablets (A A H Pharmaceuticals Ltd),Azithromycin 250mg tablets,tablet.oral
+amp,11034311000001100,15071411000001107,0501050A0AAAGAG,Azithromycin 250mg tablets (Sigma Pharmaceuticals Plc),Azithromycin 250mg tablets,tablet.oral
+amp,11034311000001100,15472611000001108,0501050A0AAAGAG,Azithromycin 250mg tablets (Alliance Healthcare (Distribution) Ltd),Azithromycin 250mg tablets,tablet.oral
+amp,11034311000001100,19474411000001107,0501050A0AAAGAG,Azithromycin 250mg tablets (Mylan),Azithromycin 250mg tablets,tablet.oral
+amp,11034311000001100,19544211000001102,0501050A0AAAGAG,Azithromycin 250mg tablets (Aspire Pharma Ltd),Azithromycin 250mg tablets,tablet.oral
+amp,11034311000001100,19707011000001108,0501050A0AAAGAG,Azithromycin 250mg tablets (DE Pharmaceuticals),Azithromycin 250mg tablets,tablet.oral
+amp,11034311000001100,20282311000001102,0501050A0AAAGAG,Azithromycin 250mg tablets (Sandoz Ltd),Azithromycin 250mg tablets,tablet.oral
+amp,11034311000001100,20942811000001100,0501050A0AAAGAG,Azithromycin 250mg tablets (Actavis UK Ltd),Azithromycin 250mg tablets,tablet.oral
+amp,11034311000001100,22202911000001107,0501050A0AAAGAG,Azithromycin 250mg tablets (Phoenix Healthcare Distribution Ltd),Azithromycin 250mg tablets,tablet.oral
+amp,11034311000001100,29998311000001103,0501050A0AAAGAG,Azithromycin 250mg tablets (Mawdsley-Brooks & Company Ltd),Azithromycin 250mg tablets,tablet.oral
+amp,11034311000001100,32395711000001105,0501050A0AAAGAG,Azithromycin 250mg tablets (Kent Pharmaceuticals Ltd),Azithromycin 250mg tablets,tablet.oral
+amp,11034311000001100,34642111000001107,0501050A0AAAGAG,Azithromycin 250mg tablets (Almus Pharmaceuticals Ltd),Azithromycin 250mg tablets,tablet.oral
+amp,11034311000001100,36445611000001104,0501050A0AAAGAG,Azithromycin 250mg tablets (Crescent Pharma Ltd),Azithromycin 250mg tablets,tablet.oral
+amp,11034311000001100,36907711000001108,0501050A0AAAGAG,Azithromycin 250mg tablets (Somex Pharma),Azithromycin 250mg tablets,tablet.oral
+amp,11034311000001100,38006711000001105,0501050A0AAAGAG,Azithromycin 250mg tablets (Accord Healthcare Ltd),Azithromycin 250mg tablets,tablet.oral
+amp,29668711000001101,29516411000001104,0501050A0AAAHAH,Azithromycin 200mg/5ml oral suspension sugar free (Special Order),Azithromycin 200mg/5ml oral suspension sugar free,suspension.oral
+amp,324252006,85911000001108,0501050A0BBAAAA,Zithromax 250mg capsules (Pfizer Ltd),Zithromax 250mg capsules,capsule.oral
+amp,324253001,650911000001103,0501050A0BBABAB,Zithromax 200mg/5ml oral suspension (Pfizer Ltd),Zithromax 200mg/5ml oral suspension,suspension.oral
+amp,324258005,794511000001102,0501050A0BBADAD,Zithromax 500mg tablets (Pfizer Ltd),Zithromax 500mg tablets,tablet.oral
+amp,324258005,14759911000001105,0501050A0BCAAAD,Clamelle 500mg tablets (Actavis UK Ltd),Clamelle 500mg tablets,tablet.oral
+amp,324238009,8818911000001106,0501050B0AAAAAA,Clarithromycin 250mg tablets (Teva UK Ltd),Clarithromycin 250mg tablets,tablet.oral
+amp,324238009,8825911000001106,0501050B0AAAAAA,Clarithromycin 250mg tablets (Kent Pharmaceuticals Ltd),Clarithromycin 250mg tablets,tablet.oral
+amp,324238009,8914911000001107,0501050B0AAAAAA,Clarithromycin 250mg tablets (Mylan),Clarithromycin 250mg tablets,tablet.oral
+amp,324238009,8927511000001103,0501050B0AAAAAA,Clarithromycin 250mg tablets (A A H Pharmaceuticals Ltd),Clarithromycin 250mg tablets,tablet.oral
+amp,324238009,8993611000001100,0501050B0AAAAAA,Clarithromycin 250mg tablets (Sandoz Ltd),Clarithromycin 250mg tablets,tablet.oral
+amp,324238009,9033411000001103,0501050B0AAAAAA,Clarithromycin 250mg tablets (Alliance Healthcare (Distribution) Ltd),Clarithromycin 250mg tablets,tablet.oral
+amp,324238009,9038211000001105,0501050B0AAAAAA,Clarithromycin 250mg tablets (Ranbaxy (UK) Ltd),Clarithromycin 250mg tablets,tablet.oral
+amp,324238009,13745611000001101,0501050B0AAAAAA,Clarithromycin 250mg tablets (Tillomed Laboratories Ltd),Clarithromycin 250mg tablets,tablet.oral
+amp,324238009,13765011000001103,0501050B0AAAAAA,Clarithromycin 250mg tablets (Apotex UK Ltd),Clarithromycin 250mg tablets,tablet.oral
+amp,324238009,14694011000001106,0501050B0AAAAAA,Clarithromycin 250mg tablets (Actavis UK Ltd),Clarithromycin 250mg tablets,tablet.oral
+amp,324238009,15080711000001102,0501050B0AAAAAA,Clarithromycin 250mg tablets (Sigma Pharmaceuticals Plc),Clarithromycin 250mg tablets,tablet.oral
+amp,324238009,17522411000001102,0501050B0AAAAAA,Clarithromycin 250mg tablets (Somex Pharma),Clarithromycin 250mg tablets,tablet.oral
+amp,324238009,17859611000001109,0501050B0AAAAAA,Clarithromycin 250mg tablets (Phoenix Healthcare Distribution Ltd),Clarithromycin 250mg tablets,tablet.oral
+amp,324238009,17965211000001106,0501050B0AAAAAA,Clarithromycin 250mg tablets (Almus Pharmaceuticals Ltd),Clarithromycin 250mg tablets,tablet.oral
+amp,324238009,19715011000001104,0501050B0AAAAAA,Clarithromycin 250mg tablets (DE Pharmaceuticals),Clarithromycin 250mg tablets,tablet.oral
+amp,324238009,20096711000001105,0501050B0AAAAAA,Clarithromycin 250mg tablets (Wockhardt UK Ltd),Clarithromycin 250mg tablets,tablet.oral
+amp,324238009,20165611000001102,0501050B0AAAAAA,Clarithromycin 250mg tablets (Accord Healthcare Ltd),Clarithromycin 250mg tablets,tablet.oral
+amp,324238009,21854711000001102,0501050B0AAAAAA,Clarithromycin 250mg tablets (Waymade Healthcare Plc),Clarithromycin 250mg tablets,tablet.oral
+amp,324238009,35140911000001102,0501050B0AAAAAA,Clarithromycin 250mg tablets (Milpharm Ltd),Clarithromycin 250mg tablets,tablet.oral
+amp,324238009,36846911000001107,0501050B0AAAAAA,Clarithromycin 250mg tablets (Torrent Pharma (UK) Ltd),Clarithromycin 250mg tablets,tablet.oral
+amp,324238009,37402011000001108,0501050B0AAAAAA,Clarithromycin 250mg tablets (HEC Pharm GmbH),Clarithromycin 250mg tablets,tablet.oral
+amp,35368711000001104,9042011000001104,0501050B0AAABAB,Clarithromycin 125mg/5ml oral suspension (Ranbaxy (UK) Ltd),Clarithromycin 125mg/5ml oral suspension,suspension.oral
+amp,35368711000001104,9155811000001105,0501050B0AAABAB,Clarithromycin 125mg/5ml oral suspension (Kent Pharmaceuticals Ltd),Clarithromycin 125mg/5ml oral suspension,suspension.oral
+amp,35368711000001104,9157411000001102,0501050B0AAABAB,Clarithromycin 125mg/5ml oral suspension (Alliance Healthcare (Distribution) Ltd),Clarithromycin 125mg/5ml oral suspension,suspension.oral
+amp,35368711000001104,9252611000001100,0501050B0AAABAB,Clarithromycin 125mg/5ml oral suspension (A A H Pharmaceuticals Ltd),Clarithromycin 125mg/5ml oral suspension,suspension.oral
+amp,35368711000001104,9547411000001109,0501050B0AAABAB,Clarithromycin 125mg/5ml oral suspension (Sandoz Ltd),Clarithromycin 125mg/5ml oral suspension,suspension.oral
+amp,35368711000001104,15080411000001108,0501050B0AAABAB,Clarithromycin 125mg/5ml oral suspension (Sigma Pharmaceuticals Plc),Clarithromycin 125mg/5ml oral suspension,suspension.oral
+amp,35368711000001104,18101811000001104,0501050B0AAABAB,Clarithromycin 125mg/5ml oral suspension (Phoenix Healthcare Distribution Ltd),Clarithromycin 125mg/5ml oral suspension,suspension.oral
+amp,35368711000001104,21854311000001101,0501050B0AAABAB,Clarithromycin 125mg/5ml oral suspension (Waymade Healthcare Plc),Clarithromycin 125mg/5ml oral suspension,suspension.oral
+amp,35368711000001104,30031911000001106,0501050B0AAABAB,Clarithromycin 125mg/5ml oral suspension (DE Pharmaceuticals),Clarithromycin 125mg/5ml oral suspension,suspension.oral
+amp,35368711000001104,30761711000001102,0501050B0AAABAB,Clarithromycin 125mg/5ml oral suspension (Almus Pharmaceuticals Ltd),Clarithromycin 125mg/5ml oral suspension,suspension.oral
+amp,35368711000001104,36621611000001102,0501050B0AAABAB,Clarithromycin 125mg/5ml oral suspension (Actavis UK Ltd),Clarithromycin 125mg/5ml oral suspension,suspension.oral
+amp,324244008,8819111000001101,0501050B0AAADAD,Clarithromycin 500mg tablets (Teva UK Ltd),Clarithromycin 500mg tablets,tablet.oral
+amp,324244008,8826111000001102,0501050B0AAADAD,Clarithromycin 500mg tablets (Kent Pharmaceuticals Ltd),Clarithromycin 500mg tablets,tablet.oral
+amp,324244008,8915511000001104,0501050B0AAADAD,Clarithromycin 500mg tablets (Mylan),Clarithromycin 500mg tablets,tablet.oral
+amp,324244008,8928611000001100,0501050B0AAADAD,Clarithromycin 500mg tablets (A A H Pharmaceuticals Ltd),Clarithromycin 500mg tablets,tablet.oral
+amp,324244008,8993811000001101,0501050B0AAADAD,Clarithromycin 500mg tablets (Sandoz Ltd),Clarithromycin 500mg tablets,tablet.oral
+amp,324244008,9033811000001101,0501050B0AAADAD,Clarithromycin 500mg tablets (Alliance Healthcare (Distribution) Ltd),Clarithromycin 500mg tablets,tablet.oral
+amp,324244008,9038811000001106,0501050B0AAADAD,Clarithromycin 500mg tablets (Ranbaxy (UK) Ltd),Clarithromycin 500mg tablets,tablet.oral
+amp,324244008,13745811000001102,0501050B0AAADAD,Clarithromycin 500mg tablets (Tillomed Laboratories Ltd),Clarithromycin 500mg tablets,tablet.oral
+amp,324244008,13765211000001108,0501050B0AAADAD,Clarithromycin 500mg tablets (Apotex UK Ltd),Clarithromycin 500mg tablets,tablet.oral
+amp,324244008,14694411000001102,0501050B0AAADAD,Clarithromycin 500mg tablets (Actavis UK Ltd),Clarithromycin 500mg tablets,tablet.oral
+amp,324244008,17522611000001104,0501050B0AAADAD,Clarithromycin 500mg tablets (Somex Pharma),Clarithromycin 500mg tablets,tablet.oral
+amp,324244008,17859811000001108,0501050B0AAADAD,Clarithromycin 500mg tablets (Phoenix Healthcare Distribution Ltd),Clarithromycin 500mg tablets,tablet.oral
+amp,324244008,17965511000001109,0501050B0AAADAD,Clarithromycin 500mg tablets (Almus Pharmaceuticals Ltd),Clarithromycin 500mg tablets,tablet.oral
+amp,324244008,19715211000001109,0501050B0AAADAD,Clarithromycin 500mg tablets (DE Pharmaceuticals),Clarithromycin 500mg tablets,tablet.oral
+amp,324244008,20097311000001109,0501050B0AAADAD,Clarithromycin 500mg tablets (Wockhardt UK Ltd),Clarithromycin 500mg tablets,tablet.oral
+amp,324244008,20165811000001103,0501050B0AAADAD,Clarithromycin 500mg tablets (Accord Healthcare Ltd),Clarithromycin 500mg tablets,tablet.oral
+amp,324244008,21854911000001100,0501050B0AAADAD,Clarithromycin 500mg tablets (Waymade Healthcare Plc),Clarithromycin 500mg tablets,tablet.oral
+amp,324244008,29789111000001103,0501050B0AAADAD,Clarithromycin 500mg tablets (Sigma Pharmaceuticals Plc),Clarithromycin 500mg tablets,tablet.oral
+amp,324244008,35141111000001106,0501050B0AAADAD,Clarithromycin 500mg tablets (Milpharm Ltd),Clarithromycin 500mg tablets,tablet.oral
+amp,324244008,36847211000001101,0501050B0AAADAD,Clarithromycin 500mg tablets (Torrent Pharma (UK) Ltd),Clarithromycin 500mg tablets,tablet.oral
+amp,324244008,37402811000001102,0501050B0AAADAD,Clarithromycin 500mg tablets (HEC Pharm GmbH),Clarithromycin 500mg tablets,tablet.oral
+amp,37083211000001101,9042311000001101,0501050B0AAAHAH,Clarithromycin 250mg/5ml oral suspension (Ranbaxy (UK) Ltd),Clarithromycin 250mg/5ml oral suspension,suspension.oral
+amp,37083211000001101,9156111000001109,0501050B0AAAHAH,Clarithromycin 250mg/5ml oral suspension (Kent Pharmaceuticals Ltd),Clarithromycin 250mg/5ml oral suspension,suspension.oral
+amp,37083211000001101,9157711000001108,0501050B0AAAHAH,Clarithromycin 250mg/5ml oral suspension (Alliance Healthcare (Distribution) Ltd),Clarithromycin 250mg/5ml oral suspension,suspension.oral
+amp,37083211000001101,9253011000001103,0501050B0AAAHAH,Clarithromycin 250mg/5ml oral suspension (A A H Pharmaceuticals Ltd),Clarithromycin 250mg/5ml oral suspension,suspension.oral
+amp,37083211000001101,9547911000001101,0501050B0AAAHAH,Clarithromycin 250mg/5ml oral suspension (Sandoz Ltd),Clarithromycin 250mg/5ml oral suspension,suspension.oral
+amp,37083211000001101,15080911000001100,0501050B0AAAHAH,Clarithromycin 250mg/5ml oral suspension (Sigma Pharmaceuticals Plc),Clarithromycin 250mg/5ml oral suspension,suspension.oral
+amp,37083211000001101,18103211000001101,0501050B0AAAHAH,Clarithromycin 250mg/5ml oral suspension (Phoenix Healthcare Distribution Ltd),Clarithromycin 250mg/5ml oral suspension,suspension.oral
+amp,37083211000001101,21854511000001107,0501050B0AAAHAH,Clarithromycin 250mg/5ml oral suspension (Waymade Healthcare Plc),Clarithromycin 250mg/5ml oral suspension,suspension.oral
+amp,37083211000001101,30041111000001109,0501050B0AAAHAH,Clarithromycin 250mg/5ml oral suspension (DE Pharmaceuticals),Clarithromycin 250mg/5ml oral suspension,suspension.oral
+amp,37083211000001101,30761911000001100,0501050B0AAAHAH,Clarithromycin 250mg/5ml oral suspension (Almus Pharmaceuticals Ltd),Clarithromycin 250mg/5ml oral suspension,suspension.oral
+amp,37083211000001101,36621811000001103,0501050B0AAAHAH,Clarithromycin 250mg/5ml oral suspension (Actavis UK Ltd),Clarithromycin 250mg/5ml oral suspension,suspension.oral
+amp,324238009,220811000001105,0501050B0BBAAAA,Klaricid 250mg tablets (Abbott Laboratories Ltd),Klaricid 250mg tablets,tablet.oral
+amp,35368711000001104,917411000001101,0501050B0BBABAB,Klaricid Paediatric 125mg/5ml oral suspension (Mylan),Klaricid Paediatric 125mg/5ml oral suspension,suspension.oral
+amp,324244008,463111000001102,0501050B0BBADAD,Klaricid 500 tablets (Abbott Laboratories Ltd),Klaricid 500 tablets,tablet.oral
+amp,36142611000001107,40811000001101,0501050B0BBAEAE,Klaricid XL 500mg tablets (Mylan),Klaricid XL 500mg tablets,tabletmodified-release.oral
+amp,324248006,3253811000001107,0501050B0BBAFAF,Klaricid Adult 250mg granules sachets (Mylan),Klaricid Adult 250mg granules sachets,suspension.oral
+amp,4977911000001105,4973711000001103,0501050B0BBAGAG,Klaricid Paediatric 125mg granules sachets (Abbott Laboratories Ltd),Klaricid Paediatric 125mg granules sachets,suspension.oral
+amp,37083211000001101,211000001101,0501050B0BBAHAH,Klaricid Paediatric 250mg/5ml oral suspension (Mylan),Klaricid Paediatric 250mg/5ml oral suspension,suspension.oral
+amp,9742311000001103,9739611000001100,0501050B0BDAAAK,Clarosip 125mg granules for oral suspension straws (Grunenthal Ltd),Clarosip 125mg granules for oral suspension straws,suspension.oral
+amp,9742411000001105,9739911000001106,0501050B0BDABAL,Clarosip 187.5mg granules for oral suspension straws (Grunenthal Ltd),Clarosip 187.5mg granules for oral suspension straws,suspension.oral
+amp,9742511000001109,9740211000001105,0501050B0BDACAM,Clarosip 250mg granules for oral suspension straws (Grunenthal Ltd),Clarosip 250mg granules for oral suspension straws,suspension.oral
+amp,36142611000001107,18149211000001106,0501050B0BEAAAE,Clarie XL 500mg tablets (Teva UK Ltd),Clarie XL 500mg tablets,tabletmodified-release.oral
+amp,36142611000001107,21667211000001100,0501050B0BFAAAE,Mycifor XL 500mg tablets (Forum Products Ltd),Mycifor XL 500mg tablets,tabletmodified-release.oral
+amp,36142611000001107,21708211000001106,0501050B0BGAAAE,Febzin XL 500mg tablets (Actavis UK Ltd),Febzin XL 500mg tablets,tabletmodified-release.oral
+amp,36142611000001107,33656011000001109,0501050B0BHAAAE,Xetinin XL 500mg tablets (Morningside Healthcare Ltd),Xetinin XL 500mg tablets,tabletmodified-release.oral
+amp,324178009,7211000001107,0501050C0AAABAB,Erythromycin 250mg gastro-resistant tablets (Ranbaxy (UK) Ltd),Erythromycin 250mg gastro-resistant tablets,tabletgastro-resistant.oral
+amp,324178009,89511000001103,0501050C0AAABAB,Erythromycin 250mg gastro-resistant tablets (Abbott Laboratories Ltd),Erythromycin 250mg gastro-resistant tablets,tabletgastro-resistant.oral
+amp,324178009,126311000001101,0501050C0AAABAB,Erythromycin 250mg gastro-resistant tablets (Mylan),Erythromycin 250mg gastro-resistant tablets,tabletgastro-resistant.oral
+amp,324178009,654811000001103,0501050C0AAABAB,Erythromycin 250mg gastro-resistant tablets (IVAX Pharmaceuticals UK Ltd),Erythromycin 250mg gastro-resistant tablets,tabletgastro-resistant.oral
+amp,324178009,687011000001109,0501050C0AAABAB,Erythromycin 250mg gastro-resistant tablets (Kent Pharmaceuticals Ltd),Erythromycin 250mg gastro-resistant tablets,tabletgastro-resistant.oral
+amp,324178009,689511000001108,0501050C0AAABAB,Erythromycin 250mg gastro-resistant tablets (Actavis UK Ltd),Erythromycin 250mg gastro-resistant tablets,tabletgastro-resistant.oral
+amp,324178009,766711000001101,0501050C0AAABAB,Erythromycin 250mg gastro-resistant tablets (A A H Pharmaceuticals Ltd),Erythromycin 250mg gastro-resistant tablets,tabletgastro-resistant.oral
+amp,324178009,789411000001103,0501050C0AAABAB,Erythromycin 250mg gastro-resistant tablets (Alliance Healthcare (Distribution) Ltd),Erythromycin 250mg gastro-resistant tablets,tabletgastro-resistant.oral
+amp,324178009,919211000001106,0501050C0AAABAB,Erythromycin 250mg gastro-resistant tablets (Teva UK Ltd),Erythromycin 250mg gastro-resistant tablets,tabletgastro-resistant.oral
+amp,324178009,4330011000001104,0501050C0AAABAB,Erythromycin 250mg gastro-resistant tablets (Sandoz Ltd),Erythromycin 250mg gastro-resistant tablets,tabletgastro-resistant.oral
+amp,324178009,9795911000001100,0501050C0AAABAB,Erythromycin 250mg gastro-resistant tablets (Almus Pharmaceuticals Ltd),Erythromycin 250mg gastro-resistant tablets,tabletgastro-resistant.oral
+amp,324178009,10406411000001108,0501050C0AAABAB,Erythromycin 250mg gastro-resistant tablets (Arrow Generics Ltd),Erythromycin 250mg gastro-resistant tablets,tabletgastro-resistant.oral
+amp,324178009,11020911000001106,0501050C0AAABAB,Erythromycin 250mg gastro-resistant tablets (Dr Reddy's Laboratories (UK) Ltd),Erythromycin 250mg gastro-resistant tablets,tabletgastro-resistant.oral
+amp,324178009,17198711000001106,0501050C0AAABAB,Erythromycin 250mg gastro-resistant tablets (Sovereign Medical Ltd),Erythromycin 250mg gastro-resistant tablets,tabletgastro-resistant.oral
+amp,324178009,17903711000001101,0501050C0AAABAB,Erythromycin 250mg gastro-resistant tablets (Phoenix Healthcare Distribution Ltd),Erythromycin 250mg gastro-resistant tablets,tabletgastro-resistant.oral
+amp,324178009,18281911000001106,0501050C0AAABAB,Erythromycin 250mg gastro-resistant tablets (Strides Pharma UK Ltd),Erythromycin 250mg gastro-resistant tablets,tabletgastro-resistant.oral
+amp,324178009,19191611000001104,0501050C0AAABAB,Erythromycin 250mg gastro-resistant tablets (Milpharm Ltd),Erythromycin 250mg gastro-resistant tablets,tabletgastro-resistant.oral
+amp,324178009,19733011000001108,0501050C0AAABAB,Erythromycin 250mg gastro-resistant tablets (Medreich Plc),Erythromycin 250mg gastro-resistant tablets,tabletgastro-resistant.oral
+amp,324178009,21976211000001109,0501050C0AAABAB,Erythromycin 250mg gastro-resistant tablets (Waymade Healthcare Plc),Erythromycin 250mg gastro-resistant tablets,tabletgastro-resistant.oral
+amp,324178009,23903911000001107,0501050C0AAABAB,Erythromycin 250mg gastro-resistant tablets (DE Pharmaceuticals),Erythromycin 250mg gastro-resistant tablets,tabletgastro-resistant.oral
+amp,324178009,24389111000001103,0501050C0AAABAB,Erythromycin 250mg gastro-resistant tablets (Bristol Laboratories Ltd),Erythromycin 250mg gastro-resistant tablets,tabletgastro-resistant.oral
+amp,324178009,29856311000001102,0501050C0AAABAB,Erythromycin 250mg gastro-resistant tablets (Sigma Pharmaceuticals Plc),Erythromycin 250mg gastro-resistant tablets,tabletgastro-resistant.oral
+amp,324178009,30825911000001105,0501050C0AAABAB,Erythromycin 250mg gastro-resistant tablets (Mawdsley-Brooks & Company Ltd),Erythromycin 250mg gastro-resistant tablets,tabletgastro-resistant.oral
+amp,324178009,32800711000001104,0501050C0AAABAB,Erythromycin 250mg gastro-resistant tablets (Genesis Pharmaceuticals Ltd),Erythromycin 250mg gastro-resistant tablets,tabletgastro-resistant.oral
+amp,324178009,35996611000001100,0501050C0AAABAB,Erythromycin 250mg gastro-resistant tablets (Ennogen Pharma Ltd),Erythromycin 250mg gastro-resistant tablets,tabletgastro-resistant.oral
+amp,324178009,38073211000001103,0501050C0AAABAB,Erythromycin 250mg gastro-resistant tablets (Noumed Life Sciences Ltd),Erythromycin 250mg gastro-resistant tablets,tabletgastro-resistant.oral
+amp,36064711000001106,258211000001108,0501050C0AAAKAK,Erythromycin 250mg gastro-resistant capsules (Alliance Healthcare (Distribution) Ltd),Erythromycin 250mg gastro-resistant capsules,capsulegastro-resistant.oral
+amp,36064711000001106,482311000001107,0501050C0AAAKAK,Erythromycin 250mg gastro-resistant capsules (A A H Pharmaceuticals Ltd),Erythromycin 250mg gastro-resistant capsules,capsulegastro-resistant.oral
+amp,36064711000001106,9563611000001105,0501050C0AAAKAK,Erythromycin 250mg gastro-resistant capsules (Teva UK Ltd),Erythromycin 250mg gastro-resistant capsules,capsulegastro-resistant.oral
+amp,36064711000001106,10139811000001105,0501050C0AAAKAK,Erythromycin 250mg gastro-resistant capsules (Kent Pharmaceuticals Ltd),Erythromycin 250mg gastro-resistant capsules,capsulegastro-resistant.oral
+amp,36064711000001106,10406211000001109,0501050C0AAAKAK,Erythromycin 250mg gastro-resistant capsules (Arrow Generics Ltd),Erythromycin 250mg gastro-resistant capsules,capsulegastro-resistant.oral
+amp,36064711000001106,20962611000001108,0501050C0AAAKAK,Erythromycin 250mg gastro-resistant capsules (Actavis UK Ltd),Erythromycin 250mg gastro-resistant capsules,capsulegastro-resistant.oral
+amp,36064711000001106,759811000001108,0501050C0BCAAAK,Erymax 250mg gastro-resistant capsules (Teva UK Ltd),Erymax 250mg gastro-resistant capsules,capsulegastro-resistant.oral
+amp,324178009,235411000001103,0501050C0BIAAAB,Rommix 250 EC tablets (Ashbourne Pharmaceuticals Ltd),Rommix 250 EC tablets,tabletgastro-resistant.oral
+amp,36064711000001106,165611000001108,0501050C0BKAAAK,Tiloryth 250mg gastro-resistant capsules (Tillomed Laboratories Ltd),Tiloryth 250mg gastro-resistant capsules,capsulegastro-resistant.oral
+amp,36064711000001106,4227311000001109,0501050C0BLAAAK,Kerymax 250mg gastro-resistant capsules (Kent Pharmaceuticals Ltd),Kerymax 250mg gastro-resistant capsules,capsulegastro-resistant.oral
+amp,324232005,231611000001103,0501050H0AAAAAA,Erythromycin ethyl succinate 125mg/5ml oral suspension (Sandoz Ltd),Erythromycin ethyl succinate 125mg/5ml oral suspension,suspension.oral
+amp,324232005,468911000001109,0501050H0AAAAAA,Erythromycin ethyl succinate 125mg/5ml oral suspension (Alliance Healthcare (Distribution) Ltd),Erythromycin ethyl succinate 125mg/5ml oral suspension,suspension.oral
+amp,324232005,469911000001101,0501050H0AAAAAA,Erythromycin ethyl succinate 125mg/5ml oral suspension (Kent Pharmaceuticals Ltd),Erythromycin ethyl succinate 125mg/5ml oral suspension,suspension.oral
+amp,324232005,682211000001102,0501050H0AAAAAA,Erythromycin ethyl succinate 125mg/5ml oral suspension (A A H Pharmaceuticals Ltd),Erythromycin ethyl succinate 125mg/5ml oral suspension,suspension.oral
+amp,324232005,838411000001100,0501050H0AAAAAA,Erythromycin ethyl succinate 125mg/5ml oral suspension (Actavis UK Ltd),Erythromycin ethyl succinate 125mg/5ml oral suspension,suspension.oral
+amp,324232005,10307311000001109,0501050H0AAAAAA,Erythromycin ethyl succinate 125mg/5ml oral suspension (Focus Pharmaceuticals Ltd),Erythromycin ethyl succinate 125mg/5ml oral suspension,suspension.oral
+amp,324232005,13620311000001107,0501050H0AAAAAA,Erythromycin ethyl succinate 125mg/5ml oral suspension (Pinewood Healthcare),Erythromycin ethyl succinate 125mg/5ml oral suspension,suspension.oral
+amp,324232005,17902311000001105,0501050H0AAAAAA,Erythromycin ethyl succinate 125mg/5ml oral suspension (Phoenix Healthcare Distribution Ltd),Erythromycin ethyl succinate 125mg/5ml oral suspension,suspension.oral
+amp,324232005,21935211000001101,0501050H0AAAAAA,Erythromycin ethyl succinate 125mg/5ml oral suspension (Waymade Healthcare Plc),Erythromycin ethyl succinate 125mg/5ml oral suspension,suspension.oral
+amp,324232005,23902711000001102,0501050H0AAAAAA,Erythromycin ethyl succinate 125mg/5ml oral suspension (DE Pharmaceuticals),Erythromycin ethyl succinate 125mg/5ml oral suspension,suspension.oral
+amp,324232005,29852211000001109,0501050H0AAAAAA,Erythromycin ethyl succinate 125mg/5ml oral suspension (Sigma Pharmaceuticals Plc),Erythromycin ethyl succinate 125mg/5ml oral suspension,suspension.oral
+amp,324233000,79111000001102,0501050H0AAABAB,Erythromycin ethyl succinate 250mg/5ml oral suspension (Kent Pharmaceuticals Ltd),Erythromycin ethyl succinate 250mg/5ml oral suspension,suspension.oral
+amp,324233000,103911000001104,0501050H0AAABAB,Erythromycin ethyl succinate 250mg/5ml oral suspension (Sandoz Ltd),Erythromycin ethyl succinate 250mg/5ml oral suspension,suspension.oral
+amp,324233000,398811000001108,0501050H0AAABAB,Erythromycin ethyl succinate 250mg/5ml oral suspension (Actavis UK Ltd),Erythromycin ethyl succinate 250mg/5ml oral suspension,suspension.oral
+amp,324233000,563411000001101,0501050H0AAABAB,Erythromycin ethyl succinate 250mg/5ml oral suspension (A A H Pharmaceuticals Ltd),Erythromycin ethyl succinate 250mg/5ml oral suspension,suspension.oral
+amp,324233000,816211000001107,0501050H0AAABAB,Erythromycin ethyl succinate 250mg/5ml oral suspension (Alliance Healthcare (Distribution) Ltd),Erythromycin ethyl succinate 250mg/5ml oral suspension,suspension.oral
+amp,324233000,10307711000001108,0501050H0AAABAB,Erythromycin ethyl succinate 250mg/5ml oral suspension (Focus Pharmaceuticals Ltd),Erythromycin ethyl succinate 250mg/5ml oral suspension,suspension.oral
+amp,324233000,13620511000001101,0501050H0AAABAB,Erythromycin ethyl succinate 250mg/5ml oral suspension (Pinewood Healthcare),Erythromycin ethyl succinate 250mg/5ml oral suspension,suspension.oral
+amp,324233000,17902811000001101,0501050H0AAABAB,Erythromycin ethyl succinate 250mg/5ml oral suspension (Phoenix Healthcare Distribution Ltd),Erythromycin ethyl succinate 250mg/5ml oral suspension,suspension.oral
+amp,324233000,21975211000001103,0501050H0AAABAB,Erythromycin ethyl succinate 250mg/5ml oral suspension (Waymade Healthcare Plc),Erythromycin ethyl succinate 250mg/5ml oral suspension,suspension.oral
+amp,324233000,23902911000001100,0501050H0AAABAB,Erythromycin ethyl succinate 250mg/5ml oral suspension (DE Pharmaceuticals),Erythromycin ethyl succinate 250mg/5ml oral suspension,suspension.oral
+amp,324233000,29856111000001104,0501050H0AAABAB,Erythromycin ethyl succinate 250mg/5ml oral suspension (Sigma Pharmaceuticals Plc),Erythromycin ethyl succinate 250mg/5ml oral suspension,suspension.oral
+amp,324234006,237511000001108,0501050H0AAACAC,Erythromycin ethyl succinate 500mg/5ml oral suspension (Kent Pharmaceuticals Ltd),Erythromycin ethyl succinate 500mg/5ml oral suspension,suspension.oral
+amp,324234006,348611000001104,0501050H0AAACAC,Erythromycin ethyl succinate 500mg/5ml oral suspension (A A H Pharmaceuticals Ltd),Erythromycin ethyl succinate 500mg/5ml oral suspension,suspension.oral
+amp,324234006,605811000001107,0501050H0AAACAC,Erythromycin ethyl succinate 500mg/5ml oral suspension (Sandoz Ltd),Erythromycin ethyl succinate 500mg/5ml oral suspension,suspension.oral
+amp,324234006,845911000001101,0501050H0AAACAC,Erythromycin ethyl succinate 500mg/5ml oral suspension (Alliance Healthcare (Distribution) Ltd),Erythromycin ethyl succinate 500mg/5ml oral suspension,suspension.oral
+amp,324234006,889511000001102,0501050H0AAACAC,Erythromycin ethyl succinate 500mg/5ml oral suspension (Actavis UK Ltd),Erythromycin ethyl succinate 500mg/5ml oral suspension,suspension.oral
+amp,324234006,10308311000001105,0501050H0AAACAC,Erythromycin ethyl succinate 500mg/5ml oral suspension (Focus Pharmaceuticals Ltd),Erythromycin ethyl succinate 500mg/5ml oral suspension,suspension.oral
+amp,324234006,13620711000001106,0501050H0AAACAC,Erythromycin ethyl succinate 500mg/5ml oral suspension (Pinewood Healthcare),Erythromycin ethyl succinate 500mg/5ml oral suspension,suspension.oral
+amp,324234006,17903311000001100,0501050H0AAACAC,Erythromycin ethyl succinate 500mg/5ml oral suspension (Phoenix Healthcare Distribution Ltd),Erythromycin ethyl succinate 500mg/5ml oral suspension,suspension.oral
+amp,324234006,21975411000001104,0501050H0AAACAC,Erythromycin ethyl succinate 500mg/5ml oral suspension (Waymade Healthcare Plc),Erythromycin ethyl succinate 500mg/5ml oral suspension,suspension.oral
+amp,324234006,23903111000001109,0501050H0AAACAC,Erythromycin ethyl succinate 500mg/5ml oral suspension (DE Pharmaceuticals),Erythromycin ethyl succinate 500mg/5ml oral suspension,suspension.oral
+amp,324234006,29856611000001107,0501050H0AAACAC,Erythromycin ethyl succinate 500mg/5ml oral suspension (Sigma Pharmaceuticals Plc),Erythromycin ethyl succinate 500mg/5ml oral suspension,suspension.oral
+amp,324179001,32163811000001106,0501050H0AAAEAE,Erythromycin ethyl succinate 500mg tablets (Dawa Ltd),Erythromycin ethyl succinate 500mg tablets,tablet.oral
+amp,324179001,32506411000001108,0501050H0AAAEAE,Erythromycin ethyl succinate 500mg tablets (Alliance Healthcare (Distribution) Ltd),Erythromycin ethyl succinate 500mg tablets,tablet.oral
+amp,324179001,37149211000001103,0501050H0AAAEAE,Erythromycin ethyl succinate 500mg tablets (P.I.E. Pharma Ltd),Erythromycin ethyl succinate 500mg tablets,tablet.oral
+amp,324179001,37376611000001104,0501050H0AAAEAE,Erythromycin ethyl succinate 500mg tablets (DE Pharmaceuticals),Erythromycin ethyl succinate 500mg tablets,tablet.oral
+amp,36564711000001108,2411000001108,0501050H0AAALAL,Erythromycin ethyl succinate 125mg/5ml oral suspension sugar free (IVAX Pharmaceuticals UK Ltd),Erythromycin ethyl succinate 125mg/5ml susp sugar free,suspension.oral
+amp,36564711000001108,173511000001103,0501050H0AAALAL,Erythromycin ethyl succinate 125mg/5ml oral suspension sugar free (Teva UK Ltd),Erythromycin ethyl succinate 125mg/5ml susp sugar free,suspension.oral
+amp,36564711000001108,481911000001102,0501050H0AAALAL,Erythromycin ethyl succinate 125mg/5ml oral suspension sugar free (A A H Pharmaceuticals Ltd),Erythromycin ethyl succinate 125mg/5ml susp sugar free,suspension.oral
+amp,36564711000001108,549711000001102,0501050H0AAALAL,Erythromycin ethyl succinate 125mg/5ml oral suspension sugar free (Mylan),Erythromycin ethyl succinate 125mg/5ml susp sugar free,suspension.oral
+amp,36564711000001108,580111000001102,0501050H0AAALAL,Erythromycin ethyl succinate 125mg/5ml oral suspension sugar free (Alliance Healthcare (Distribution) Ltd),Erythromycin ethyl succinate 125mg/5ml susp sugar free,suspension.oral
+amp,36564711000001108,840611000001104,0501050H0AAALAL,Erythromycin ethyl succinate 125mg/5ml oral suspension sugar free (Kent Pharmaceuticals Ltd),Erythromycin ethyl succinate 125mg/5ml susp sugar free,suspension.oral
+amp,36564711000001108,10060511000001100,0501050H0AAALAL,Erythromycin ethyl succinate 125mg/5ml oral suspension sugar free (Abbott Laboratories Ltd),Erythromycin ethyl succinate 125mg/5ml susp sugar free,suspension.oral
+amp,36564711000001108,10307511000001103,0501050H0AAALAL,Erythromycin ethyl succinate 125mg/5ml oral suspension sugar free (Focus Pharmaceuticals Ltd),Erythromycin ethyl succinate 125mg/5ml susp sugar free,suspension.oral
+amp,36564711000001108,13620911000001108,0501050H0AAALAL,Erythromycin ethyl succinate 125mg/5ml oral suspension sugar free (Pinewood Healthcare),Erythromycin ethyl succinate 125mg/5ml susp sugar free,suspension.oral
+amp,36564711000001108,17902611000001100,0501050H0AAALAL,Erythromycin ethyl succinate 125mg/5ml oral suspension sugar free (Phoenix Healthcare Distribution Ltd),Erythromycin ethyl succinate 125mg/5ml susp sugar free,suspension.oral
+amp,36564711000001108,21975611000001101,0501050H0AAALAL,Erythromycin ethyl succinate 125mg/5ml oral suspension sugar free (Waymade Healthcare Plc),Erythromycin ethyl succinate 125mg/5ml susp sugar free,suspension.oral
+amp,36564711000001108,23903311000001106,0501050H0AAALAL,Erythromycin ethyl succinate 125mg/5ml oral suspension sugar free (DE Pharmaceuticals),Erythromycin ethyl succinate 125mg/5ml susp sugar free,suspension.oral
+amp,36564711000001108,29851811000001101,0501050H0AAALAL,Erythromycin ethyl succinate 125mg/5ml oral suspension sugar free (Sigma Pharmaceuticals Plc),Erythromycin ethyl succinate 125mg/5ml susp sugar free,suspension.oral
+amp,36564711000001108,30125811000001107,0501050H0AAALAL,Erythromycin ethyl succinate 125mg/5ml oral suspension sugar free (Mawdsley-Brooks & Company Ltd),Erythromycin ethyl succinate 125mg/5ml susp sugar free,suspension.oral
+amp,324192003,177211000001105,0501050H0AAAMAM,Erythromycin ethyl succinate 250mg/5ml oral suspension sugar free (A A H Pharmaceuticals Ltd),Erythromycin ethyl succinate 250mg/5ml susp sugar free,suspension.oral
+amp,324192003,273611000001101,0501050H0AAAMAM,Erythromycin ethyl succinate 250mg/5ml oral suspension sugar free (IVAX Pharmaceuticals UK Ltd),Erythromycin ethyl succinate 250mg/5ml susp sugar free,suspension.oral
+amp,324192003,364011000001109,0501050H0AAAMAM,Erythromycin ethyl succinate 250mg/5ml oral suspension sugar free (Alliance Healthcare (Distribution) Ltd),Erythromycin ethyl succinate 250mg/5ml susp sugar free,suspension.oral
+amp,324192003,506011000001101,0501050H0AAAMAM,Erythromycin ethyl succinate 250mg/5ml oral suspension sugar free (Kent Pharmaceuticals Ltd),Erythromycin ethyl succinate 250mg/5ml susp sugar free,suspension.oral
+amp,324192003,592611000001105,0501050H0AAAMAM,Erythromycin ethyl succinate 250mg/5ml oral suspension sugar free (Teva UK Ltd),Erythromycin ethyl succinate 250mg/5ml susp sugar free,suspension.oral
+amp,324192003,784711000001108,0501050H0AAAMAM,Erythromycin ethyl succinate 250mg/5ml oral suspension sugar free (Mylan),Erythromycin ethyl succinate 250mg/5ml susp sugar free,suspension.oral
+amp,324192003,10060711000001105,0501050H0AAAMAM,Erythromycin ethyl succinate 250mg/5ml oral suspension sugar free (Abbott Laboratories Ltd),Erythromycin ethyl succinate 250mg/5ml susp sugar free,suspension.oral
+amp,324192003,10308011000001107,0501050H0AAAMAM,Erythromycin ethyl succinate 250mg/5ml oral suspension sugar free (Focus Pharmaceuticals Ltd),Erythromycin ethyl succinate 250mg/5ml susp sugar free,suspension.oral
+amp,324192003,13621111000001104,0501050H0AAAMAM,Erythromycin ethyl succinate 250mg/5ml oral suspension sugar free (Pinewood Healthcare),Erythromycin ethyl succinate 250mg/5ml susp sugar free,suspension.oral
+amp,324192003,17903011000001103,0501050H0AAAMAM,Erythromycin ethyl succinate 250mg/5ml oral suspension sugar free (Phoenix Healthcare Distribution Ltd),Erythromycin ethyl succinate 250mg/5ml susp sugar free,suspension.oral
+amp,324192003,21975811000001102,0501050H0AAAMAM,Erythromycin ethyl succinate 250mg/5ml oral suspension sugar free (Waymade Healthcare Plc),Erythromycin ethyl succinate 250mg/5ml susp sugar free,suspension.oral
+amp,324192003,23903511000001100,0501050H0AAAMAM,Erythromycin ethyl succinate 250mg/5ml oral suspension sugar free (DE Pharmaceuticals),Erythromycin ethyl succinate 250mg/5ml susp sugar free,suspension.oral
+amp,324192003,29852611000001106,0501050H0AAAMAM,Erythromycin ethyl succinate 250mg/5ml oral suspension sugar free (Sigma Pharmaceuticals Plc),Erythromycin ethyl succinate 250mg/5ml susp sugar free,suspension.oral
+amp,324192003,30810111000001105,0501050H0AAAMAM,Erythromycin ethyl succinate 250mg/5ml oral suspension sugar free (Mawdsley-Brooks & Company Ltd),Erythromycin ethyl succinate 250mg/5ml susp sugar free,suspension.oral
+amp,324203007,78611000001101,0501050H0AAANAN,Erythromycin ethyl succinate 500mg/5ml oral suspension sugar free (Kent Pharmaceuticals Ltd),Erythromycin ethyl succinate 500mg/5ml susp sugar free,suspension.oral
+amp,324203007,364211000001104,0501050H0AAANAN,Erythromycin ethyl succinate 500mg/5ml oral suspension sugar free (IVAX Pharmaceuticals UK Ltd),Erythromycin ethyl succinate 500mg/5ml susp sugar free,suspension.oral
+amp,324203007,415511000001109,0501050H0AAANAN,Erythromycin ethyl succinate 500mg/5ml oral suspension sugar free (Mylan),Erythromycin ethyl succinate 500mg/5ml susp sugar free,suspension.oral
+amp,324203007,433911000001109,0501050H0AAANAN,Erythromycin ethyl succinate 500mg/5ml oral suspension sugar free (A A H Pharmaceuticals Ltd),Erythromycin ethyl succinate 500mg/5ml susp sugar free,suspension.oral
+amp,324203007,626611000001105,0501050H0AAANAN,Erythromycin ethyl succinate 500mg/5ml oral suspension sugar free (Alliance Healthcare (Distribution) Ltd),Erythromycin ethyl succinate 500mg/5ml susp sugar free,suspension.oral
+amp,324203007,848711000001105,0501050H0AAANAN,Erythromycin ethyl succinate 500mg/5ml oral suspension sugar free (Teva UK Ltd),Erythromycin ethyl succinate 500mg/5ml susp sugar free,suspension.oral
+amp,324203007,10060911000001107,0501050H0AAANAN,Erythromycin ethyl succinate 500mg/5ml oral suspension sugar free (Abbott Laboratories Ltd),Erythromycin ethyl succinate 500mg/5ml susp sugar free,suspension.oral
+amp,324203007,10308511000001104,0501050H0AAANAN,Erythromycin ethyl succinate 500mg/5ml oral suspension sugar free (Focus Pharmaceuticals Ltd),Erythromycin ethyl succinate 500mg/5ml susp sugar free,suspension.oral
+amp,324203007,13621311000001102,0501050H0AAANAN,Erythromycin ethyl succinate 500mg/5ml oral suspension sugar free (Pinewood Healthcare),Erythromycin ethyl succinate 500mg/5ml susp sugar free,suspension.oral
+amp,324203007,17903511000001106,0501050H0AAANAN,Erythromycin ethyl succinate 500mg/5ml oral suspension sugar free (Phoenix Healthcare Distribution Ltd),Erythromycin ethyl succinate 500mg/5ml susp sugar free,suspension.oral
+amp,324203007,21976011000001104,0501050H0AAANAN,Erythromycin ethyl succinate 500mg/5ml oral suspension sugar free (Waymade Healthcare Plc),Erythromycin ethyl succinate 500mg/5ml susp sugar free,suspension.oral
+amp,324203007,23903711000001105,0501050H0AAANAN,Erythromycin ethyl succinate 500mg/5ml oral suspension sugar free (DE Pharmaceuticals),Erythromycin ethyl succinate 500mg/5ml susp sugar free,suspension.oral
+amp,324179001,580811000001109,0501050H0BDAIAE,Erythroped A 500mg tablets (Advanz Pharma),Erythroped A 500mg tablets,tablet.oral
+amp,324192003,108811000001104,0501050H0BDAMAM,Erythroped SF 250mg/5ml oral suspension (Advanz Pharma),Erythroped SF 250mg/5ml oral suspension,suspension.oral
+amp,36564711000001108,294211000001105,0501050H0BDANAL,Erythroped PI SF 125mg/5ml oral suspension (Advanz Pharma),Erythroped PI SF 125mg/5ml oral suspension,suspension.oral
+amp,324203007,178911000001100,0501050H0BDAPAN,Erythroped Forte SF 500mg/5ml oral suspension (Advanz Pharma),Erythroped Forte SF 500mg/5ml oral suspension,suspension.oral
+amp,324180003,37911311000001102,0501050N0AAAAAA,Erythromycin stearate 250mg tablets (Key Pharmaceuticals Ltd),Erythromycin stearate 250mg tablets,tablet.oral
+amp,324180003,38215511000001102,0501050N0AAAAAA,Erythromycin stearate 250mg tablets (Alliance Healthcare (Distribution) Ltd),Erythromycin stearate 250mg tablets,tablet.oral
+amp,324181004,37911611000001107,0501050N0AAABAB,Erythromycin stearate 500mg tablets (Key Pharmaceuticals Ltd),Erythromycin stearate 500mg tablets,tablet.oral
+amp,324181004,38215811000001104,0501050N0AAABAB,Erythromycin stearate 500mg tablets (Alliance Healthcare (Distribution) Ltd),Erythromycin stearate 500mg tablets,tablet.oral
+amp,324180003,274611000001103,0501050N0BBAAAA,Erythrocin 250 tablets (Advanz Pharma),Erythrocin 250 tablets,tablet.oral
+amp,324181004,30611000001101,0501050N0BBABAB,Erythrocin 500 tablets (Advanz Pharma),Erythrocin 500 tablets,tablet.oral
+amp,324180003,17628011000001101,0501050N0BCAAAA,Erythrolar 250mg tablets (Ennogen Pharma Ltd),Erythrolar 250mg tablets,tablet.oral
+amp,324181004,17627611000001109,0501050N0BCABAB,Erythrolar 500mg tablets (Ennogen Pharma Ltd),Erythrolar 500mg tablets,tablet.oral
+amp,407790000,98311000001102,0501050T0BBAAAA,Ketek 400mg tablets (Sanofi),Ketek 400mg tablets,tablet.oral
+vmp,324252006,324252006,0501050A0AAAAAA,Azithromycin 250mg capsules,Azithromycin 250mg capsules,capsule.oral
+vmp,324253001,324253001,0501050A0AAABAB,Azithromycin 200mg/5ml oral suspension,Azithromycin 200mg/5ml oral suspension,suspension.oral
+vmp,324258005,324258005,0501050A0AAADAD,Azithromycin 500mg tablets,Azithromycin 500mg tablets,tablet.oral
+vmp,11034311000001100,11034311000001100,0501050A0AAAGAG,Azithromycin 250mg tablets,Azithromycin 250mg tablets,tablet.oral
+vmp,29668711000001101,29668711000001101,0501050A0AAAHAH,Azithromycin 200mg/5ml oral suspension sugar free,Azithromycin 200mg/5ml oral suspension sugar free,suspension.oral
+vmp,324238009,324238009,0501050B0AAAAAA,Clarithromycin 250mg tablets,Clarithromycin 250mg tablets,tablet.oral
+vmp,35368711000001104,35368711000001104,0501050B0AAABAB,Clarithromycin 125mg/5ml oral suspension,Clarithromycin 125mg/5ml oral suspension,suspension.oral
+vmp,324244008,324244008,0501050B0AAADAD,Clarithromycin 500mg tablets,Clarithromycin 500mg tablets,tablet.oral
+vmp,36142611000001107,36142611000001107,0501050B0AAAEAE,Clarithromycin 500mg modified-release tablets,Clarithromycin 500mg modified-release tablets,tabletmodified-release.oral
+vmp,324248006,324248006,0501050B0AAAFAF,Clarithromycin 250mg granules sachets,Clarithromycin 250mg granules sachets,suspension.oral
+vmp,4977911000001105,4977911000001105,0501050B0AAAGAG,Clarithromycin 125mg granules sachets,Clarithromycin 125mg granules sachets,suspension.oral
+vmp,37083211000001101,37083211000001101,0501050B0AAAHAH,Clarithromycin 250mg/5ml oral suspension,Clarithromycin 250mg/5ml oral suspension,suspension.oral
+vmp,9742311000001103,9742311000001103,0501050B0AAAKAK,Clarithromycin 125mg granules straws,Clarithromycin 125mg granules straws,suspension.oral
+vmp,9742411000001105,9742411000001105,0501050B0AAALAL,Clarithromycin 187.5mg granules straws,Clarithromycin 187.5mg granules straws,suspension.oral
+vmp,9742511000001109,9742511000001109,0501050B0AAAMAM,Clarithromycin 250mg granules straws,Clarithromycin 250mg granules straws,suspension.oral
+vmp,324178009,324178009,0501050C0AAABAB,Erythromycin 250mg gastro-resistant tablets,Erythromycin 250mg gastro-resistant tablets,tabletgastro-resistant.oral
+vmp,36064711000001106,36064711000001106,0501050C0AAAKAK,Erythromycin 250mg gastro-resistant capsules,Erythromycin 250mg gastro-resistant capsules,capsulegastro-resistant.oral
+vmp,324232005,324232005,0501050H0AAAAAA,Erythromycin ethyl succinate 125mg/5ml oral suspension,Erythromycin ethyl succinate 125mg/5ml oral suspension,suspension.oral
+vmp,324233000,324233000,0501050H0AAABAB,Erythromycin ethyl succinate 250mg/5ml oral suspension,Erythromycin ethyl succinate 250mg/5ml oral suspension,suspension.oral
+vmp,324234006,324234006,0501050H0AAACAC,Erythromycin ethyl succinate 500mg/5ml oral suspension,Erythromycin ethyl succinate 500mg/5ml oral suspension,suspension.oral
+vmp,324179001,324179001,0501050H0AAAEAE,Erythromycin ethyl succinate 500mg tablets,Erythromycin ethyl succinate 500mg tablets,tablet.oral
+vmp,36564711000001108,36564711000001108,0501050H0AAALAL,Erythromycin ethyl succinate 125mg/5ml oral suspension sugar free,Erythromycin ethyl succinate 125mg/5ml susp sugar free,suspension.oral
+vmp,324192003,324192003,0501050H0AAAMAM,Erythromycin ethyl succinate 250mg/5ml oral suspension sugar free,Erythromycin ethyl succinate 250mg/5ml susp sugar free,suspension.oral
+vmp,324203007,324203007,0501050H0AAANAN,Erythromycin ethyl succinate 500mg/5ml oral suspension sugar free,Erythromycin ethyl succinate 500mg/5ml susp sugar free,suspension.oral
+vmp,324180003,324180003,0501050N0AAAAAA,Erythromycin stearate 250mg tablets,Erythromycin stearate 250mg tablets,tablet.oral
+vmp,324181004,324181004,0501050N0AAABAB,Erythromycin stearate 500mg tablets,Erythromycin stearate 500mg tablets,tablet.oral
+vmp,407790000,407790000,0501050T0AAAAAA,Telithromycin 400mg tablets,Telithromycin 400mg tablets,tablet.oral
